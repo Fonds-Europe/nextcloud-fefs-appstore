@@ -1,0 +1,175 @@
+name: Update App Store
+
+on:
+  # Manual trigger
+  workflow_dispatch:
+
+  # Triggered by FEFS Cockpit repository when a new release is created
+  repository_dispatch:
+    types: [new-release]
+
+  # Daily update to catch new official Nextcloud apps
+  schedule:
+    - cron: '0 2 * * *'  # Run at 2 AM UTC daily
+
+jobs:
+  merge-appstore:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch official Nextcloud app store
+        run: |
+          echo "Fetching official Nextcloud app store..."
+          curl -L -H "User-Agent: Mozilla/5.0" \
+            https://apps.nextcloud.com/api/v1/apps.json \
+            -o official-apps.json
+          echo "✓ Official app store fetched ($(cat official-apps.json | grep -o '"id":' | wc -l) apps)"
+
+      - name: Fetch latest FEFS Cockpit release
+        id: fefs-release
+        run: |
+          echo "Fetching latest FEFS Cockpit release..."
+          LATEST_RELEASE=$(curl -s https://api.github.com/repos/Fonds-Europe/nextcloud-fefs-cockpit/releases/latest)
+          VERSION=$(echo "$LATEST_RELEASE" | jq -r '.tag_name')
+          CREATED=$(echo "$LATEST_RELEASE" | jq -r '.created_at')
+          TARBALL_URL=$(echo "$LATEST_RELEASE" | jq -r '.tarball_url')
+
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "created=$CREATED" >> $GITHUB_OUTPUT
+          echo "tarball_url=$TARBALL_URL" >> $GITHUB_OUTPUT
+
+          echo "✓ Latest FEFS Cockpit release: $VERSION"
+
+      - name: Create merge script
+        run: |
+          cat > merge.mjs << 'EOF'
+          import fs from 'fs';
+
+          // Read official apps
+          const officialApps = JSON.parse(fs.readFileSync('official-apps.json', 'utf8'));
+
+          // Get FEFS Cockpit release info from environment
+          const version = process.env.FEFS_VERSION;
+          const created = process.env.FEFS_CREATED;
+          const tarballUrl = process.env.FEFS_TARBALL_URL;
+
+          // Create FEFS Cockpit app entry
+          const fefsCockpitApp = {
+            "id": "fefscockpit",
+            "categories": ["integration", "dashboard"],
+            "userDocs": "",
+            "adminDocs": "",
+            "developerDocs": "",
+            "issueTracker": "https://github.com/Fonds-Europe/nextcloud-fefs-cockpit/issues",
+            "website": "https://github.com/Fonds-Europe/nextcloud-fefs-cockpit",
+            "created": created,
+            "lastModified": new Date().toISOString(),
+            "releases": [{
+              "version": version.replace('v', ''),
+              "phpExtensions": [],
+              "databases": [],
+              "shellCommands": [],
+              "phpVersionSpec": ">=8.1",
+              "platformVersionSpec": ">=28.0.0 <32.0.0",
+              "minIntSize": 64,
+              "download": tarballUrl,
+              "created": created,
+              "licenses": ["agpl"],
+              "lastModified": new Date().toISOString(),
+              "isNightly": false,
+              "rawPhpVersionSpec": ">=8.1",
+              "rawPlatformVersionSpec": ">=28 <32",
+              "signature": "",
+              "translations": {
+                "en": {
+                  "changelog": `Release ${version}`
+                }
+              },
+              "signatureDigest": "sha512"
+            }],
+            "screenshots": [],
+            "translations": {
+              "en": {
+                "name": "FEFS Cockpit",
+                "summary": "European Funds Cockpit - Dashboard and Service Management",
+                "description": "FEFS Cockpit provides a comprehensive dashboard and service management system for European Funds. Features include customizable service links with Material Design Icons, drag-and-drop ordering, and a powerful icon chooser with fuzzy search."
+              }
+            },
+            "isFeatured": false,
+            "authors": [{
+              "name": "Fonds Europe",
+              "mail": "",
+              "homepage": "https://github.com/Fonds-Europe"
+            }],
+            "ratingRecent": 0,
+            "ratingOverall": 0,
+            "ratingNumRecent": 0,
+            "ratingNumOverall": 0,
+            "certificate": "",
+            "discussion": "https://github.com/Fonds-Europe/nextcloud-fefs-cockpit/discussions"
+          };
+
+          // Merge apps
+          const mergedApps = [...officialApps, fefsCockpitApp];
+
+          // Write merged JSON
+          fs.writeFileSync('apps.json', JSON.stringify(mergedApps, null, 2));
+
+          console.log(`✓ Merged ${officialApps.length} official apps + 1 FEFS Cockpit app`);
+          console.log(`✓ Total apps: ${mergedApps.length}`);
+          EOF
+
+      - name: Merge app stores
+        env:
+          FEFS_VERSION: ${{ steps.fefs-release.outputs.version }}
+          FEFS_CREATED: ${{ steps.fefs-release.outputs.created }}
+          FEFS_TARBALL_URL: ${{ steps.fefs-release.outputs.tarball_url }}
+        run: |
+          node merge.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if there are changes
+          if git diff --quiet apps.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git add apps.json
+          git commit -m "chore: Update app store with FEFS Cockpit ${{ steps.fefs-release.outputs.version }}
+
+          - Official Nextcloud apps: $(cat official-apps.json | grep -o '\"id\":' | wc -l)
+          - FEFS Cockpit version: ${{ steps.fefs-release.outputs.version }}
+          - Updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          🤖 Auto-generated by GitHub Actions"
+
+          git push
+
+      - name: Create release info
+        run: |
+          echo "## App Store Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Official Apps**: $(cat official-apps.json | grep -o '\"id\":' | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- **FEFS Cockpit Version**: ${{ steps.fefs-release.outputs.version }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Apps**: $(cat apps.json | grep -o '\"id\":' | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Updated**: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Public URL" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "https://raw.githubusercontent.com/Fonds-Europe/nextcloud-fefs-appstore/main/apps.json" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY

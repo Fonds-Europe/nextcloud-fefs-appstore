@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.log
+
+# Downloaded files (these are fetched by workflow)
+official-apps.json
+merge.mjs
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
