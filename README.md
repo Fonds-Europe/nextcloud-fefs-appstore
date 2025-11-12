@@ -78,7 +78,7 @@ To enable automatic triggers from the FEFS Cockpit repository:
 
 1. Go to FEFS Cockpit repository → Settings → Secrets and variables → Actions
 2. Create new repository secret:
-   - Name: `APPSTORE_TOKEN`
+   - Name: `GHP_TOKEN`
    - Value: Your personal access token
 
 ### 3. Add Workflow to FEFS Cockpit
@@ -101,7 +101,7 @@ jobs:
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer \${{ secrets.APPSTORE_TOKEN }}" \
+            -H "Authorization: Bearer \${{ secrets.GHP_TOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
             https://api.github.com/repos/Fonds-Europe/nextcloud-fefs-appstore/dispatches \
             -d '{"event_type":"new-release","client_payload":{"version":"\${{ github.event.release.tag_name }}","tarball_url":"\${{ github.event.release.tarball_url }}"}}'
