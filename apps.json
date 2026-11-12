@@ -12866,7 +12866,7 @@
     "issueTracker": "https://github.com/LibreSign/libresign/issues",
     "website": "https://github.com/LibreSign/libresign",
     "created": "2021-03-05T00:32:31.049437Z",
-    "lastModified": "2026-11-10T11:15:33.229243Z",
+    "lastModified": "2026-11-11T11:02:34.220888Z",
     "releases": [
       {
         "version": "9.9.6",
@@ -13319,15 +13319,15 @@
         "platformVersionSpec": ">=35.0.0 <36.0.0",
         "minIntSize": 32,
         "download": "https://github.com/LibreSign/libresign/releases/download/nightly/libresign-nightly.tar.gz",
-        "created": "2026-11-10T11:15:33.249275Z",
+        "created": "2026-11-11T11:02:34.241475Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-10T11:15:33.260655Z",
+        "lastModified": "2026-11-11T11:02:34.254569Z",
         "isNightly": true,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=35 <=35",
-        "signature": "1Y2QsX65Zf1qzhUygWGNpz2x7ElobCRO13c66VZwAI9K7SKHXqDHV8Re5sT/Zl5mVv50HgAAF1EpEFyRZfdK5UahQAAyNzzSDvreF4x0+1kRJa19PwEk2ltDKtxHJzAFu8Venvcd+suGINi1qU/w8KNemX30Urwlnfb5Lfn2+oVaB2YlVoSGb1Xdmw3SJKLlHyJLfQEXfgb3kfEBlG1lmsTG+VNECdwUaWpcc5blwF5pGBCaO1qJoRWrCfZvEzPN+gtW/gkQ/gVKedYXmMUTzK348+c/zmzUl149SG3bOelQU5s57FpZb+/1XlvzERtBzhk6PddVns5MPKnBNF5FZJCqJ9jkUgc72U/TsGXKsflfWFjXVhwJI+Z6mYzAMA2E1KOz5nTcTc/9os1ZOXAgoGcHGI1vcDVjscNdgZ5y3J0WBxHQbhiKtAhGtepG15OTvBrh5uSz9I+YtwsDmytlb/FNVWgP22tuZUg7GiOvtBpkfHRQw612P8pdn5aZGcr7OC55ETob/Gs5112VnlauikNOJXlmILxhVZGCycVZzjv5ci8yUvZ69nvbA3xG0OM2lpEk+WqLcuFrNEobQ+u8PB5IU4jMpKAgWc68JBNKWgNvFX7og4/PBgqOpjSDE76ama0yatpxUi0Gc9Jnt6AZibj4sVbX305+lyIbtex1+a0=",
+        "signature": "3E3GmnVf8nyo4seAcHycFxDSBpXjKHgGhbibVMpHtUJPCBxBRT8qgDJvC6m+zkGCMg2h89qIuRadkhEAD7X81U2JkO1vbIQnf36yrZvQzi4lYFEUnavlt5FPm4aDA7fqHUFsslQPBTSXsLHWD3QF8vNQxMGvZ+MluJBT9S5THPDv01f8pW81FVLw4KA8oU6FUvuSKgeALUuIkHIUTo9UX/Q+5yR6JcB2g/D0DpkhppuIfpzuI2N7m4r0SQLEsRCVGIewSTfsnyzZUwuMAYdvUItaltR0T8DLrCayBd8YX/7JMyFl2T77ZnsZN0kv6jiU6KFc1Tg+Z8n4Q0Gj0OHHBuWkV4PRK3EU3YpQOuLc36dOjy5Wd/32VII+hXnvoArQo2J+4Hr1bEsy3qnjXsjjEucku101iyu896IYvgJzuZd5c6Dnu//wnyQpUyquseUSWpECcVEn5VrPTbvqQONMv9Jlh63sTIRkE7l2vUP9Qef+5T4OJt4AFVHSTk6I3hyNRFZQSssAYry90VJ7Mys0C/qKvpQDeT1nVn/H0IgbaLuapDDq1uvFXi8k3EAB86NlMpaqh6+rEgZC8M8naJhqZBfkB2SdLsyUh2AOLg2RnLmoPkScGdsG9f3JovrMGW8tO4U9HtN2/EGeHYwd/ouRvABa5YjSpMoiAcRob63ge9Y=",
         "translations": {
           "en": {
             "changelog": ""
@@ -27005,7 +27005,7 @@
     "issueTracker": "https://github.com/xilleruniversum/Arbeitszeitapp-Xiller/issues",
     "website": "",
     "created": "2025-11-26T12:15:09.183084Z",
-    "lastModified": "2026-11-10T11:50:06.314381Z",
+    "lastModified": "2026-11-11T09:57:27.128289Z",
     "releases": [
       {
         "version": "1.4.0",
@@ -27015,16 +27015,16 @@
         "phpVersionSpec": ">=8.2.0 <8.6.0",
         "platformVersionSpec": ">=30.0.0 <34.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/xilleruniversum/Arbeitszeitapp-Xiller/releases/download/v1.4.0/timesheet-1.4.0.tar.gz",
+        "download": "https://github.com/xilleruniversum/Arbeitszeitapp-Xiller/releases/download/v1.4.0/timesheet-1.4.0-store.tar.gz",
         "created": "2026-11-10T11:50:06.307428Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-10T11:50:06.356953Z",
+        "lastModified": "2026-11-11T09:57:27.164044Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2 <=8.5",
         "rawPlatformVersionSpec": ">=30 <=33",
-        "signature": "gqQhQZvPFdHTpA8Nh6kMgtvFDcJd+FrziXtevfMdOkXoGzZlTxLy6oCYEi2RMRY3+6XHAWkm6xfWK32z18YLnIKs9kfPhqKpi+zszx0qm94o03mWNMkNpjCW9b9hXevFg7hTFIp4Fkcz5RkcWf/zZN4mU2FVPSVoum4EN/9PCpKE+ic9+5TUZH1mB0ZvoAM+PrZIrWi84NneiCgKOuhP4XaTksIBhFW5B1Wd+RTcuvlX4xvNBQojr8jgDjjiUTTfl8AhSV+P4W/0xVoEfKQKDhRFBWWwzuWXez4XFTV0REToz4ZYLilCDh3P+YRbKmfkWJIXiMSQ8zQ/PCZue+nHdExfNqO3pOr+vXoM5r+4LTe6GuZxVBNsW906gUeh3EYdfspCity1GGKIlJcUZAiUs9E38q4aRw/0SV3FqevnLMuKOsQahOaXIbRUkwBXJGXRFm+FrFXC53UP/9E3/qlLKzn6IdPX664UImtn+BnG93qv19zAek02G/N2Dcj72Ph9HMmKchrTTAdF1Eo1/9SmyBFM7UqFLd1JM6nAYRsWG1thmtdwcqzrPBNVWi+40/lKZhacwtCGzV9CvzENda5sPG+LZ7mUQjL6j0In5Gk6p6tf38/8S6w804/3eesdzrK9638rz5U0bBLXS1dm7kf+LUjy9c7SdrUYdVmQrL4jXzM=",
+        "signature": "trmKu+KJWMCKnhOXhq+ENXHeSekMrMAqZBOr4tIb63Zl2eYkLQwSdP1rC9ETjlt/iypVh/D7DISXJYVMWmz6O9HpohtDsvPiGo0CXpvdXfVhPK+P398auB+1nLjKhGbtWDMmysX0XsvS21Fo9dLlcyvzEMOQI8hNwbgiNiTnz3/QJohFpGSEVpAa5WroH8j50/wVzQTb4W7Xyjw2/FSiUMM8D9WMvSIIo7Ad8+LobpalpnB/Nd7ZLgbMKE8/WJBBeFs/HwC2sqHN1C9i9nkf23MnrqkbtlQCVzdBOdsHR9s4fSkAzBd9u1x5e8pghptBTZR3ZxM5RA+MhB+Ewjx06+DOTx7NiPUmByFrsHhFh6NNA2yo8BSI4NayrnUCoNlMEkf9k7TNbIZolGeZtliPSFFBc6bgqvILIpHIPpz/DooMAh+feXAklIP1kNrnRj7f1l/3jV5il1Qb/jrWc+xzeTGmF6Rt+53SHqt9ZmVSYgygSJoFuO0VTCcTDhcQtIRnCzz3Eq/CChIkwfE2QEvTyqpGYzBDpXZU9mFZ4XH7cz30Sz7WA51iiZUfPR5ZbODkrXgb2tsILuGOFtQkzefE/eFj5JT0OENJuRwlY0vXXJwNHCmfCnv0mM02tzBFd0wS+pZsySQDdg4wpel2hD0+m4zPGfeM1m+mAlh90or7k3I=",
         "translations": {
           "en": {
             "changelog": ""
@@ -48142,29 +48142,29 @@
     "issueTracker": "https://github.com/StreamLINE-Solutions/nextcloud-flowline/issues",
     "website": "https://flowline.support",
     "created": "2026-10-17T14:52:29.253565Z",
-    "lastModified": "2026-10-20T20:29:57.583674Z",
+    "lastModified": "2026-11-11T10:52:19.370697Z",
     "releases": [
       {
-        "version": "0.6.5",
+        "version": "0.6.6",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=33.0.0 <37.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/StreamLINE-Solutions/nextcloud-flowline/releases/download/v0.6.5/flowline.tar.gz",
-        "created": "2026-10-20T20:29:57.579175Z",
+        "download": "https://www.flowline.support/downloads/flowline-nextcloud-0.6.6.tar.gz",
+        "created": "2026-11-11T10:52:19.362046Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-10-20T20:29:57.631885Z",
+        "lastModified": "2026-11-11T10:52:19.428905Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=33 <=36",
-        "signature": "48tgeZ41q3VcLnt5A5yyxQ7RDuf3gPh486h8g/kkA26sMaOSbBemtLNQ+Yk8nGMDfX/cCG4pXYSvNjcsZKvSC4gysbvQFkRHfnKlVGci8rjxjAoo7V7XAf7lxuCCp/GpdVC+9+rZbnQx7qeqqWukC30fMPkmXigPmfuw/cn8WErSt04oYPUJEDUill9f9n7anivi07IhqEQaFGr9GjW78XSEH8jtxGWrKaA4Zn0fCFXuQ08+QK9kFg39eBDe+itc0s/p6N7Z71KZ29wYcLq0lrJ2QzT6OIpEPgQe++v4IpDxZMwcokQ9r6ONjdbiAo6Z5CIECjoEP702vGbC8Fy66dHyIgxF04k5pEn8XOowNkqkSgVXETa16KcwcKMa84GpAG8SEweyZ3Y2bEi5xTPRA5S+KM9TiNH06mR6AduUZ7CMsG94yt1WMMA1OHF/k0hXgMPalX6IEJjeelQfGQnheWUPe6Q8Vgz3zWBmxY28xhTzjDLQnW7lCRfZT3p7Dmqnc9FpKvCkniTUekfRXI6XpzTuAGIsvcDExCCvf5mKFes1sNF50An3F4/Z/3KplIEuscnBLX1u36573aZlQePzFJOou1wvKHsOEg1NpSneveJ9JG4ReycWJq25tiM4tBw/JeqNa2S59+6hveX4PiUyUyP5WEhH8Mce2s0vt8AP620=",
+        "signature": "E15dpeeN9NxkWNnQ1Hcx136r/5tZI4dmZip2RTrz/UlkJu9iA29bsYVYwb9GWAqoKJgQJgpv9hF8Jq6xR88IWrN0AdFGetINmftYcW+B9KwVfecOBRhbgvj3WLhLxc6Ti/BhK8kKYNeU4wFNFdIoYg4qKbeQFC1ox0OyfBQZZ+GTgvIy2CouqrL0pstQGhrG48NOaaeJNvJJxM/ZQimfZRIgM37QIXdSt9k9sh8JaH9X8623usm5j2dHfZvEu5Jsw2eVBY8rxXO46PyFpF3Yv589qAWTAVHXTMSDukxTIwUaEOtL2RUsIg3em5qpxG4z5FAruGlhlsfI+MH068n/rvVwy+W4X7bUc6X1ITsC9FYlUEHwmxluJkxVVUm5H1p099Tv/CuSWINNa/SSs5e8eKjeIytAy2e6NokP1pwjpMxCq65iaUjouEjyvXhEROT8HANzN+8NX8a5wrQwLV3HQ20J7lAJZJykP6hV3xiPmWnz+goz2SNhLlAVN57aR5wvfFrMXXt5npwi4dbw6ADPjDmwaYeCj3ZrTfiFf5aDS5nQsN7tvcwUFc7MxgxOTIUzWD/SaMaxFBHs3cnFldJWjJbalydOFXx+IC4ZkKlwlX6IAnPQxlL7Fa0VF0ul8Oex+m7DOHlZ+dp+CdDHB8O8mcsdLc+JowCswoPxXTMsqdo=",
         "translations": {
           "en": {
-            "changelog": "### Changed\n\n- Réglages admin : champs d'URL vides par défaut, sans placeholder ni URL en dur ;\n  la capture de la fiche store est mise à jour."
+            "changelog": "### Fixed\n\n- Les défauts pointent sur l'infrastructure actuelle : l'API par défaut est\n  `https://api.flowline.support`. L'ancien hôte `api-falcon.my-vth.ch` ne\n  résout plus depuis le 10.11.2026, donc une installation depuis le store\n  était inutilisable sans réglage manuel.\n- Assistance navigateur : les deux URL WebSocket ne sont plus préremplies (la\n  terminaison WSS des anciens hôtes n'existe plus). Sur une instance non\n  configurée, la page affiche une explication au lieu d'un client muet ; un\n  administrateur peut renseigner les deux URL dans les réglages pour l'activer."
           }
         },
         "signatureDigest": "sha512"
@@ -65710,33 +65710,8 @@
     "issueTracker": "https://github.com/nextcloud/contacts/issues",
     "website": "https://github.com/nextcloud/contacts#readme",
     "created": "2016-10-30T14:00:58.922766Z",
-    "lastModified": "2026-11-04T14:35:39.006606Z",
+    "lastModified": "2026-11-11T13:54:09.574769Z",
     "releases": [
-      {
-        "version": "8.9.5",
-        "phpExtensions": [],
-        "databases": [],
-        "shellCommands": [],
-        "phpVersionSpec": ">=8.2.0 <8.6.0",
-        "platformVersionSpec": ">=33.0.0 <37.0.0",
-        "minIntSize": 32,
-        "download": "https://github.com/nextcloud-releases/contacts/releases/download/v8.9.5/contacts-v8.9.5.tar.gz",
-        "created": "2026-11-03T21:00:06.108862Z",
-        "licenses": [
-          "AGPL-3.0-or-later"
-        ],
-        "lastModified": "2026-11-03T21:00:06.168572Z",
-        "isNightly": false,
-        "rawPhpVersionSpec": ">=8.2 <=8.5",
-        "rawPlatformVersionSpec": ">=33 <=36",
-        "signature": "jFgpJt4QzbPYleg89mvvEETzNJVMuQJy6e+uhU3doXSqDuHU+hmZqxH7GI+zU2Uh48/HEO11qu1hByzVePORCTHNNJRgu8pfHrcKtsJ7VSdr1eHlo6HHygovWjCbTBZ69GM5k9v5xv7WXTPMum6u7u2AZ1wnUPDhHDueRKrnNSIWVMJFpfhIAR/+eDXMJkxnHSwRIMw7doPvgMYZ4jGLyhwTKvhTr3Q0StsbsqL26BFjCDytylakUDRTeJzf2sp+ygqn7sX57r9priKdkGFTCWVwjeH1b6J8PZm+l/jsOMbPYMMRkpB/u7JmWYsrKG7xYkLjuV8/O9H3yetMl87BsEUw/zwqHbazDxNo8lTiltA3Dr2BGVNj89wki5MtazFA8+ujk/Cbm7luTTm2iwC7EXUsiQkfym52sScO6b3yFksiZ7CeAI/bxqvo+rEZfePtHhrd92kT1r9NFaB30gd+mIwpN7G3G3MJYTGCn2+VcGKce6bwIzWxxO6vtPNZPOPuEFo67OAJZ5Ijp/+g10vuapr7306ah8MI3WDnf8kkcuGM8Eg0gOV3R6hWbXqq3kQZlTbEPwd0aGL0xtuLUxEC4xEsak1CfBzMmNgMIeilNUicdtlbY4/kIoi/XVezLUJkzKnjaHPAPGZDQ1Ae2j7RAGFzCaJGVEX8m2M9eTUrhos=",
-        "translations": {
-          "en": {
-            "changelog": "### Bug Fixes\n\n* get locale in canonical format ([92758d9](https://github.com/nextcloud/contacts/commit/92758d968fd0b4ef0afb42633564dbd377f5fc06))\n* use canonical locale in org chart and fix l10n test mocks ([1d11a45](https://github.com/nextcloud/contacts/commit/1d11a45225262a6247ebb30fd6540859dcbdf80a))"
-          }
-        },
-        "signatureDigest": "sha512"
-      },
       {
         "version": "8.8.1",
         "phpExtensions": [],
@@ -65980,6 +65955,31 @@
         "rawPhpVersionSpec": ">=8.2 <=8.5",
         "rawPlatformVersionSpec": ">=33 <=36",
         "signature": "aAGl/A/UutqkopmsbHreLygEZF0OU82lnYZQ1d/+gef8ZRohnKn6oQADSFisBvcTBTVWbEsJNJIrz0f9yxKf6ZfPZHLOQs1/ryki9ZctjRGr5cqQMYxsrWulXF55UA35g0UlLA0AK1Gss9ti63yelfdKMdegIHAyyhESohb+2emyIvnWqX3myJ2KlVrU7Xiv03YTh5o6tY/kydajqP9sRwYsUgeaza70m2oazTfsMGbzXoeqJsqlT4xViMLN74Pr0rkyyDi9FOQ0oUDuKIUFeRiH+fqoAE4uWTpSd31OIgTvAQfv4mupTG/IZ+uewwq/+VWXosKM5W83An/bUJVvJfsDP1UvcJKK7+Wm+Lou54m+PMv+iEW42pESgiTbnuSf3s4cX/jIzDR21hNnu7KxNClXX5/7VMM3wyAQnNG1b6Pm0e8GbLzsCq7BLoQHKsuNKnUMbFW+zc35cNBqAAJy/SRy5KbbOkGSLj7IeQcSsFUbZ9n5xw1OFWfs0AF41P5No+ZtRtIJcCOu33fr7L8wBEWeJq+MAxV0C43AYo2VFml94D6hJNw/LesPSFQL0vWTL0wMAiLBXSGYqQm+VCfoi8iPPi1aPe47f+EXBe4/43B1L621U7GjVyN8BeZbqvGFJf7n3lA3+cBWJA3xQ6c1uxylWtL1UVkcLWzGygJb2+s=",
+        "translations": {
+          "en": {
+            "changelog": ""
+          }
+        },
+        "signatureDigest": "sha512"
+      },
+      {
+        "version": "8.10.0",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": ">=8.2.0 <8.6.0",
+        "platformVersionSpec": ">=33.0.0 <37.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/nextcloud-releases/contacts/releases/download/v8.10.0/contacts-v8.10.0.tar.gz",
+        "created": "2026-11-11T13:54:09.563520Z",
+        "licenses": [
+          "AGPL-3.0-or-later"
+        ],
+        "lastModified": "2026-11-11T13:54:09.614506Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": ">=8.2 <=8.5",
+        "rawPlatformVersionSpec": ">=33 <=36",
+        "signature": "A0X0Q35k32N+jcmOmX7pyWIQlQzu3zQvcos2X7xdma0qYl467/LTePXMgzlFEk/9aoVtBFiSzOYBkCAi2yqqbkEf24lxEaNyP5TOPFvzEMwcosYsPgoS/dOJGZS/313mB3UpsdU7N9On6yjw/fhlZHvUmmmEXn4jcun6Rth0YqsWYtjx7hu37ddRiiULaF8/ZCKiCtOSLh+pH3m/+6l/GCJ91recwwYeQRUfgKT6KB7gCn6Qa1NdE3H+/BshoOzrcJ1w7A4Lh4w47OFGi0DxmQ6UDS24sxlOGLeoJVAZAkdu+Uh3Bs4ENARwcNjLFvPaEGjl2qPPVz8XHlvS5As55Vg/08R0/y3k0pwy/Kn/nXNJyFvd1GfWqYG40h5Gr2kAfyLpCeRGcpVVRuhF31wXVDiMYp+mGlfhBUkCM3qHSfIJL1o4+TglD/eZ63XRmO9iLcTxyEWvIozuMcwlyF5ZcmUNQtsXw0c6Ffa6aKFEvvxwATq072gM+JooG8lAlToabiaoBIjZRK2SipOrBFCWlMGmDIKCfQ1nhwU1L+6t8Rzc0VpyNh+U2i0sEZq08S2bBoE9Pc+DFhDrsAzJZged7gSG3ZHVJo5qTzpvv6SCyUkx5YOkXpXpYA+AzYp1kasAC6A3j9upoJB6OK5pcPmWa7OjfVEjxRoBGlVkxM/N0LE=",
         "translations": {
           "en": {
             "changelog": ""
@@ -67111,7 +67111,11 @@
     ],
     "screenshots": [
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25leHRjbG91ZC9zY3JlZW5zaG90cy9tYXN0ZXIvYXBwcy9Db250YWN0cy9jb250YWN0cy5wbmc=",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25leHRjbG91ZC9jb250YWN0cy9tYWluL3NjcmVlbnNob3RzL2NvbnRhY3RzLTguMTAucG5n",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25leHRjbG91ZC9jb250YWN0cy9tYWluL3NjcmVlbnNob3RzL29yZ2FuaXphdGlvbi1jaGFydC04LjEwLnBuZw==",
         "smallThumbnail": ""
       }
     ],
@@ -73962,10 +73966,10 @@
     "issueTracker": "https://github.com/otherworld-dev/Shopping-List/issues",
     "website": "https://shoppinglist.otherworld.dev/",
     "created": "2026-04-07T16:14:46.763952Z",
-    "lastModified": "2026-10-20T19:43:32.247404Z",
+    "lastModified": "2026-11-12T01:59:58.267569Z",
     "releases": [
       {
-        "version": "1.13.1",
+        "version": "1.14.0",
         "phpExtensions": [
           {
             "id": "intl",
@@ -73978,19 +73982,19 @@
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=30.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/otherworld-dev/Shopping-List/releases/download/v1.13.1/shopping_list.tar.gz",
-        "created": "2026-10-20T19:43:32.243278Z",
+        "download": "https://github.com/otherworld-dev/Shopping-List/releases/download/v1.14.0/shopping_list.tar.gz",
+        "created": "2026-11-12T01:59:58.260782Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-10-20T19:43:32.291279Z",
+        "lastModified": "2026-11-12T01:59:58.305528Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=30 <=35",
-        "signature": "v4V1JkyesRPi5LtUYcXVo2w+Mn2wzyRNMSXARJ2Ng5HSCxE58N8E0Q4aGxxOqBKOYcsHzyCO87dHRX8NOaDrzKz5HJgYo0M+Gx/bkdVYwDY0RIg0dJAZkfq5SlW2Sk23te1yq4VeYL4qtyj+G1ruDkV1i0/FEr6C+dg5FX30MrA5Zh7BMA06+QAt+HlrOKidmiyRaOLrWP9NWgPbWSfyQhSgnKdrVh2SbfPhv7taQB+4+nBo1Uh9VEK8rqrba2hpaNpVfjSpmRexjLZBg8+1M7UcTAabDSkKPPfSjsMB8vdMNtVkThPP4wlxF2gD8fjfwM2suKViIWEKrPBa0Odc5w==",
+        "signature": "vZRB3okzkc4998P/kD3dZlg9t6sL+Id1iPFW33oYGm09tKMfC4gLhmyzDlBGJ5KAi9M3m5KTJi1iyQQtUg3h8fzAUQCFCSeoaoUd/6rEvcuej1jJ0FHmVnD8pyjA1YIGhkim3Seegaf7/6kfH5ypROTKF1TZLc8N+dA22omEOAhdb60VcxhnGtU2PQlsxY5k3W4EwCC+BYfeIIu4RelLqL8WmNkFRHJaolGg3Sva1i7wuX6RNX2ymzExfov1KtTaMQjpckVI4XpXAxpenbnSl/LCi0jCkvoiDfVWiS3sKuBqVIesoNj98xAe5jjyqQ3tIwhffSJUkcsMiJJjZ2bCyg==",
         "translations": {
           "en": {
-            "changelog": "### Fixed\n- Live updates work on servers with notify_push. The app looked for\n  notify_push in a way that never found it, so no update was ever pushed,\n  and the web app, which stops checking for changes when notify_push is\n  installed, only showed other people's changes after a reload. Changes\n  made through an app such as Home Assistant now also reach your own open\n  browser, as that browser didn't make them"
+            "changelog": "### Added\n- The lists API now says how many items are still unticked on each list\n  (`uncheckedCount`), so an app can show the number next to every list\n  without loading its items. The sidebar uses it too, so a list you haven't\n  opened yet shows its count straight away (#28 on the Android app)\n\n### Changed\n- Restore all and Delete all in the checked-off section now ask before they\n  act, so a stray tap can't wipe or reset the whole list (#62)\n- The donate link on the App Store goes to Ko-fi instead of PayPal\n- Updated German and Dutch translations\n\n### Fixed\n- Items added through a public share link are placed by the list's keywords,\n  as they are for members. They all went into the list's default area before,\n  so a guest's items weren't grouped by area (#58)\n- The delete action on an item has a bin icon. With only one list and item\n  photos switched off, delete is the only action, which Nextcloud shows as a\n  single button rather than a menu, and as it had no icon the button came\n  out blank (#59)"
           }
         },
         "signatureDigest": "sha512"
@@ -89289,7 +89293,7 @@
     "issueTracker": "https://github.com/JustinDoek/nextcloud-teamhub/issues",
     "website": "https://teamhub.doekworks.eu",
     "created": "2026-04-20T12:25:18.742306Z",
-    "lastModified": "2026-10-13T12:12:54.283996Z",
+    "lastModified": "2026-11-11T19:33:37.355362Z",
     "releases": [
       {
         "version": "4.7.1",
@@ -89312,6 +89316,31 @@
         "translations": {
           "en": {
             "changelog": ""
+          }
+        },
+        "signatureDigest": "sha512"
+      },
+      {
+        "version": "4.20.0",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": ">=8.1.0 <8.6.0",
+        "platformVersionSpec": ">=34.0.0 <36.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/JustinDoek/Nextcloud-Teamhub/releases/download/v4.20/teamhub.tar.gz",
+        "created": "2026-11-11T19:33:37.338277Z",
+        "licenses": [
+          "agpl"
+        ],
+        "lastModified": "2026-11-11T19:33:37.395338Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": ">=8.1 <=8.5",
+        "rawPlatformVersionSpec": ">=34 <=35",
+        "signature": "V2jm8zqvVdBmlHZ5DSbCFuqSQtscFFB69AkR2YIunu9SWtESJZiTj0/htd8XR9F1QGmMts7ZxhLV+2tEexEJc9uia2z5XjoY28SesmSITDrpllFvrtISzFw5NVCvyaXNgOvx2KMAmLwtciUN9xvR4TMNOEG8l1nDxW7M5gM+qvhLi+nCl6sJY76be6JqlqyvjSFcXI57OtaLL8KEX34GPLTpmD4ulIMLs6+kYUCtnOj5kuV+jL8wxOomJk44pvLP9/UDIGgQqZvTpwL49sQtH80lOOzJUK9HZayQPbgrnwEqN0M9YePRzS3Je87u6HOV2zoxLZMjbvvnpgQ8W6rzgkzA5Lb5IPLl2gBtk8V/i0evEQVoCaDLUgBz2zDa128TC0hdwJkfGGKX9DjD/PlDeg523NRLLQnXLSa83IfdXDQrwyyampoH2vuPvzFJ0LIZnYHHcFnAH+A1zf1DL1aOT9MXFHJYymqmceCVx52NquLMteGFtt9JGptntfoZc8LEo6WctvneM+GYwgqadN3hB3JdO8LKioiOHqOOBcEHwkXT/dxDdztnU81Q+jmBXiTLBPSTUDf8bCBGRRDaqvecmoJNpfi972YlIuNJNoi09GGPUf8lsBin5d0NNL57+51mYZ4uTjkpVFd2UgvE3L6VTMln0RUos+SOg+aeDHdP+A0=",
+        "translations": {
+          "en": {
+            "changelog": "This is a long-term support release.\n\n### Shifts that follow you\n\n- **Add my shifts to my calendar** puts your published shifts for the week into a Nextcloud calendar you choose, as busy or free. Run it again and the same events update. Come off a shift and it leaves your calendar.\n- Nobody can be put on two shifts at the same time any more, across all your teams. The staffing list says *Already working at this time*.\n- You get a notification when a week you are on is published or withdrawn, when you are added or taken off a shift, and when somebody takes over a shift you offered.\n- The staffing list puts whoever has worked least first, with their hours or weekend shifts beside their name, so a fair choice is the obvious one.\n- *My shift statistics* counts your shifts in all your teams, with a per team breakdown.\n- The weekly shift pattern now lives only with the team. Administrators keep defining the shift types; the separate instance-wide pattern is gone.\n\n### Teams across servers\n\n- A team owned by another Nextcloud server can now appear in TeamHub, with its members and the server that owns it. Your administrator turns this on; it is off by default.\n- Member counts include people on other servers, and changing their role or removing them now reaches their own server.\n\n### Licensing\n\n- Request a quote, request a trial key or contact us directly from the License tab. Every request falls back to a prefilled email if the licensing service cannot be reached.\n\n### Smaller things\n\n- A team admin can switch off **Email all members** for their team under Manage team, Settings. It stays on unless they do.\n- TeamHub no longer breaks for people whose language it is not translated into, such as Polish, where polls disappeared. They see English instead.\n- An empty half-day in My workplace now reads *Not working* instead of telling you something is missing.\n- Polls on the team dashboard are sized like the widgets around them, and avatars have one size everywhere.\n- Some People and workplace labels showed in English for every language. They are translated now.\n- Refused actions now say they were refused, instead of looking like a mistake in what you typed.\n- On Nextcloud 35, Manage team no longer offers a team space while making them is paused, and a new team folder no longer says it is shared with other teams."
           }
         },
         "signatureDigest": "sha512"
@@ -89394,19 +89423,27 @@
     ],
     "screenshots": [
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9hcHBzdG9yZS90ZWFtLWRhc2hib2FyZC5wbmc=",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9teV93b3JrLnBuZw==",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9hcHBzdG9yZS9zZXJ2aWNlLWNhdGFsb2cucG5n",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9yb3N0ZXIucG5n",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9hcHBzdG9yZS9teS13b3JrLnBuZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9kZWNpc2lvbnMucG5n",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9hcHBzdG9yZS9kZWNpc2lvbi1hcHByb3ZlZC5wbmc=",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9NYW5hZ2VfdGVhbS5wbmc=",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9PcGVuUHJvamVjdF9pbnRlZ3JhdGlvbi5wbmc=",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RpbkRvZWsvTmV4dGNsb3VkLVRlYW1odWIvbWFpbi9zY3JlZW5zaG90cy9jb21wbGlhbmNlLnBuZw==",
         "smallThumbnail": ""
       }
     ],
@@ -89414,7 +89451,7 @@
     "translations": {
       "en": {
         "name": "TeamHub",
-        "summary": "Team workspace for Nextcloud: messages, decisions, presence, projects, services. A self-hosted Microsoft Teams alternative.",
+        "summary": "Team workspace for Nextcloud: messages, decisions, people, projects, services. A self-hosted Microsoft Teams alternative.",
         "description": "**Your users are asking for Microsoft Teams. Your auditor is asking who approved what, and where it is stored. TeamHub answers both from the Nextcloud you already run.**\n\nA Nextcloud Team on its own is a membership list. TeamHub turns that list into a governed workspace: messages, decisions, presence, a timeline and projects on one page per team, beside the Talk conversation, team space, Calendar, Collective and Deck board that team already uses. Deck stays the source of truth for cards, Talk for conversations, Files for documents Ã¢â‚¬â€ TeamHub reads across them, writes your actions back to them, and records what happened.\n\n**Control**\n- Teams are created from templates and carry policy profiles Ã¢â‚¬â€ apps, modules and settings decided before anyone joins\n- Gates are server-side, not interface-side: every controller method checks membership and role\n- No side doors Ã¢â‚¬â€ a team made in Contacts, Collectives or `occ` is not a TeamHub team, and a TeamHub team cannot be deleted from Nextcloud's Teams page\n- Bulk rollout from CSV, with a dry run that creates nothing until you confirm\n- Restricted means hidden: an action a role may not perform is not rendered at all\n\n**Evidence**\n- Append-only per-team audit log Ã¢â‚¬â€ membership, files, shares, resources and configuration, with actor and before/after. Retention 7Ã¢â‚¬â€œ3650 days. Exports as JSON\n- Changes made outside TeamHub are pulled in hourly from Nextcloud's own activity and share tables\n- ISO/IEC 27001:2022 control report Ã¢â‚¬â€ this instance's live state against the Annex A controls TeamHub can evidence, and the ones it cannot\n- Decisions with no delete button; service requests sealed with a re-verifiable SHA-256 chain\n- Code integrity checked against a SHA-256 manifest generated at build time\n\n**Residency**\n- Runs entirely inside your Nextcloud Ã¢â‚¬â€ no hosted version, no external service, no sub-processor to add to your register\n- An instance with an active licence transmits nothing at all"
       }
     },
@@ -97183,6 +97220,87 @@
     "ratingNumRecent": 0,
     "ratingNumOverall": 0,
     "certificate": "-----BEGIN CERTIFICATE-----\r\nMIIECjCCAvICAhDHMA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\r\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\r\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\r\ndXRob3JpdHkwHhcNMTgxMTAyMjI0MzUyWhcNMjkwMjA3MjI0MzUyWjAaMRgwFgYD\r\nVQQDDA93b3JrZmxvd19zY3JpcHQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK\r\nAoICAQDS1cND3BaPljiQ2PJOcvMY86quI8qndUCu6b5S7HpR6OPxDFVTOLiXAbjH\r\nDb9R25U5HscE5hhDnT8z2tjvg89lec/KfIzXvfePz6QtuPB/c6Ttm87/rrBRrLSc\r\nyrTzDAyNLARsTZfM7y5fsdPkwdGCEkKIW4HX+ofEziPOcl/q4RyVstcZkCPFgBtK\r\nCXTxNS/s/8CNTXxtwQ51JfS4CRa7XnYNnaGVOQdw797MMCDoUhiLbPFchr4nXi1W\r\naDO5Nz3tp11TI8dmlPwYOGZJO8EhJ8cSZjVTU9taUgv/SpcEDFkhgppfQPFEss01\r\nD7ypoLAC27LVEouCouyx2hJjKZnUrzhfp0Vi4AmmV+33EPCUzzHHTjae2J3GZv2s\r\n+76F+3EISqC+WXUZYiFGixJGRqxqRUTgISu1Nyub6O64hIjcsaRnS/tOfXCsw3fj\r\n8PU7GqTs7zzXsn/Xr3ngdG1mH10KWh27b7VaoyB9i0bGlapwuSPK7iY7xuvm4RdD\r\ne8hiaeW3dyu7uov0aH6L4EedQ36v7eIZeKM7RC56o2JQVAGd7GLNLl7nA9mKrT8k\r\nt64iJmi2KQX0tSJk090yK9M2jzVoDt35fcbPu2ud70dG2knHtH0Nmofgr/ArOJKt\r\n9zrLB+boKjHeFcEjzc2zF1SiMG35cCmKbnopIbNCVITTop37BwIDAQABMA0GCSqG\r\nSIb3DQEBCwUAA4IBAQAXf3T2yRfP6OkmlVnma0a6gGFYJDkbNimNAZMAfeqbzUie\r\nZua8IvA8v8KjSmU3b+BOYvweqIZgLWIje4ENwI70YD2mM/QK7TKenlQ9g1xHC9c9\r\naEiFeMeLeiIypzL7A9gpbdx24Qz5vwX1LmaukyHXobNWYwVbjMyKbmwYChGgBcSO\r\n4/yYECI32+1baSugz0WlRBLPa75tjbJc83rodRJYAEgALEw4RZcw6r7yq2iGF3X+\r\nzlQmmu5o7qfH8xLuBt6JBwH8F0uB8ckHQkNWE79oCxPzvIEelIadwMpq46cg+eU0\r\npawyJmpF61SY03+/HAhJdMrncVa4vOMl/k0VbbJx\r\n-----END CERTIFICATE-----",
+    "discussion": "https://help.nextcloud.com"
+  },
+  {
+    "id": "taskpath",
+    "categories": [
+      "files",
+      "workflow"
+    ],
+    "userDocs": "",
+    "adminDocs": "",
+    "developerDocs": "",
+    "issueTracker": "https://github.com/taskpath/taskpath-nextcloud/issues",
+    "website": "https://taskpath.eu",
+    "created": "2026-11-10T17:23:48.358202Z",
+    "lastModified": "2026-11-12T08:44:54.805813Z",
+    "releases": [
+      {
+        "version": "0.7.2",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=33.0.0 <36.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/Taskpath/taskpath-nextcloud/releases/download/v0.7.2/taskpath-0.7.2.tar.gz",
+        "created": "2026-11-12T08:44:54.797411Z",
+        "licenses": [
+          "agpl"
+        ],
+        "lastModified": "2026-11-12T08:44:54.843157Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=33 <=35",
+        "signature": "kdSBrLCzrKaYFfx6ulRK1x2j020FalnB7Pmm6R+ero49BLQHI8DAjVq/DTTNxRLnGqXChdISFdXS9sBcXC+OwJqlbbsppDztBAzOKq1xhRPYfY5W7Rn4P4hJR1fTSigJreEd7eKnJ0oPzkGhiB9V2o+aS5hZay3F+CYJqVLR5ZJ0eiE7cZr6F2o8rvOHiFNvRCNtVho/t+VqpOaojVvymWiy9AHtw8aiGSKIU9bJi9zNdK3iVw71VooyZduHyNm1a+t/3kYdDpFoVx0uJnq/iCx1NPfxoXTtbnHOgusZ3bPh71Hqm8N43lLSLiiCN89ddrNY4vGaAlzw4EuS6iTRjXgtGTZUJVZxGUC94xIiDaTvd1s9B0bxcmCm+pHwT6PQrEUPG8M9mYvtDUBtmn6fCabjZF0g2daom/qvANfEh4jTT2ef2UV6plOXZ4qOQN6M2IFxe2I8nwy5InZTqLem/r+RaVOmwsMTRxSNN5va6BehVRzpGRBSQ8GnF/ftLobw8RlGST5vfrqTl1LeunEIXxDTX6Zqd+NXh12Tha+M6ZwRmMHIGT4112L0UB2tnvBBFmYONnI15hOfOC04ZM85yGUmg3e7CxLwsztsgeI75WLfRAv45Z5/N1w0iHZoSaZTVaPJm2AApVQgcrCuggbW7gDfPHo+oMB3Ieolt1mTMwI=",
+        "translations": {
+          "en": {
+            "changelog": ""
+          }
+        },
+        "signatureDigest": "sha512"
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rhc2twYXRoL3Rhc2twYXRoLW5leHRjbG91ZC9tYWluL3NjcmVlbnNob3RzLzEtdG8tZmlsZS5wbmc=",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rhc2twYXRoL3Rhc2twYXRoLW5leHRjbG91ZC9tYWluL3NjcmVlbnNob3RzLzItY29sbGVhZ3VlLnBuZw==",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rhc2twYXRoL3Rhc2twYXRoLW5leHRjbG91ZC9tYWluL3NjcmVlbnNob3RzLzMtbGVhcm5lZC5wbmc=",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Rhc2twYXRoL3Rhc2twYXRoLW5leHRjbG91ZC9tYWluL3NjcmVlbnNob3RzLzQtY29ubmVjdC5wbmc=",
+        "smallThumbnail": ""
+      }
+    ],
+    "videos": [],
+    "translations": {
+      "en": {
+        "name": "Taskpath",
+        "summary": "A shared folder for incoming documents: Taskpath proposes where each one belongs, a person approves.",
+        "description": "Scans, invoices, letters and contracts land in one shared folder and stay there, because filing them by the house rules is nobody's job. Taskpath recognises each document and proposes a name and a folder following the conventions your archive already uses, learned from the names of what is already filed. Someone approves it on the Taskpath page, and the app files it.\n\n- **Shared, with Nextcloud's own permissions.** The intake folder is shared with the same people as the archive. Everyone sees only the documents they can open in Files, and can approve only where they could put the document themselves. The move is made as that person.\n- **Autonomy is earned, per kind of document.** After a run of approvals nobody changed, the archive's owner can let Taskpath file that kind by itself. It still checks each document and asks when anything is unusual; one undo turns it off.\n- **Everything is on record.** Who dropped a document, who approved it, and why it was filed by itself, with the checks that passed.\n\n**What leaves your Nextcloud:** the documents put in the intake folder (read, then deleted by Taskpath) and the names of folders and files in the archive you choose. Nothing else. Taskpath has no access to your Nextcloud; this app does the filing. Processed in the EU.\n\nRequires a Taskpath workspace: connecting creates one in two steps. Free to start, no card needed."
+      }
+    },
+    "isFeatured": false,
+    "authors": [
+      {
+        "name": "Taskpath",
+        "mail": "",
+        "homepage": "https://taskpath.eu"
+      }
+    ],
+    "ratingRecent": 0.5,
+    "ratingOverall": 0.5,
+    "ratingNumRecent": 0,
+    "ratingNumOverall": 0,
+    "certificate": "-----BEGIN CERTIFICATE-----\nMIIEAzCCAusCAhTEMA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\ndXRob3JpdHkwHhcNMjYxMTEwMTYxMTUwWhcNMzcwMjE1MTYxMTUwWjATMREwDwYD\nVQQDDAh0YXNrcGF0aDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAN5s\nU62oODPqjKeUerrzNUpQv1Q8eUR90c4xl064NKIrdOMK+NmC7QlsdB7m8Hd77JpV\ny7A+YBz5+z/MPSjZoza0UU3PihTowC8bctJqn/xEbF0DI0YeTNshjOVKjtDaHkrU\nW0GIGll8I7jgIqj5tG9BYiJqSTmYLEgBTZ2I3nIKZ0MtfeKBx/c4Rt28Q7G7tyng\njdVwR1KZrKJ3YUDkJ2t6oSnVmvvS2iXIibLfIMDIB2uehhe4LH/gA5q3Blyy3Y/0\nfSFgnqsMMaX0P9AfrzU1kmRpifkkVJfU24C8Fyc5KZ4hiD9rVyG8hDVMot/RMH6y\nahnNpoByVlTIhYLU3bxd9LJV7FBoPRfc8NPhGmYHOPrSdemVqqxTwdST5e9BcPVs\nqRxEe83+IZDdK3bA1qv0IHm16rlvNco+YX9DiXBPZp6s1QB9wrhyguknG7zBX7yZ\nGkb02u5oYT0M5wrE/pL8OKfj4sw4WAgLTRO9t3x4NoEinQ3FeMh6Ol6AqXX3GWeN\n7ujaqlzhkg2D9zfrvfXuo+NeEVp8S8mePQ1H5G06TH+Xd1o7UIFYBPsvZQybv3u6\n/HOur2MIEZNF7tNMMN5tA72rS7m/WkufLJV46GTJBbVPQPIw/NMgZFWr0R23c09/\nb0T5yx+O+n97h+p1W8c9xze83Af2MZzWsEkFUjw5AgMBAAEwDQYJKoZIhvcNAQEL\nBQADggEBAEh6qek9BydSFhEGi6hFSXD5Rlzh5Kb0Eo3/YdNLQB6p4lUl+Bcu3arN\nqyvvarTvVcAVYMLTEy6ThG0yIS0dvHGOpQu0QL97qiRfbY5FMAcwcuBV3Ndwc2mZ\nM7gEn2RXfc+Yr/YS/YSsP7tQKx46Yg54Vter3LSfKDygHlkAPUoGGACNs/9KeBmh\nv8g5pSMH4GqY3h/qISEs/QGrZ0W69RUfo1rSi11Qak3tblSIRhUpmIZ2mWjN8911\n5defYNdnInv5tmt4Fz5vso+soXTDmuBjBNut3heGBMWyh/yqdTcq3eGzZhExyD3A\n/5h18AJGB2BN1Ots6cyaVpfCQzMyLGw=\n-----END CERTIFICATE-----",
     "discussion": "https://help.nextcloud.com"
   },
   {
@@ -105068,29 +105186,29 @@
     "issueTracker": "https://github.com/zorn-v/nextcloud-social-login/issues",
     "website": "https://github.com/zorn-v/nextcloud-social-login",
     "created": "2018-04-12T08:32:26.985997Z",
-    "lastModified": "2026-11-10T19:26:32.082540Z",
+    "lastModified": "2026-11-11T17:48:56.603593Z",
     "releases": [
       {
-        "version": "6.6.2",
+        "version": "6.6.3",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=29.0.0 <100.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/zorn-v/nextcloud-social-login/releases/download/v6.6.2/release.tar.gz",
-        "created": "2026-11-10T19:26:32.078570Z",
+        "download": "https://github.com/zorn-v/nextcloud-social-login/releases/download/v6.6.3/release.tar.gz",
+        "created": "2026-11-11T17:48:56.599560Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-10T19:26:32.126518Z",
+        "lastModified": "2026-11-11T17:48:56.640352Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=29 <=99",
-        "signature": "f+C4lY7F83TD3irKmi5iInZ8+rYaUOhSbHhzCkwT9xkqfftWwpE95WdHER9etrlJwdh/EtSCD//Uad9WpwlhiaFXwhbw1kRQ5SfycdEY7NIrlvX6Qa827aupa9ySkLMCEXiFAx01IVmGUInucl61iGujgZdRxX+3Zof2of2kUJOFFb6TiW5zn7XgmGb8LfplX+4zg+gL9ocLhyLIXfRHN7WuJl6mzdrPKLHr7vL+X2qypDgBR+K26gflwoJy4gfccc9XlEV3bmom5NUZBU5JVpp/7ih+IiaUZSu2ypalHDfllKXMXokFqq1eWKFj0+OZLlQqBV5zUAFcYd38LgTOuF/Xx6eWIWbMmiNbIt507ESOw7zYNTmShV475Kh4G7o7q/Ke46KHF3RnH3hi0kgAJhvut6ALdxl392s0GMmVU6nmis+FI5+xRkBHzRJF8YESSMV27f8jBpsl2eJL+NnAHVhgi26Jmg+wrq+5GY3VUb6z5/hEVwnbdk/3blZuMmbuM8IRVAQIWsRbXYTSnNICbfZ8C9Gj7S+OE9Up9t54AoHax4xoQgHNhXUBK2VfpdathEINVf+eyXq4twlD+qFMMBXah3d2Ln6AjM7ULLe+qiWAvLBJ13aE4FlPQPW90LU4ZQrwxDN2vliIjf3Vj/qlIbqS4raGiV1chiWkGePACFs=",
+        "signature": "gG2F86eeAP4Ma3AwWKAxBdYPO+Tua1mwFa33NVmrHdFrL06D5zTrwZOlvMnBrjVyV1C480vsHiHU3+753kvDUXgwIV3ZyUVMjKK3vlhOL4K5/f74/0NNeexf7xjlUkp8ukKk2MpxsLhY4DuUZqiRajMa5erVlItUXfrJOo4hxymGNu4NDpbG3XWUkLiCpkYYZW2X/7JGeNGqxhcxwAnE7e017vmH1xSdnK8XyEI6026uOJJnN5OOlMFv1gdTGEvy1Y2hoc0YGvZ3HaGOzSZAPHXfZxseqECAJiCBoUwm/bnJeG3pR7vyPfL6WLbqPbhF2fNLll+egLWtpDE/YFq5T1R21puhVwDf1FD57E0wDVhUhIizRxJQqO4kE/IRQamuNWRVPp1W0wV8smijkNiZzXNBPWSt2BkfJYpXY2ZBnEWqN7Nlo8qLkwILEqcPcrntDXVqu4WKKu2+DNB2NH/aalR3yLMJmhVxd0kxxMZgK/ATpB0TDNoMyDfPUYe6vdEnYLjWSZFid4AmVTF1fcJCabfmq4d742tkqmmZq1B/SiUdt/jGMQePg92gkos0OCB+sRgu05Rf60B5SvEFONpqr9wUO2eScopTL6ytxYrc4D+soyEdCNLXoI3rS3rbtlatpJyljnq8QfubBnyEFjJoHwZPr5Kykz2eB0gVWPhe+tw=",
         "translations": {
           "en": {
-            "changelog": "- Update npm deps"
+            "changelog": "- Fix apple regression"
           }
         },
         "signatureDigest": "sha512"
@@ -105450,26 +105568,26 @@
     "issueTracker": "https://github.com/nextcloud/approval/issues",
     "website": "https://github.com/nextcloud/approval",
     "created": "2026-10-16T09:29:18.422961Z",
-    "lastModified": "2026-11-04T07:24:25.809028Z",
+    "lastModified": "2026-11-12T06:47:21.213698Z",
     "releases": [
       {
-        "version": "4.5.1",
+        "version": "4.5.2",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=30.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/baron48anton/app-certificate-requests/releases/download/v4.5.1-nc30/approval_signature-4.5.1.tar.gz",
-        "created": "2026-11-04T07:24:25.802596Z",
+        "download": "https://github.com/baron48anton/app-certificate-requests/releases/download/v4.5.2-nc30/approval_signature-4.5.2.tar.gz",
+        "created": "2026-11-12T06:47:21.206379Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-04T07:24:25.859870Z",
+        "lastModified": "2026-11-12T06:47:21.252471Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=30 <=35",
-        "signature": "A+anvKAMo2l5VokVAdAXkNLkzgY2yk8yXeXXxMHqtReRCoxR8bqpxAD7xfZ39ew8B83Y/70pjUcID7NqvGWdG46f+8/OniUADvuDHgylXdSTT8hTS1fWqGf0dQ03jLP1/hG3MIFwuEvy9FEv+dAGCpkXpUNDoCU1+EqLGhgTDIyNx54Vp/srUAUTBgLgP6pyhD7t0xgs+1tibrRBF6TuI0l1uR58pAabAxT7IzwsD6ulTeFLOF8GxkyTSjmQQJpL/Nr0MCq+a0as8L3FO0AA81cV/ZD3HwmMd3zxqXWr8F6zSboLvfGo1vVMSWXnb4Lfj29gu4nS1febM+vPUCGcikKRniHUzrCyrp/BtTQbx2vDe2APgkkDMFf996400hCptVUC0LnTJLOHgeeoGz6czY+r9bGWPrLXl6tV+4M/FWhXq9pNdn9elo5WfJeN7zwEgdafdsZ0UJzEmhy6SkznudICN4UpKH28TLpHllmupa/oz8gP5ldEoCbhff1iH3B6m5lNnFDZLwmbGmDNRBY/OMcb6+AXhT1CyVUhvbOB/ddvD4/JCwpjKYqA3fplvG567VtXWjOLwBVJ4JAjhYwShPztadeBVtEwtASDjruybv71QuD/ojn5FchbhoxEmJz1MDPgey8hIVS8VidwYsgmsZtf68SvnhYA7dy1kQlq1NU=",
+        "signature": "A6HIRDoovnsUMijkfeAjL3xuZoB3lib1s5CPozPRbin+F5qNsRbw6cUZ+v8f8HGQGcCrCQ49IxWGd0iCscGZuWQFYZNOh10Z66UeunD1KwRCW5L0oKyp2ct6I3XH4X/qXGBlCK7zDRjADlcKsSPA6t/Im8FiFx9jKh5f7VhYYkBtVpqQuDtYIAUkYIOa5JfCAB25xxJI7AMqCIXXG7Yc35sQ4hw4WPZnSLl3dJ20WLh6d02vVFgNrcQn1pp4D5Ms0B54u6rZFsmNaWSrJFdQ3FTYvdSfPzKxQ3wcFrP+7jSu5Geg3DVx6Dh8cigi2XJUIhiaJmXQP7ohAh/r7jcZAaMbthKkZ5Tt/OyscX/fxjPnPW8qzrqUax38MXLcTpn/P5Q2NZ0T8Rs3G8tERVoyL87/iGGigWBbgHDltM8spJAYdVhCyo2ieeirMiYTZstiqOUEX1GD8U+0jMWUwNfqL2uqmfZEEz/0Chqkt6YO8aLOLXUnFmyNf7bhMsdgckgH9fJ0YIpq+hXUJRZmq/TG0H/HNktFq9oE4xKmogl1c7s1hJyWujmwPvNy3cUEY1UzcD7Pvx6l/CuthsXKSs8erMtxVaqcgU5s6qRTjvZ2Sy8hzktuBFslzThnxgTg5YiqGPphZMu/uboMrUiFsp/2P/+1dQU8HiB+j+DpI34ewUc=",
         "translations": {
           "en": {
             "changelog": ""
@@ -128652,29 +128770,29 @@
     "issueTracker": "https://github.com/ktec-nc-apps/NetBase/issues",
     "website": "https://github.com/ktec-nc-apps/NetBase",
     "created": "2026-09-05T03:53:10.092564Z",
-    "lastModified": "2026-11-10T12:11:20.944598Z",
+    "lastModified": "2026-11-11T13:33:31.368805Z",
     "releases": [
       {
-        "version": "0.9.16",
+        "version": "0.9.17",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=30.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/ktec-nc-apps/NetBase/releases/download/v0.9.16/netbase-0.9.16.tar.gz",
-        "created": "2026-11-10T12:11:20.934470Z",
+        "download": "https://github.com/ktec-nc-apps/NetBase/releases/download/v0.9.17/netbase-0.9.17.tar.gz",
+        "created": "2026-11-11T13:33:31.356113Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-10T12:11:20.984084Z",
+        "lastModified": "2026-11-11T13:33:31.415083Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=30 <=35",
-        "signature": "oTr3WbDdNEJ3s2h4GeeAoecINXNtvVGj9vK2BeCkdWcROkldn4rb3Csbt1ocj+ri3g5t8ZYEgCssT+TO8fd4SHXPH8XhEkXfiW46xGEBS4EsBagniVcgYkNgKjv516JvJG+jJDPPs8Paga+jsStLX26gTOJjKlQBkxtyIvECugcbPXmO5YX27ScLJBYqKRyqH0xHHhUzYs48v95WXM+H4fiQiLBvTXcggLCH+hzr2FvT8uQGewC7DVQoJ0wYUqtKnIF5ELCX/mV1+v+bUErfutF0X2//TfoY5blbPJujNqtmLKuNP5BtD6yvkTU5UNYtE3FOcqvG3ehVTz/i45L5vkm7xggUzjJ/IRJ2hgwVrlyWm2hofA2QNcJSAEwzjPXy5goYVjvnRmjJLyOhGzbHmg2xOBNe909zxGdeMXyeRkK70dpp3HIZQWkixmjMqUBR8Xci6dTocaLaWkiszc41NAq5RAgOTI7Ds/jVGGQi1haxoQ5jXK+2Uh9mZ5maAMC7t1TFVyDIAgPxiNvSwDF3rVjV4tuQj/0cfLTxjJReN8w0Hv3HA7ASk8HuoasVTP1gaGCPym7aG5X33yLJ7+C0vga4wHkVpwKM4w91Y217MtQ6ecswD2l984BesP7tYNS03aRhrOmWa2EkJjT+5qbLqLBjwNQ+kh2RFd4H9NmXFks=",
+        "signature": "SOfZWWXWXZUhIPvgUwmaGORMoj0iWn2krqsQItk9QC5B7i/fluN9hBUNH1Dt+VL6Om1PqNwu70emGc9uiDOLMn+HkpNGwd/E/pA4MLHGVIM8Iw+SBXTZ6B0gMK+tf05WiUx1nXqF0jzAABMU9VVLCzSD5x1j1i18eZnEfXqWMIt5IEX+QYumXmBmgcIKzsyzz1qaJClK8nAaZZhphRzNjPbrqI6DVeW4UsDX1/yq+M7p4phhdRrVqgrqnaMruIQn8I/QdDNBpuCSmgBgkBZTxDfDvHqnBn76gc3ZG4jQO7vp/b1Xy2vWMwCNXTcJIMQBvc5csK0yLmv8R1uS91CT/VRa/Ybx2/u86ZlaONN0Hrl61EkVWhbWpaqKzif7+Mhn2DV4RFw2pVvY8zakwV6JxWYSgtZ76XXvsbQKBaZ26GOMIZ2r2D0OeE42BcxQR1EkNUfoCoNdIg8T63VPXmdpPwMSDLMWWZLGdDTZd3omcJsCi5hj8d1d1DCyduKb/47V+zfsl6g8uxP+tH9wxHUztvS2XnAzkh34Lm/JkbXBXJkDRTzhB4T7+Tl8DlqSLHlRDwisIQLxlZDtYR0QItY5F7MFG+07iOLtuF8U6YFxIaCGjqewHOwE9bSpDJG2GN6lTZszlYk05qZpIbEe00GZylE8FNNhPY3aOxtaHGbF/oE=",
         "translations": {
           "en": {
-            "changelog": "### Added\n\n- **Environment report, for problem reports.** The admin settings have a new \"Environment report\" section, and there is a command, `occ netbase:diagnose`. The report shows what the server runs in (native, Docker, Podman, AIO, snap), which networks it sees, what it may do (programs, sockets, capabilities), the ARP table now, and the state of the device records. Made again after restarting containers, it also shows what changed between the two reports: a new MAC address under the same name, an address now held by another device, a name that moved to another address. The last part says whether what is seen comes from how containers behave or points to a fault of NetBase. Nothing is scanned or changed. The last half of MAC addresses and public addresses is hidden unless you choose otherwise, so the report can be pasted into a GitHub issue as it is. Administrators only.\n\n（日本語）\n\n### 追加\n\n- **問題の報告に付ける「環境の報告」。** 管理者設定に「環境の報告」の欄を足し、コマンド `occ netbase:diagnose` も用意しました。報告には、サーバーが動いている環境（ネイティブ・Docker・Podman・AIO・snap）、見えているネットワーク、できること（使えるプログラム・ソケット・権限）、今の ARP テーブル、機器の記録の状態が出ます。コンテナを起動し直した後にもう一度作ると、2 回の報告の間で変わったことも出ます。同じ名前で MAC アドレスだけ変わった、アドレスが別の機器に移った、名前が別のアドレスへ移った、の 3 つです。最後に、見えている現象がコンテナの動きによるものか、NetBase の不具合を指しているかを書きます。スキャンはせず、記録も変えません。MAC アドレスと公開アドレスの後半は、指定しない限り隠すので、そのまま GitHub の Issue に貼れます。管理者だけが使えます。"
+            "changelog": "Containers keep what was written on them when a restart moves them to other addresses (GitHub issue #3).\n\n### Fixed\n\n- **A container lost its type picked by hand, its notes and its name when Nextcloud took its address.** When the Nextcloud container started again on an address another container had held, NetBase wrote this server's own row over that container's row: the type, the notes and the name went to this server, and the container came back as a new device with a guessed type (\"Server machine\"). This server's row now moves with it, and never takes the row of a device with another MAC address.\n- **A container that started again on a free address showed twice.** Its row stayed on the old address, offline, and a new, unnamed row appeared on the new one. When a device with a random MAC address turns up on a new address, NetBase now asks for its name; a device with the same name whose old MAC address is no longer in the ARP table is the same device, and its row moves to the new address. If the old MAC address still shows in the ARP table right after the restart, the two rows become one at the next scan.\n- **This server's row stayed on an address it had left**, shown as online.\n\n（日本語）\n再起動でコンテナのアドレスが変わっても、書き込んだ内容がそのコンテナに残るようにしました（GitHub の Issue #3）。\n\n### 修正\n\n- **Nextcloud が別のコンテナのアドレスを使うと、そのコンテナの手で選んだ種類・メモ・名前が失われていました。** Nextcloud のコンテナが、別のコンテナが使っていたアドレスで起動し直すと、NetBase はそのコンテナの行を、このサーバー自身の行で上書きしていました。種類・メモ・名前はこのサーバーの行に移り、コンテナは種類を推測された（「Server machine」など）新しい機器として現れていました。このサーバーの行はサーバーと一緒に移るようにし、MAC アドレスの違う機器の行を取らないようにしました。\n- **空いていたアドレスで起動し直したコンテナが、2 つの行に分かれていました。** 元の行は古いアドレスにオフラインのまま残り、新しいアドレスには名前のない行ができていました。乱数の MAC アドレスの機器が新しいアドレスに現れたら、名前を問い合わせるようにしました。同じ名前で、古い MAC アドレスが ARP テーブルから消えている機器は同じ機器とみなし、その行を新しいアドレスへ移します。再起動の直後で古い MAC アドレスが ARP テーブルにまだ残っている場合は、次のスキャンで 2 つの行を 1 つにまとめます。\n- **このサーバーの行が、離れたアドレスに残り**、オンラインとして表示されていました。"
           }
         },
         "signatureDigest": "sha512"
@@ -150486,29 +150604,29 @@
     "issueTracker": "https://github.com/EDUCAlliance/talk-ai/issues",
     "website": "",
     "created": "2026-07-14T12:16:56.226364Z",
-    "lastModified": "2026-11-01T23:31:15.119756Z",
+    "lastModified": "2026-11-11T21:13:27.745184Z",
     "releases": [
       {
-        "version": "2.45.0",
+        "version": "3.0.2",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=32.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/EDUCAlliance/talk-ai/releases/download/v2.45.0/educai-2.45.0.tar.gz",
-        "created": "2026-11-01T23:31:15.097816Z",
+        "download": "https://github.com/EDUCAlliance/talk-ai/releases/download/v3.0.2/educai-3.0.2.tar.gz",
+        "created": "2026-11-11T21:13:27.739530Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-01T23:31:15.178110Z",
+        "lastModified": "2026-11-11T21:13:27.779933Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=32 <=35",
-        "signature": "QeYaC6+q/WqTIhCva8fS99SLSTlL70TZGrc3jM+LxSL1dOfIiEpj5q82PW97RqiUe27/VDsGH6H6JUFTXCIKTp4+DnbrsIV9DKTa6s0BYIXU9speiD9ccCCUdOJSXDgcTnnM1l06zDukf1a6vh+fLYv6b4Dlf3rlyc5u7MSdl91YUN/aO3nkFqlKp53H/pN5ijPSIFgXR4RTvHEdG8OiywzVwRP55klYZKulh31xoM74LMx/tKty2xihrI++HADxMMR8Gsy/PNSC0rinQ34zXxBbgB22LGSolqr7qnRgfa1ncmvAvDQ1H2rDmUhJ3PoiVYs93toapVHpk+UB6b3UJL1q+t7OVcgN0DEfD8CXfHu3k9tu42GExgzNEPc7sXgjxiX5YfRPNO8J94LIZ4wyzy/ReXBDLW3e5SZel8g02ZQuwvoOccaulLvyKhCUiPJ8sfcymm5o1vZCSb63nWrkalZkcAwi1IwHhmipKCxjh23c7U2bnHRIc9dKq00Oz5+iX66M01bcvF/7S8r48N3QLcKKzusSRfniR+uDL82NtbefbdMdifJrPNXUQjNat8D+jyO1JOeiHjSw4Q70Dg0Nh8WFGOcb7mcMKJhyPOb4aqz6BaygT1Py5KuebrkjBqhaE2wVElbPuNYoms220tCrAvqGpKiDVubKD/x00pTFxT8=",
+        "signature": "fTW6CBgkWbtEMEHRrM/nJivFV7YdiQfsjXQwyrgn2lUT10Ps4SNliAMoozNIOefP\nJ5GAVkrOrjPngGWHFeTllNO3sQeOcj1fQYnTo34TMr/VfjKzKYl15Q2BRwJ0uoWT\nWKBmGxn1203haXi40hlWOXa/ZTaVEWNSGvPX2ndJaI65/8bml8artUhysus8G8iS\nm+USyascwK6qdsw7uy/qgARKPkqKb9w+lexFONIsweWWv+WDMgP7/eZslp2/0yDn\njsj8XfnBJY8pAGziiGex00xUnbEeUXli8wrvCCUdLiN1Ba81LwoF8rRfTge0ryEy\nw9QZHYV8q/jmDFwuq6CIa2SFf/Ed/eyIP2A1NUlASHGE6NIZD+1oyDXZzFguPgz8\nkbDqDtAT8Ajfk9OOgUQcRFOXBtvudcpQxB2cI1jEt9AqtsUfIZt1/QcWx9AXT8/E\nXHjcEjKQreqQy/MDhWbeXZR09oUmcmPzdUrl2+fpaxUp+NfsxHvZjnCblTQW0iuN\nXe6r2fzYp6BXfwxOE+HSwR6wVeIifono4dsYs6B9bESzRwWGpBY9kiCMJ0CpCcZY\nJFziWZkIZtUFWrxX3flttjJvstzuevpQp5t/YzKwdAgiwUoLRcVyi+NvvpkwARZf\n1O5FDNov/eEFILn/0sEP2foNJU8BGoedVtuRrPKGfP0=",
         "translations": {
           "en": {
-            "changelog": "**Requires Nextcloud 32–35.** Installations on Nextcloud 30 or 31 stay on 2.43.2. The upgrade adds two database migrations (course link settings and the API connection tables); nothing is approved, assigned or reindexed by it.\n\n### Added\n\n- OpenAPI connections: administrators import an OpenAPI 3.0 document and offer individually reviewed, read-only operations as bot tools (Administration → Talk AI → Capabilities → API connections). An import only creates a draft, every operation needs an explicit read-only confirmation, approving and enabling are separate steps, and every call is checked again before a request is sent.\n- EDUC course catalogue preset, usable as the record source of the catalogue tools with an explicit switch and rollback.\n- Course link template and accepted origins with a live preview. Answers only contain verified course links.\n- Index maintenance names each failed knowledge source with its bot, owner and cause, and shows administrators the technical detail with credentials masked.\n\n### Changed\n\n- Frontend migrated to Vue 3 and Nextcloud Vue 9.\n- While a tool runs, Talk shows its label instead of the internal tool name.\n\n### Removed\n\n- Support for Nextcloud 30 and 31.\n\n### Security\n\n- HTTP responses are no longer decoded automatically (mitigation for CVE-2026-111497). Talk AI requests uncompressed responses and refuses compressed ones, so LLM providers and proxies must honour `Accept-Encoding: identity`.\n- Updated vulnerable frontend dependencies (DOMPurify 3.4.17, Axios 1.21.0, Vite 7.3.7 and others) and hardened admin icon preview URLs."
+            "changelog": "Two fixes for document conversion with Docling. No database change.\n\n### Added\n\n- OpenDocument texts, spreadsheets and presentations (ODT, ODS, ODP) are converted when the Docling Serve profile is selected, as knowledge sources and as attachments in Talk. Until now Talk AI listed them as unsupported files and never sent them. Docling reads them without OCR or a vision model. The AcademicCloud / EDUC profile is unchanged.\n\n### Fixed\n\n- Long documents no longer fail with \"Docling conversion timed out\" after two minutes. Talk AI now waits up to 10 minutes for one conversion (one more minute per megabyte above two, at most 15) instead of 2 to 10. The old limit followed the file size, so a small PDF with many pages was given up while the server was still working on it, and the files sent after it had to wait behind it. Docling Serve's own limit `max_sync_wait` has a default of 120 seconds and must be raised on the server as well; see [docs/DOCLING.md](docs/DOCLING.md)."
           }
         },
         "signatureDigest": "sha512"
@@ -150566,19 +150684,27 @@
     ],
     "screenshots": [
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9ib3QtZGlzY292ZXJ5LnBuZw==",
-        "smallThumbnail": "https://raw.githubusercontent.com/EDUCAlliance/talk-ai/main/docs/screenshots/bot-discovery.png"
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9kaXNjb3Zlci5wbmc=",
+        "smallThumbnail": "https://raw.githubusercontent.com/EDUCAlliance/talk-ai/main/docs/screenshots/discover.png"
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9tdWx0aS1ib3QtbWFuYWdlci5wbmc=",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9uZXctYm90LnBuZw==",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9jcmVhdGUtYm90LnBuZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9ib3QtcGFnZS5wbmc=",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9hZG1pbi1zZXR0aW5ncy5wbmc=",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9yZXZpZXcucG5n",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy90b3VyLnBuZw==",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0VEVUNBbGxpYW5jZS90YWxrLWFpL21haW4vZG9jcy9zY3JlZW5zaG90cy9hZG1pbi1vdmVydmlldy5wbmc=",
         "smallThumbnail": ""
       }
     ],
@@ -150587,7 +150713,7 @@
       "en": {
         "name": "Talk AI",
         "summary": "Run many purpose-built AI assistants in Nextcloud Talk, with access governance",
-        "description": "Talk AI turns Nextcloud Talk into a home for **multiple** AI bots instead of one generic assistant. Each bot has its own system prompt, model, knowledge and tools — and a visibility scope: **personal**, **group**, **team**, or **global** (with an approval workflow for shared bots), so users only see and use the bots they are entitled to.\n\n- **Multi-bot by design** — unlimited bots, each with a stable @mention, own prompt, temperature and model selection.\n- **Bring your own model** — any OpenAI-compatible chat / model-list / embedding / vision / speech endpoint, with a primary + optional secondary endpoint and an automatic fallback model.\n- **Knowledge (RAG)** — index Nextcloud files and folders, with optional Docling conversion for PDF, Office and image formats.\n- **Agentic tools** — built-in document search, room-document search, image analysis, audio transcription and persistent Markdown wikis, plus an extension point for companion apps and support for external MCP tool servers.\n- **Native Talk integration** — shared Talk bot, Smart Picker support, signature-verified webhooks, admin control over providers, credentials, rate limits and tool access.\n\nDeveloped by EDUC — the European Digital UniverCity (its package id is educai). Works with any OpenAI-compatible endpoint on any supported Nextcloud install.\n\n### EU funding\n\n![Co-funded by the European Union](https://raw.githubusercontent.com/EDUCAlliance/talk-ai/v2.40.0/img/eu-co-funded-appstore.png)\n\nFunded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them."
+        "description": "Talk AI turns Nextcloud Talk into a home for **multiple** AI bots instead of one generic assistant. Each bot has its own system prompt, model, knowledge and tools — and a visibility scope: **personal**, **group**, **team**, or **global** (with an approval workflow for shared bots), so users only see and use the bots they are entitled to.\n\n- **One page for bots** — discover the bots you may use, create one in five guided steps with a preview chat, review changes, follow your activity; a tour explains it.\n- **Multi-bot by design** — unlimited bots, each with a stable @mention, own prompt, temperature and model selection.\n- **Bring your own model** — any OpenAI-compatible chat / model-list / embedding / vision / speech endpoint, with a primary + optional secondary endpoint and an automatic fallback model.\n- **Knowledge (RAG)** — index Nextcloud files and folders, with optional Docling conversion for PDF, Office and image formats.\n- **Agentic tools** — built-in document search, room-document search, image analysis, audio transcription and persistent Markdown wikis, plus an extension point for companion apps and support for external MCP tool servers.\n- **Native Talk integration** — shared Talk bot, Smart Picker support, signature-verified webhooks, admin control over providers, credentials, rate limits and tool access. A bot answers guests of a public conversation only when its owner turns that on.\n\nDeveloped by EDUC — the European Digital UniverCity (its package id is educai). Works with any OpenAI-compatible endpoint on any supported Nextcloud install.\n\n### EU funding\n\n![Co-funded by the European Union](https://raw.githubusercontent.com/EDUCAlliance/talk-ai/v2.40.0/img/eu-co-funded-appstore.png)\n\nFunded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them."
       }
     },
     "isFeatured": false,
@@ -153959,10 +154085,10 @@
     "issueTracker": "https://github.com/cpcMomentum/rechnungswerk/issues",
     "website": "",
     "created": "2026-06-25T15:39:13.047971Z",
-    "lastModified": "2026-11-09T23:54:24.522445Z",
+    "lastModified": "2026-11-12T04:08:38.410359Z",
     "releases": [
       {
-        "version": "0.7.0",
+        "version": "0.8.0",
         "phpExtensions": [],
         "databases": [
           {
@@ -153985,19 +154111,19 @@
         "phpVersionSpec": ">=8.2.0",
         "platformVersionSpec": ">=32.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/cpcMomentum/rechnungswerk/releases/download/v0.7.0/rechnungswerk-v0.7.0.tar.gz",
-        "created": "2026-11-09T23:54:24.509520Z",
+        "download": "https://github.com/cpcMomentum/rechnungswerk/releases/download/v0.8.0/rechnungswerk-v0.8.0.tar.gz",
+        "created": "2026-11-12T04:08:38.393124Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-09T23:54:24.556980Z",
+        "lastModified": "2026-11-12T04:08:38.461458Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2",
         "rawPlatformVersionSpec": ">=32 <=35",
-        "signature": "LwNV7RmGorIvnrvp9Is4jRD+6DLAP3aiKVEdjnthrIpzUGJ03AkILwai73g9PRIP5AFQQdjxSqGTcbxtnEyB2hL4X7H7Fn9jQ7lDBvnmEO1ldrkY3E8Q6Jxik/c3VUppZntTWu2w1zgegx2UBfq4S1fPIgbw6lP7rEx2ed2MUmqf4fTEurXK7MyKCrGaR7vQ9F8bU2P7lwFqYpXxA3hhBxTeAlga9KczN/vu++2TF6MBqPmktxh5Nrw2zsVp1YhqL852QsRC4wYZFon2XMQVS+sGVxfVfS0rUWbD3hkhTkvMnLMFWixhJ8vLhP+kglJgbB132YI2kvGs25ggL8Y17Q==",
+        "signature": "l98T+RudSGaVXipS6O1/nYJVGRYhGy4Wlec3X3roG3sZG/DDRzrVkPxTUvOFNGUILKAIq9qIYUHH8VpJZFib4jUYk9JcGw1pNNSU71EAqDUzuVoGeXe5/fBD7Zoc4HXVHCEITfY1TB9DcDzVaNZ3IVCzwy9kwIN0hayZlR+8fXrGaT1r6oq/QqfzioPgzGCi6hyZXVGkUdfox2RDuFxOI9hmTKuPFtri+ziEq6AjjD6rcIRukYsV5h0T9eS7th5X1AZitvBYsexnInwE/BwmDzxgh3ACvkz961IKgb8WZf8BT3YdPwrHmBaAj23zSM16DS4fD0XLo8KSJ/j19CAOvQ==",
         "translations": {
           "en": {
-            "changelog": "Registernummer für E-Rechnungen ohne USt-IdNr., gültige innergemeinschaftliche\nLieferungen, Rückfrage vor verlorenen Eingaben und die optionale\nWerkPlus-Lizenz mit API-Schlüsseln.\n\n### Added\n- **Registernummer.** Neues Feld in Einstellungen › Firma (z. B. „HRB 12345,\n  Amtsgericht Stuttgart\"). Sie geht als Verkäuferkennung (BT-30) in die\n  E-Rechnung und steht in der Fußzeile des Belegs. Solange weder USt-IdNr.\n  noch Registernummer hinterlegt ist, weisen die Einstellungen und der\n  Festschreiben-Dialog darauf hin: Steuerlich ist das unschädlich (BMF-Schreiben\n  vom 15.10.2025, Rn. 35a), Prüfprogramme beim Empfänger melden aber einen\n  Fehler (BR-CO-26). Keine Sperre (#386)\n- **WerkPlus-Lizenz (optional).** Unter Einstellungen › WerkPlus lässt sich ein\n  Schlüssel eintragen oder ein 30-tägiger Testzeitraum starten. Die Instanz holt\n  sich damit bei api.werkwolke.de ein signiertes Token und prüft es danach\n  lokal; erneuert wird in der Regel einmal pro Woche. Ohne Schlüssel nimmt\n  RechnungsWerk erst Kontakt auf, wenn der Testzeitraum gestartet wird.\n  Übertragen werden nur eine zufällige Kennung der Installation, die\n  App-Version und eine Größenklasse, mit Schlüssel zusätzlich der Schlüssel,\n  keine Belegdaten, Personendaten, Benutzer oder Dateien. Alle bisherigen\n  Funktionen sind ohne Lizenz nutzbar (#335, #336)\n- **API-Schlüssel für den Maschinenzugang.** Bearer-Schlüssel (`rwrk_…`) für\n  die Rechnungs-API mit Rechten je Aktion und einstellbarem Ratenlimit; in der\n  Datenbank liegt nur der Hash. Erste Funktion, die WerkPlus voraussetzt\n  (#326, #361)\n- **Musterrechnungen in der CI.** Jede Änderung erzeugt zwölf echte\n  ZUGFeRD-PDFs (alle Steuerfälle, Storno, Sonderfälle) und prüft sie mit\n  Mustang gegen EN 16931 und PDF/A-3 (#21)\n\n### Changed\n- **Einstellungen mit Bereichsauswahl.** Statt vierzehn Abschnitten\n  untereinander steht links eine Auswahl in fünf Gruppen, rechts der gewählte\n  Bereich. Angefangene Eingaben bleiben beim Wechsel erhalten (#350)\n- **Festschreiben-Dialog kürzer.** Ein Satz statt vier; „Weitere Felder\" im\n  Editor ist geöffnet, sobald dort etwas eingetragen ist (#365)\n- **Listen-Layout wie in WorkTime.** Lange Empfängernamen brechen um, statt die\n  Aktionen aus dem Bild zu schieben (#364)\n- AGPL-3.0-Lizenztext liegt als `LICENSE` bei\n\n### Fixed\n- **Innergemeinschaftliche Lieferungen waren nie gültige E-Rechnungen.** Es\n  fehlten Lieferland, Leistungsdatum und USt-IdNr. (BR-IC-02/11/12). Die\n  Lieferanschrift ist jetzt die Kundenanschrift, Festschreiben verlangt eigene\n  und Kunden-USt-IdNr. sowie Leistungsdatum oder -zeitraum, und ein Storno\n  übernimmt Datum bzw. Zeitraum des Originals (#21)\n- **Ungespeicherte Eingaben gingen beim Wegnavigieren verloren.** Der Editor\n  fragt jetzt „Weiter bearbeiten / Verwerfen\", auch beim Neuladen der Seite\n  (#349)\n- **Produktauswahl.** Ein Klick ins Feld zeigt alle Produkte statt einer leeren\n  Liste, ohne Produkte führt ein Hinweis zum Produktbereich, und ein\n  eingefügtes Produkt füllt die leere Startzeile, statt eine zweite anzuhängen\n  (#305, #346, #347)\n\n### Security\n- Abhängigkeiten aktualisiert, darunter symfony/validator und symfony/yaml\n  (GHSA-4qpf-57w4-m3wc, GHSA-hwfg-qwvh-2wfx) sowie dompurify (#388)"
+            "changelog": "Protokoll über alle Vorgänge an Rechnungen und Angeboten, Standard-Textbausteine\nab Werk, Anrede nach Kontosprache und Löschrecht für API-Schlüssel.\n\n**Hinweis zum Update:** Instanzen ohne Textbausteine bekommen mit diesem Update\nvier Standard-Bausteine. Neue Belege tragen dann Einleitung und Schluss, auch\nim PDF. Das gilt auch dort, wo zuvor alle Bausteine bewusst gelöscht wurden.\nUnter Textbausteine lassen sie sich ändern oder löschen.\n\n### Added\n- **Protokoll.** Ein neuer Bereich zeigt, wer was an Rechnungen und Angeboten\n  getan hat: anlegen, ändern, löschen, festschreiben, versenden, bezahlt\n  markieren, stornieren, annehmen, ablehnen und übernehmen, auch über\n  API-Schlüssel. Der Editor zeigt die Einträge des jeweiligen Belegs. Vorgänge\n  vor diesem Update sind nicht erfasst (#392)\n- **DATEV im Protokoll.** Versand an DATEV, fehlgeschlagener Versand und die\n  Rückmeldung von DATEV stehen als eigene Einträge im Protokoll (#395)\n- **Standard-Textbausteine ab Werk.** Ist der Katalog leer, legt das Update\n  einmalig vier deutsche Bausteine an: Einleitung und Schluss für Rechnungen\n  und für Angebote. Bestehende Bausteine bleiben unberührt, gelöschte\n  Standard-Bausteine kommen nicht wieder (#398)\n- **Anrede nach Kontosprache.** „Deutsch (Persönlich)\" duzt, „Deutsch\n  (Förmlich)\" siezt. „English (UK)\" wird erkannt und folgt nicht mehr der\n  Browsersprache (#397)\n- **API-Schlüssel löschen eigene Entwürfe.** Neues Recht `invoices:delete`:\n  Ein Schlüssel kann Entwürfe löschen, die er selbst angelegt hat. Fremde\n  Belege antworten mit 404; bearbeitet eine Person den Entwurf, verliert der\n  Schlüssel den Zugriff. Setzt WerkPlus voraus (#393)\n\n### Changed\n- Der Name eines API-Schlüssels ist im Protokoll für alle App-Nutzer sichtbar;\n  die Einstellungen weisen beim Anlegen darauf hin (#393)\n\n### Fixed\n- **DATEV-Übergabe.** Eine bereits rausgegangene DATEV-Mail wird auch dann als\n  gesendet gemeldet, wenn nur der Status nicht gespeichert werden konnte.\n  Bisher stand dort „Versand fehlgeschlagen\", was ein erneutes Senden und damit\n  einen doppelten Upload bei DATEV nahelegte (#395)"
           }
         },
         "signatureDigest": "sha512"
@@ -156880,29 +157006,29 @@
     "issueTracker": "https://github.com/whollaus/cobudget/issues",
     "website": "https://github.com/whollaus/cobudget",
     "created": "2026-07-14T04:21:39.748607Z",
-    "lastModified": "2026-10-26T15:56:16.300912Z",
+    "lastModified": "2026-11-11T22:15:57.076237Z",
     "releases": [
       {
-        "version": "0.7.0",
+        "version": "0.8.5",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=33.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/whollaus/cobudget/releases/download/v0.7.0/cobudget.tar.gz",
-        "created": "2026-10-26T15:56:16.294691Z",
+        "download": "https://github.com/whollaus/cobudget/releases/download/v0.8.5/cobudget.tar.gz",
+        "created": "2026-11-11T22:15:57.059863Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-10-26T15:56:16.335692Z",
+        "lastModified": "2026-11-11T22:15:57.124077Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=33 <=35",
-        "signature": "P16sO1v+F9C5eF2TZOiTz8jyUhzuchAurPip8mqCWJmOY3LTL/OuucJg93hxFuxduQ+IGYPM4xxurko7cYmIX19ByOMjlRmDBW5rGQc/2M/ewzrN794NeappuFqeQUKOuUdUeaBBrfDp9iWLjFhOpRkai4Z9yMwUxHQ2Vxf9ZCkgp/JS0iarVhWcP/I4wJWz/Bow5aM8ClTRNXWGLYZaKQ+cL6vJ9+tX7hAbXvUZ+DSuMoEeDyXEbpkblo/rq0nb9OPhVN49/6tU2KdNaHc1Ox9hJBlSSjNZ+71mqWOGXn4gfL3XMGcU11pGOcfrsMzjanpAVZEkE4QnqIb6N2KXF+4YvGC4KhXlr4Fb107cAbSDnn/L/3eieqzBR+gH2rVov4j+oBydILpYHq+aXaegNcoWjKdvDqZjCJ8QBD40AWX/T6Xyo9aIBSJiTLSnd/IzrG6AXQkUxJel9+KPNqH8PXKyLrc2Jw2SMo4Ghq00+BjWB2TmIP2dw+9xgSI6XG8FqFjKvBtA4EvegaUfO7IS6S74cN5yqra/SvVtX/vBCKbc8SpT60gnsrZ0g6C4Djx3rAfzwRvweC4wqd89LN7gIKlTZgwT5zRayDeBp/vNark6XSkdbMkUj5NeCmVlz8nGoSTc6IyzaxGPTE69McwdCnQpsJLvWz3q9awmQiLdtjA=",
+        "signature": "FJAXG3SXozfZA26nTCA4j9HDVavYs0LNbUNjby+O/ndvJv4qGlkvImfVMM2obmn/ryo2xDXYlltkoIQDI1MeyKRsjqZU8mxekUS3lzhIcJqEwv3aB99iBV1po+BvgLQ4JwIX7sq9IaUGxGoIo4/rIpEqE2tmjuo01nR1Gaic43KtLTUbWsEsbNDpmNOAlqiVQGE+kd0e7GNVXfUFJKl+LaFmKX5Me9LHzEOTsTXJ6a2GsKZiks9PiDkRxVZf5TpRr3aytrgPsscnIvRddSD2Z1PvgsHTyiIkXOrn2BSNeQdRuoL/bEOCNXWyphCmgv9p3rY4CRi4HZcNoCSpd+Lx48cMbp+Cc+Cvr5A8kWvR1ms5933G1wqhz+PYubDg6IVYF7aCh+5+y13/SYzsSqEDj2yFD6AUG/Tk5gzvPdjt21dxSZENzoImLo2cr4lswtJEJ8PQsgC3wrziG13i24fE+DoEfwzx2wa8OK5ZiDBCJV5VIE70N1Re2vL2FdQTRX5qBu9jKWPsfUsruFxpPyfnV6FCIE1U3tgaLRZyhmxaUVN4lXxikfvEoXZva6pV3CwLQK5g/rZv4rxYscxgSkTAZkIspGGfwFxr8VJvupCdE2AMWXFvXMAml24uY4qyxLCz5u0YzY4Xm3HbX+TlkstBTcxm6DseAqdd9d09YDwzwtY=",
         "translations": {
           "en": {
-            "changelog": "Statistics has been completely rebuilt as **Reports**, bringing the former\nstatistics and report views together in one module.\n\n### Added\n\n- Explore income, expenses and balances through interactive development charts, period totals, averages, comparisons, period-end forecasts and the largest saved payments. Compare areas using personal shares or full amounts.\n- Choose preset or custom date ranges independently of daily, weekly, monthly or quarterly grouping. Apply category, payment-partner, area, label and tag filters, with optional future payments.\n- Open shareable detail pages and drill down through categories, payment partners, areas, labels and tags. Keep the selected dates, filters and financial perspective while inspecting charts, comparisons and matching payments, including editing and history.\n- Print reports and detail pages with charts and payment tables. Export whole reports or individual sections as CSV, save them in Nextcloud Files or copy them to the clipboard.\n\n### Changed\n\n- Unify forms, buttons, dialogs, menus, tabs, cards, tables, typography, icons and status indicators across modules. Bring selection, hover and focus states closer to Nextcloud, with consistent light/dark themes, keyboard access and mobile layouts, while preserving financial colors and intentional CoBudget variants.\n- Improve payment entry with clearer label and area selection, consistent amount-field feedback and automatic focus/scroll when expanding receipts, recurrence and reminders.\n- Use a consistent natural alphabetical order for areas throughout the app. Preserve existing report and Statistics links and remember report views and section preferences.\n\n### Fixed\n\n- Keep report totals, averages, comparisons, recurring projections and forecasts consistent across dates, filters and personal/shared perspectives. Refresh results reliably after selection changes and avoid counting shared payments or overlapping labels and tags twice."
+            "changelog": "This release includes the changes developed in 0.8.0–0.8.4 since the 0.7.0 release.\nCoBudget remains beta; 1.0.0 is intended to be the first stable product release.\n\n- Refresh desktop and mobile navigation, payment tables, editors, filters, reports and settings with consistent Nextcloud controls, theme support and keyboard shortcuts.\n- Improve planned and recurring payments, searchable category/payment-partner selection, and payment filtering and summaries.\n- Add a personal reminder organizer with standalone and payment-linked reminders, completion, automatic archival, postponement, action labels and an upcoming-reminder summary on Payments.\n- Add independent Nextcloud and Talk notification preferences for reminders and due planned or recurring payments, with per-recipient delivery tracking and retries.\n- Add optional calendar synchronization, including bidirectional private-calendar edits, explicit conflict resolution and safe handling of deleted events; shared calendars remain export-only.\n- Include reminder data and notification preferences in backup/reset workflows and apply the required additive database migrations. Calendar connections remain server-local and require setup after financial restore.\n- Fix namespaced account locking for calendar and Talk synchronization and expand regression coverage and contributor documentation."
           }
         },
         "signatureDigest": "sha512"
@@ -160289,32 +160415,32 @@
     "issueTracker": "https://github.com/weltmaister/photosphere_tours/issues",
     "website": "https://github.com/weltmaister/photosphere_tours",
     "created": "2026-10-02T19:12:24.186975Z",
-    "lastModified": "2026-11-10T09:29:06.260175Z",
+    "lastModified": "2026-11-11T11:45:17.575183Z",
     "releases": [
       {
-        "version": "0.6.1",
+        "version": "0.6.2",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": ">=8.2.0",
         "platformVersionSpec": ">=33.0.0 <41.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/weltmaister/photosphere_tours/releases/download/v0.6.1/photosphere_tours.tar.gz",
-        "created": "2026-11-10T09:29:06.255131Z",
+        "download": "https://github.com/weltmaister/photosphere_tours/releases/download/v0.6.2/photosphere_tours.tar.gz",
+        "created": "2026-11-11T11:45:17.567641Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-10T09:29:06.310135Z",
+        "lastModified": "2026-11-11T11:45:17.633127Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2",
         "rawPlatformVersionSpec": ">=33 <=40",
-        "signature": "LkOE8rukNlPFLLXKu/GQtbOhfRf2UmNA835ZR1qZbFD4WuVG97Gra695vaKF4GKhNeN20APdsSaAjjCj/inJ6p/GrNRh2h1Umte/9hkdjmBbydDzn1mRZM3GLrDZWxnWHaWKS4Z2JIrmjKFsiDLAOT+uR3xC5yXHsx9oHGNLylYAR5NKq2klfcTLREVBxK2wCd2mcJ2fwITfyOnbztq50qSg20sKNgrDvSK1YwqvRDf3xX3+5t4DhAZDt357XJ6m20SpA1svn2gVnDz8r2mPrsRSL8nx+zuMhHPQ8W3XRsMGw9uQRui8SguoxUb2mc/+jkaf/Fbhfd5v0/HVmUvF4ABb945aQXqR5eN1nZDmkUOGCMC/2T3fTiEDCkwVlo/jNbzsqFphoLPm2mUVgNmV1eUP/2BEvRu2x2w7ObERT9D1G6eMkRoN5Faq7iw4j8F1/8Kdj0YzXJ7z0m2O1QlmDHqPj5bZ3ix6tXrbzt1LyRzUSrFSDnnyxhelkaLSHBKepP4zV2/BITmVuBKkKp9/l7R2qdGmoDfXcxsW9s1XQ0nVNlCviEUDMf30KcJS8InDH5OXpnl+lyHHaFJfcPG0ALEkFecWgGqWNIr69+EtlDbwYerLHuVRD9nPYrkUKl7WqwbL0vnfnS8pKHDoB40mtKnrY7WCpinj0VWA0CYKorI=",
+        "signature": "Ajy9Dcze7fgMyO/dczOXVwfeQ1OsV74u3wC/lY7Zic7/ppX9SL8pAiqyV7Jl/rVwQimXu7svYiNHu3B87CAQ5GOQZqWAY60HDxUcs2p2SsLV6d+jNpR+Ho6qHuQd8I02e0h6KUAGiLg4qC6J19amwdZJcU1WWTX68LVDpU71PBHUEmiQJZstD5fCgzasCBOlmGFSp6O8IC0xezmWEjXepQUGl5Pw4klQVYqaoKnNqePMDCBAmxnN0Gu+F2UCf/tdXWmMut1zQ51c72oM/PBjDsX3nF/hG8lquKPH2OAHQvfR57GVfvnJAhF6Ot8hDvViivPowyPVUHvdmXeYYGmk/86lv4OaO/DNY0XxHi1VxWgDxTgz+gKd7ZvhUj9AuZmSZTO/tYNmpyTL4jhy+b+JP8Jtj8fZ0lnkArDbUfxTgIVzTbn/dx22YnriEXNdjYAV6Qh7Yrxf3r2jc1dMTV0zvCbBdt9tl6rrWYXUPHSGJoh4s0bDMbsPuvFtotz7sQdUigBV2yj0gVGMC6xe0RHIMzb/rvLn9bkHR5pzaMtBfr3icKuMg4zydHCi2Vjj4fkGLMljYO32aI2mH56I5DQoXXi34WVWMgPw3oND9Fy+LiKPSJ2ivLmWPEMVscPN6m0p52tQbBhaQtWNY8NTHyJ2ColU2G2nZpK6Jf66KEyWlTY=",
         "translations": {
           "en": {
-            "changelog": "### Changed\n- **Nextcloud 35:** tested and supported; the app can be enabled on Nextcloud 33 to 40.\n  No upper PHP limit any more (Nextcloud sets it).\n\n### Fixed\n- **Viewer:** with many visits the window no longer grows wider than the screen; the\n  visit dates scroll sideways and the header buttons stay visible."
+            "changelog": "### Security\n- **Dependencies:** updated DOMPurify (used by the Nextcloud components for rendering\n  text) to 3.4.17, which closes a critical and a high-severity sanitizer bypass. Build\n  and test tools updated as well; `npm audit` reports no known vulnerabilities.\n\n### Changed\n- **Dependencies:** current minor versions of the Nextcloud libraries, Vue and pdf.js\n  (6.5). Still Nextcloud 33 to 40, tested with 35."
           },
           "de": {
-            "changelog": "### Geändert\n- **Nextcloud 35:** getestet und unterstützt; die App lässt sich auf Nextcloud 33 bis 40\n  aktivieren. Keine eigene PHP-Obergrenze mehr (die setzt Nextcloud).\n\n### Behoben\n- **Ansicht:** Bei vielen Begehungen wird das Fenster nicht mehr breiter als der\n  Bildschirm; die Begehungstermine scrollen seitlich, die Knöpfe oben bleiben sichtbar."
+            "changelog": "### Sicherheit\n- **Abhängigkeiten:** DOMPurify (bereinigt Texte in den Nextcloud-Komponenten) auf\n  3.4.17 aktualisiert; damit sind eine kritische und eine schwere Lücke geschlossen.\n  Auch Build- und Testwerkzeuge sind aktualisiert; `npm audit` meldet keine bekannten\n  Schwachstellen.\n\n### Geändert\n- **Abhängigkeiten:** aktuelle Minor-Versionen der Nextcloud-Bibliotheken, von Vue und\n  pdf.js (6.5). Weiterhin Nextcloud 33 bis 40, getestet mit 35."
           }
         },
         "signatureDigest": "sha512"
@@ -167456,10 +167582,10 @@
     "issueTracker": "https://github.com/aktasfatih/kanso/issues",
     "website": "https://aktasfatih.com/kanso/",
     "created": "2026-08-17T14:28:38.819723Z",
-    "lastModified": "2026-11-06T13:37:24.232705Z",
+    "lastModified": "2026-11-11T20:59:09.172072Z",
     "releases": [
       {
-        "version": "0.45.0",
+        "version": "0.45.1",
         "phpExtensions": [
           {
             "id": "zip",
@@ -167472,19 +167598,19 @@
         "phpVersionSpec": ">=8.2.0",
         "platformVersionSpec": ">=32.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/aktasfatih/kanso/releases/download/v0.45.0/kanso.tar.gz",
-        "created": "2026-11-06T13:37:24.206196Z",
+        "download": "https://github.com/aktasfatih/kanso/releases/download/v0.45.1/kanso.tar.gz",
+        "created": "2026-11-11T20:59:09.165863Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-06T13:37:24.394166Z",
+        "lastModified": "2026-11-11T20:59:09.283157Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2",
         "rawPlatformVersionSpec": ">=32 <=35",
-        "signature": "mBz8myZ9ADUBr8c+bJBDc3MLVy2SshB4Avf+V3gl66eBgV96VeI322fom4hm2Q7KGI8SnBEaN8kkr+SeeyG9Qa7ObcQyO08puCH0Nr77L+eBxsxTRtOjRPAM+OrBCpEzRlPZra341j1ETK+/4YH5y2gpC+Z+ftT7WH/TLX53PcxC+6N+VE3z51vvPPt1y7DPfy3TJyDaJW9Q22gNPiiH4xZrRaxveEnl8PIW3+9E9Y9YsDnGe4IFT6oBqXmDLVlzvTXrVAcqE8bgHzkISusKlvUNOTs95gnxq/g06p/E+n7Hx7zl4LDRttCo9zDVDdgb6xrmKhJY0DqHyZCsYY6fDJmfJxcv9CB5UZ1O89btftEBhY+vZzAG0Dy1xNxk0mMrmRky4ciLDs1cZjD+iSWi8+KH9NFu1PGNZj03LHpq0ncHDK9OAGucBIJKm+nAXzgpsLLz7Pqjjp2Va5+q/9nSRib8SFuDYR84ER42vlgew/Y1SK8lpER2msajijCOMvuhc0e1x615Pgq2zAlI+tTxlHPW+/rSX3FKiML3MzgZJ2u/V4foCyLR6o1+FcQ268XL0ypVzBwWYasFXV1tkHcjTgQzRH589102B6bUgr0UEQe6cKZISubluKQU9cZGDxAmfNgEED9YzXlQWnSW1cWdkrm35JH2UsWJ9Lwdr67CqAQ=",
+        "signature": "MEVZyYK8TstisTKabeavi7kA66IFrtnD8vbH+5/wlkpX1Y4Mn9bCJrLwIZep9WwpiAVXJtQRWy5uTx0WRBsZcKr+2SbOgPdZKI4V+w097Q+LS+gZjskIRntlGCVga4Fe5KvYVi2Aakfi1xrI0MJKXRT6XnNMINlNT1zZgcZ4mxq3ehsEGn6cPfKbColbECSzxEAr6pq0uMIZ8io3v0cBgA4v202Tsi2XuUTdxsEWhCLvcfGMquDM+Gor/Qinz5koSjWcawl2v31ww/tR+hB/vb9/ZzGZoQFIzVepIbO/VycJmPSVY/9KjPa4OJkEWjLaqBhsmPM5rWCG9MOBRXcMvlTw/5WZ4ZJS2fjP50GnHzSInjBP2bZ3O/jWS+WmVyc6bMht0kA26fBT+swd4d4PYVQ8YjLtpLW839kO0LO3JDZm2tmoC9c4CHUEQpr72XiGBCTrHybBe6Ey5kvwC0Lfbdb13wINDIh5PrKjCC/ewlmNd08pVSY41+a3Q1hp2VvimMEsrafYOu7laxJTdo3YHSMKU3inRoeoeJ+NMnaVT8r01bb4DX8+Y0VSMO321TPJYIYzGTEfctx3XBRTrRfNx+7FLm53ige+T5w2gB+oqRC/45IP+Mrkk0/uR+LYd16ZXOHwPv8PoxLnuwpfvD3FMLSSGv7vOOVCiWiLCBkglC4=",
         "translations": {
           "en": {
-            "changelog": "### Bug Fixes\n\n* board sharing now follows the Nextcloud sharing settings ([3718aa8](https://github.com/aktasfatih/kanso/commit/3718aa8b2cffb8412ff52531e342b1c48adcb47c))\n* making an external board member internal now checks the sharing settings ([8bd63da](https://github.com/aktasfatih/kanso/commit/8bd63da5803fea612cdc149a5c9ad05758526725))\n* **mcp:** report a completed leave even if the follow-up check fails ([5e1e389](https://github.com/aktasfatih/kanso/commit/5e1e3894c9edcdf625acafc5544354a67f7d4ce2))\n* shared projects stay current and keep collaborators' edits ([3fce281](https://github.com/aktasfatih/kanso/commit/3fce281eb016c1e60e87618b54490a3e6135dd5b))\n\n\n### Features\n\n* **mcp:** manage project shares from the MCP server ([352bdb5](https://github.com/aktasfatih/kanso/commit/352bdb56adbda2e9fa21195da3bfa7af501e9fc9))\n* share projects with users and groups ([f804192](https://github.com/aktasfatih/kanso/commit/f80419214ed32b61363be1797b60f90f95a86b92))"
+            "changelog": "### Bug Fixes\n\n* a card update arriving while you type no longer wipes the date or field you are editing ([486e215](https://github.com/aktasfatih/kanso/commit/486e215ae8645f3c518563bca0c536da6885d172))\n* dates and fields typed in a card no longer vanish while its timer is running ([ff7616b](https://github.com/aktasfatih/kanso/commit/ff7616ba9d655babe44a541415cffac5eb61f3a8))\n* **deps:** bump the npm-production group across 1 directory with 11 updates ([816d663](https://github.com/aktasfatih/kanso/commit/816d6637cb59741d4a41438511d14b68649551c9))\n* WIP limits, review stages and project dates keep what you type when the board or project updates ([6020d73](https://github.com/aktasfatih/kanso/commit/6020d73fba6db02d18896cd5beb713de731b3353))"
           }
         },
         "signatureDigest": "sha512"
@@ -167595,6 +167721,11 @@
         "summary": "İncelemeler, projeler ve gerçek zamanlı eşitleme sunan hızlı, açık kaynaklı kanban panoları",
         "description": "Kanso, Nextcloud için hız odaklı geliştirilmiş bir kanban pano uygulamasıdır.\nAnında sürükle & bırak, iyimser güncellemeler ve büyük panolara (2.000+ kart)\ngöre boyutlanmış veri yükleriyle panolar, sütunlar ve kartlar. notify_push ile\ngerçek zamanlı güncellemeler, yoklamaya geri düşme seçeneğiyle.\n\nMarkdown, etiketler, bitiş tarihleri, atananlar, öncelikler, kontrol\nlisteleri, üst/alt kartlar ve @bahsetme ile izleyicileri destekleyen konu\nbaşlıklı yorumlarla zengin kartlar. Her biri 100 MiB'ye kadar dosya ekleri,\npano başına özel kart alanları (metin, sayı, tarih veya seçim listesi), kart\nbaşına toplamı gösteren zaman kaydı ve bir kart ya da tek bir yorum için özel\nhatırlatıcılar. Kullanıcı ve grup bazında erişim denetimiyle pano paylaşımı ve\nNextcloud hesabı gerektirmeyen, isteğe bağlı salt okunur herkese açık bağlantı.\n\nBir inceleme akışı (inceleme isteme, onaylama / değişiklik isteme,\nözelleştirilebilir inceleme türleri ve isteğe bağlı bir tamamlanma kapısı).\nPanolar arası bir \"İşlerim\" merkezi (görevlerim, incelemeler, gelen kutusu),\npanolar arası Projeler ve pano ile proje bazında analitik (hız, döngü süresi,\niş çıktısı). Pano, Liste ve Zaman Çizelgesi (Gantt) görünümleri; kulvarlar\n(swimlane), kayıtlı filtreler ve görüntüleme sıralaması.\n\nRRULE zamanlamalarına göre yinelenen kartlar, otomatik arşivleme kuralları,\nWIP sınırları ve sütun rolleri, kart şablonları, tam metin aramalı bir komut\npaleti ve geri yükleme destekli çöp kutusu.\n\nOkuma erişimi olan her pano, bitiş tarihi olan kartlarıyla birlikte salt okunur\nbir CalDAV görev listesi olarak da görünür; pano başına isteğe bağlı bir .ics\nakışı da yayımlanabilir. E-posta alımı, bir IMAP klasörüne gelen iletileri\nseçilen sütunda karta dönüştürür; GitHub ve Forgejo bağlantıları ile\nwebhook'lar kartları pull request ve issue'larla uyumlu tutar. Tek tıkla\nDeck'ten içe aktarma, Trello JSON dışa aktarımından veya bir CSV dosyasından\niçe aktarma, bir panonun ekleriyle birlikte zip olarak dışa aktarılıp geri\nalınması, pano çoğaltma ve yöneticiler için tüm panoların zamanlanmış düzenli\nyedeklenmesi."
       },
+      "pt-br": {
+        "name": "Kanso",
+        "summary": "Quadros kanban rápidos e de código aberto, com revisões, projetos e sincronização em tempo real",
+        "description": "O Kanso é um aplicativo de quadros kanban para Nextcloud, feito para ser\nrápido. Quadros, colunas e cartões com arrastar e soltar instantâneo,\natualizações otimistas e respostas dimensionadas para quadros grandes (mais de\n2.000 cartões). Atualizações em tempo real via notify_push, com consulta\nperiódica como alternativa.\n\nCartões completos com markdown, etiquetas, datas de vencimento, responsáveis,\nprioridades, checklists, cartões pai/filho e comentários em conversas com\nmenções @ e observadores. Anexos (até 100 MiB cada), campos personalizados por\nquadro (texto, número, data ou lista de seleção), registro de tempo com o total\npor cartão e lembretes privados para um cartão ou um único comentário.\nCompartilhamento de quadros com controle de acesso por usuário e por grupo, e\num link público somente leitura opcional, que não exige conta no Nextcloud.\n\nUm fluxo de revisão (solicitar revisão, aprovar / solicitar alterações, tipos\nde revisão personalizáveis e uma trava opcional de conclusão). Um espaço Meu\ntrabalho que abrange todos os quadros (minhas tarefas, revisões, caixa de\nentrada), Projetos entre quadros e análises por quadro e por projeto\n(velocidade, tempo de ciclo, vazão). Visualizações em quadro, lista e linha do\ntempo (Gantt), com raias (swimlanes), filtros salvos e ordenação de exibição.\n\nCartões recorrentes com agendamentos RRULE, regras de arquivamento automático,\nlimites de WIP e papéis de coluna, modelos de cartão, uma paleta de comandos\ncom busca de texto completo e lixeira com restauração.\n\nTodo quadro com acesso de leitura também aparece como uma lista de tarefas\nCalDAV somente leitura com seus cartões que têm data de vencimento, e\nopcionalmente publica um feed .ics por quadro. A entrada por e-mail transforma\nas mensagens de uma pasta IMAP em cartões na coluna escolhida, e os links e\nwebhooks do GitHub e do Forgejo mantêm os cartões em dia com pull requests e\nissues. Importação do Deck com um clique, importação de uma exportação JSON do\nTrello ou de um CSV, exportação e reimportação de um quadro como zip com os\nanexos, duplicação de quadros e backups periódicos agendados de todos os\nquadros para administradores."
+      },
       "ru": {
         "name": "Kanso",
         "summary": "Быстрые канбан-доски с открытым исходным кодом: проверки, проекты и синхронизация в реальном времени",
@@ -167615,6 +167746,11 @@
         "summary": "Szybkie tablice kanban open source z recenzjami, projektami i synchronizacją w czasie rzeczywistym",
         "description": "Kanso to aplikacja z tablicami kanban dla Nextcloud, zbudowana z myślą o\nszybkości. Tablice, kolumny i karty z natychmiastowym przeciąganiem i\nupuszczaniem, optymistycznymi aktualizacjami oraz odpowiedziami dobranymi pod\nduże tablice (ponad 2000 kart). Aktualizacje w czasie rzeczywistym przez\nnotify_push, z odpytywaniem jako rozwiązaniem awaryjnym.\n\nRozbudowane karty z Markdownem, etykietami, terminami, osobami przypisanymi,\npriorytetami, listami kontrolnymi, kartami nadrzędnymi i podkartami oraz\nwątkowanymi komentarzami z @wzmiankami i obserwującymi. Załączniki (do 100 MiB\nkażdy), własne pola kart dla każdej tablicy (tekst, liczba, data lub lista\nwyboru), rejestrowanie czasu z sumą dla karty oraz prywatne przypomnienia o\nkarcie lub o pojedynczym komentarzu. Udostępnianie tablic z kontrolą dostępu\ndla poszczególnych użytkowników i grup oraz opcjonalny publiczny odnośnik tylko\ndo odczytu, który nie wymaga konta Nextcloud.\n\nPrzepływ recenzji (poproś o recenzję, zatwierdź lub poproś o zmiany,\nkonfigurowalne typy recenzji i opcjonalna bramka ukończenia). Wspólne dla\nwszystkich tablic centrum „Moja praca” (moje zadania, recenzje, skrzynka\nodbiorcza), projekty zbierające karty z wielu tablic oraz statystyki tablic i\nprojektów (prędkość, czas cyklu, przepustowość). Widoki: tablica, lista i oś\nczasu (Gantt), z torami (swimlane), zapisanymi filtrami i sortowaniem widoku.\n\nKarty cykliczne według harmonogramów RRULE, reguły autoarchiwizacji, limity WIP\ni role kolumn, szablony kart, paleta poleceń z wyszukiwaniem pełnotekstowym\noraz kosz z przywracaniem.\n\nKażda tablica z prawem odczytu pojawia się także jako lista zadań CalDAV tylko\ndo odczytu z kartami, które mają termin, opcjonalnie z kanałem .ics dla\ntablicy. Odbiór poczty zamienia wiadomości z folderu IMAP w karty w wybranej\nkolumnie, a odnośniki i webhooki GitHuba oraz Forgejo utrzymują karty w zgodzie\nz pull requestami i zgłoszeniami. Import z Deck jednym kliknięciem, import z\neksportu JSON z Trello lub z pliku CSV, eksport tablicy do archiwum zip razem z\nzałącznikami i ponowny import, duplikowanie tablic oraz zaplanowane okresowe\nkopie zapasowe wszystkich tablic dla administratorów."
       },
+      "zh-hans": {
+        "name": "Kanso",
+        "summary": "快速的开源看板，支持评审、项目和实时同步",
+        "description": "Kanso 是一款为速度而生的 Nextcloud 看板应用。看板、列和卡片支持即时拖放和乐观\n更新，数据量按大型看板（2000+ 张卡片）设计。通过 notify_push 实时更新，并提供\n轮询作为后备方案。\n\n功能丰富的卡片，支持 Markdown、标签、截止日期、负责人、优先级、清单、父子卡片，\n以及带 @提及 和关注者的话题式评论。卡片附件（每个文件最大 100 MiB）、按看板\n定义的自定义字段（文本、数字、日期或下拉列表）、带单卡合计的工时记录，以及\n针对卡片或单条评论的私人提醒。看板共享支持按用户和按群组的访问控制，还可选择\n开启无需 Nextcloud 账号的只读公开链接。\n\n完整的评审流程（请求评审、通过或请求修改、可自定义的评审类型，以及可选的完成\n门禁）。跨看板的“我的工作”中心（我的任务、评审、收件箱）、跨看板的项目，以及\n按看板和按项目的分析（速率、周期时间、吞吐量）。提供看板、列表和时间轴（甘特图）\n三种视图，并支持泳道、已保存的筛选条件和显示排序。\n\n按 RRULE 计划重复的卡片、自动归档规则、WIP 限制和列角色、卡片模板、带全文搜索\n的命令面板，以及可恢复的回收站。\n\n每个有读取权限的看板还会以只读 CalDAV 任务列表的形式呈现其设有截止日期的卡片，\n并可按看板发布可选的 .ics 订阅源。邮件收取可将 IMAP 文件夹中的来信转为指定列中\n的卡片；GitHub 与 Forgejo 链接和 webhook 让卡片随合并请求和工单的进展保持同步。\n支持一键从 Deck 导入，也可从 Trello 的 JSON 导出或 CSV 导入，将看板连同附件\n导出为 zip 并重新导入，复制看板，管理员还可定期备份全部看板。"
+      },
       "en": {
         "name": "Kanso",
         "summary": "Fast open-source kanban boards with reviews, projects and realtime sync",
@@ -167629,16 +167765,6 @@
         "name": "Kanso",
         "summary": "Bacheche kanban veloci e open source, con revisioni, progetti e sincronizzazione in tempo reale",
         "description": "Kanso è un'app di bacheche kanban per Nextcloud, progettata per la velocità.\nBacheche, colonne e schede con trascinamento istantaneo, aggiornamenti\nottimistici e volumi di dati pensati per bacheche di grandi dimensioni (oltre\n2.000 schede). Aggiornamenti in tempo reale tramite notify_push, con\nl'interrogazione periodica come alternativa.\n\nSchede complete con Markdown, etichette, scadenze, assegnatari, priorità,\nliste di controllo, schede principali e sotto-schede, e commenti in\ndiscussioni con menzioni @ e osservatori. Allegati (fino a 100 MiB ciascuno),\ncampi personalizzati per bacheca (testo, numero, data o elenco a scelta),\nregistrazione del tempo con il totale per scheda e promemoria privati su una\nscheda o su un singolo commento. Condivisione delle bacheche con controllo\ndegli accessi per utente e per gruppo e un collegamento pubblico di sola\nlettura facoltativo, che non richiede un account Nextcloud.\n\nUn flusso di revisione (richiesta di revisione, approvazione o richiesta di\nmodifiche, tipi di revisione personalizzabili e un blocco facoltativo sul\ncompletamento). Uno spazio «Il mio lavoro» comune a tutte le bacheche (le mie\nattività, revisioni, posta in arrivo), progetti trasversali alle bacheche e\nstatistiche per bacheca e per progetto (velocità, tempo di ciclo,\nproduttività). Viste Bacheca, Elenco e Linea del tempo (Gantt), con corsie\n(swimlane), filtri salvati e ordinamento di visualizzazione.\n\nSchede ricorrenti con pianificazioni RRULE, regole di archiviazione\nautomatica, limiti WIP e ruoli delle colonne, modelli di scheda, una palette\ndei comandi con ricerca a testo completo e cestino con ripristino.\n\nOgni bacheca con accesso in lettura compare anche come elenco di attività\nCalDAV di sola lettura con le sue schede con scadenza, con un feed .ics\nfacoltativo per bacheca. La ricezione e-mail trasforma i messaggi di una\ncartella IMAP in schede in una colonna scelta, mentre collegamenti e webhook di\nGitHub e Forgejo mantengono le schede allineate a pull request e segnalazioni.\nImportazione da Deck con un solo clic, importazione da un'esportazione JSON di\nTrello o da un CSV, esportazione e reimportazione di una bacheca come archivio\nzip con i suoi allegati, duplicazione delle bacheche e backup periodici\npianificati di tutte le bacheche per gli amministratori."
-      },
-      "zh-hans": {
-        "name": "Kanso",
-        "summary": "快速的开源看板，支持评审、项目和实时同步",
-        "description": "Kanso 是一款为速度而生的 Nextcloud 看板应用。看板、列和卡片支持即时拖放和乐观\n更新，数据量按大型看板（2000+ 张卡片）设计。通过 notify_push 实时更新，并提供\n轮询作为后备方案。\n\n功能丰富的卡片，支持 Markdown、标签、截止日期、负责人、优先级、清单、父子卡片，\n以及带 @提及 和关注者的话题式评论。卡片附件（每个文件最大 100 MiB）、按看板\n定义的自定义字段（文本、数字、日期或下拉列表）、带单卡合计的工时记录，以及\n针对卡片或单条评论的私人提醒。看板共享支持按用户和按群组的访问控制，还可选择\n开启无需 Nextcloud 账号的只读公开链接。\n\n完整的评审流程（请求评审、通过或请求修改、可自定义的评审类型，以及可选的完成\n门禁）。跨看板的“我的工作”中心（我的任务、评审、收件箱）、跨看板的项目，以及\n按看板和按项目的分析（速率、周期时间、吞吐量）。提供看板、列表和时间轴（甘特图）\n三种视图，并支持泳道、已保存的筛选条件和显示排序。\n\n按 RRULE 计划重复的卡片、自动归档规则、WIP 限制和列角色、卡片模板、带全文搜索\n的命令面板，以及可恢复的回收站。\n\n每个有读取权限的看板还会以只读 CalDAV 任务列表的形式呈现其设有截止日期的卡片，\n并可按看板发布可选的 .ics 订阅源。邮件收取可将 IMAP 文件夹中的来信转为指定列中\n的卡片；GitHub 与 Forgejo 链接和 webhook 让卡片随合并请求和工单的进展保持同步。\n支持一键从 Deck 导入，也可从 Trello 的 JSON 导出或 CSV 导入，将看板连同附件\n导出为 zip 并重新导入，复制看板，管理员还可定期备份全部看板。"
-      },
-      "pt-br": {
-        "name": "Kanso",
-        "summary": "Quadros kanban rápidos e de código aberto, com revisões, projetos e sincronização em tempo real",
-        "description": "O Kanso é um aplicativo de quadros kanban para Nextcloud, feito para ser\nrápido. Quadros, colunas e cartões com arrastar e soltar instantâneo,\natualizações otimistas e respostas dimensionadas para quadros grandes (mais de\n2.000 cartões). Atualizações em tempo real via notify_push, com consulta\nperiódica como alternativa.\n\nCartões completos com markdown, etiquetas, datas de vencimento, responsáveis,\nprioridades, checklists, cartões pai/filho e comentários em conversas com\nmenções @ e observadores. Anexos (até 100 MiB cada), campos personalizados por\nquadro (texto, número, data ou lista de seleção), registro de tempo com o total\npor cartão e lembretes privados para um cartão ou um único comentário.\nCompartilhamento de quadros com controle de acesso por usuário e por grupo, e\num link público somente leitura opcional, que não exige conta no Nextcloud.\n\nUm fluxo de revisão (solicitar revisão, aprovar / solicitar alterações, tipos\nde revisão personalizáveis e uma trava opcional de conclusão). Um espaço Meu\ntrabalho que abrange todos os quadros (minhas tarefas, revisões, caixa de\nentrada), Projetos entre quadros e análises por quadro e por projeto\n(velocidade, tempo de ciclo, vazão). Visualizações em quadro, lista e linha do\ntempo (Gantt), com raias (swimlanes), filtros salvos e ordenação de exibição.\n\nCartões recorrentes com agendamentos RRULE, regras de arquivamento automático,\nlimites de WIP e papéis de coluna, modelos de cartão, uma paleta de comandos\ncom busca de texto completo e lixeira com restauração.\n\nTodo quadro com acesso de leitura também aparece como uma lista de tarefas\nCalDAV somente leitura com seus cartões que têm data de vencimento, e\nopcionalmente publica um feed .ics por quadro. A entrada por e-mail transforma\nas mensagens de uma pasta IMAP em cartões na coluna escolhida, e os links e\nwebhooks do GitHub e do Forgejo mantêm os cartões em dia com pull requests e\nissues. Importação do Deck com um clique, importação de uma exportação JSON do\nTrello ou de um CSV, exportação e reimportação de um quadro como zip com os\nanexos, duplicação de quadros e backups periódicos agendados de todos os\nquadros para administradores."
       }
     },
     "isFeatured": false,
@@ -168033,29 +168159,29 @@
     "issueTracker": "https://github.com/holger-dev/nextledger/issues",
     "website": "https://github.com/holger-dev/nextledger",
     "created": "2026-02-16T11:24:10.614626Z",
-    "lastModified": "2026-09-24T07:28:48.777923Z",
+    "lastModified": "2026-11-12T07:49:53.358500Z",
     "releases": [
       {
-        "version": "1.7.2",
+        "version": "1.7.3",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=30.0.0 <35.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/holger-dev/nextledger/releases/download/v1.7.2/nextledger.tar.gz",
-        "created": "2026-09-24T07:28:48.744882Z",
+        "download": "https://github.com/holger-dev/nextledger/releases/download/v1.7.3/nextledger.tar.gz",
+        "created": "2026-11-12T07:49:53.340115Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-09-24T07:28:48.823456Z",
+        "lastModified": "2026-11-12T07:49:53.387061Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=30 <=34",
-        "signature": "TpuI/yQ5+5aXBfJG/nYFnSsN96VEaOXL9P2npvogQzFgrVZXnEcn4hMuGwnG8cD9whszD2s8+hLXHVE/dk0IEGKRP/2z513nw93x5EvnbbAKKoD3DJXt5r2lPS+jd/8JfjfJ+X0b3SmaiXUlo8cHDXLj34clNWLxXq3rwKoqpgjcxfyMwCT3WC2HM2CO1UDRAU79w/VrieBopPIddVOr25AfF7jRoItCy4jpqU/cQlNdS4pQswfWwz/vLlpngIXZLqBTOn03vRZkzGILGt6SRFEPommuBvNmpUnTv80ImgFp3r8RE0jIYwMqk6qxcYH5J/s2DK0mdaWBvESHq7dYMHoR6pkGQTUL5ahz3UPZUBq6KVpRj6Lo33XqKOCVc2AZn64r2dKvV62v10Z+NBvILluSvSb3KXTEHfZTzk9Va19N72eC8L+odz6ZZkKs/QhvsXyzduW17x3/Xv/lmKoj4CCbMEJ9kbRtYtz3QN31C7BCbxF1aAaLN9JWpkaZIKaVzozh34xwq2BF7puyrWO9Wqvf5iQOzr9E17wCPfY5Y0rsdGnUAX7GofkFxShqAG1KVPNIUjm/x2b6P8v6PYuL6X5OoBdM40ABWUF8Ch6m5bYHkiuF6uafcYGe06zJQcLhdEjPIIzxw/VetEtQhxI0Zj3vHT7siIvtpiyvknL0Wd0=",
+        "signature": "ooShTnByeaIcHnUlMC0oAOoXPwQsq0ptDaKe6yGsjYSY8BvCiRER3KeA2Pq8h6hD13F2kgRNxY52GH8xynWdjTwday4NI+RO+GEzmteYT0VAjMHpE0L8YJAxHoETCx9V8+YtXeHe3TvRX25q2WAl03PRtgdj3OEiFJsSlAt/uAWsDtc96y+HOYPpxGLSpD9zw515B0BvnHz/QA8KLBSHA+9tKN+9K72wj/zP5S2bs5YzQ5YxdXFWRkQKVR02+4wPErz8YUF3nLboOE/m8P4SHo/qU6ijxOCQpUW/wj2ZFJEEz2qb4spmPKgDPM4e30XiUv3dZTy8aWN0jXu6qmODUbt0fCA6ilE+L6DCKnvzMyIx+bj9YG9wt0kELnfopcJ9cYWvdUopAOVHbOiKVtuqcEUNNP7eDCWyCqxKICs7GAdpXU+NmcPxoEnFgeI3X+MG08dY8JpcnlkJpMOKg6Hh0zOHLZKpPzTfmbC1D5ApchO4gqfiTL/x3EY21S8ReKZbuO9TUasKEctpNfLYZoIJ7BWRYfd3LZ0HbL9M35vHmM2yHFjvGmVJpNDfdAhwsbkQk6PB16sBp47xQmiXwpiSUgw5+8fpgxQtpqsX5kXjEcM606Jis3L3nExmmLgMx/K7ipcNB8gO2uw4H3mAyqDOkCe85085VQok3isbv1eBYXA=",
         "translations": {
           "en": {
-            "changelog": "Fixes ZUGFeRD/EN16931 validation for Kleinunternehmer invoices (reported by Thomas Gunzelmann — thank you!).\n\n- **BR-CO-26**: When the company has a German tax number but no VAT-ID, the tax number is now additionally emitted as the seller identifier (BT-29, `ram:SellerTradeParty/ram:ID`). A tax registration with scheme `FC` alone maps to BT-32 and did not satisfy the rule.\n- **BR-E-10**: VAT breakdowns with category `E` (exempt, Kleinunternehmerregelung) now carry an exemption reason text (BT-120). The note configured under Settings → Steuer is used; if empty, a standard § 19 UStG phrase is emitted in the company's document language.\n- The Kleinunternehmer note / tax settings are now passed through to both the hybrid PDF/A-3 and the sidecar XML endpoint."
+            "changelog": "- Add an **email delivery log**: every direct-send attempt (invoice and offer, success and failure) is recorded per company and shown under Settings → E-Mailverhalten → Versandprotokoll, including the mail server's error message. Migration `Version0025Date20260924` creates `nl_mail_log`; entries are pruned to the most recent 200 per company.\n- Surface the underlying mailer/SMTP error (e.g. gateway rejections such as `554 5.7.1 blocked file type`) in the send dialog instead of a generic \"sending failed\" message — for invoices and offers.\n- Remove the redundant \"Rechnungsnummer:\"/\"Angebotsnummer:\" line from the PDFs; the number remains in the document heading.\n- Update dompdf to ^3.1 to silence PHP 8.4 \"implicitly nullable parameter\" deprecation warnings flooding the Nextcloud log (run `composer update` inside `apps/nextledger`).\n- Fix the **code integrity check** reporting 144 `FILE_MISSING` entries (docs/, tests/, vendor test/.github/build files): the release archive was signed *before* those paths were stripped from the tarball, so `signature.json` referenced files that never shipped. The archive is now signed after packaging, so signature and tarball contents match."
           }
         },
         "signatureDigest": "sha512"
@@ -175691,6 +175817,75 @@
     "ratingNumRecent": 0,
     "ratingNumOverall": 0,
     "certificate": "-----BEGIN CERTIFICATE-----\nMIIEBDCCAuwCAhPpMA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\ndXRob3JpdHkwHhcNMjYwODI2MTQyOTM5WhcNMzYxMjAxMTQyOTM5WjAUMRIwEAYD\nVQQDDAlvY2N3ZWJfdjIwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDX\nHN0a9W+kZo+CS7VSZ1/LcPmAMj0Nk85bghDFILiSoHkIY0mkXazNCZ6qaNPtFFE3\n6QZoYMoi/tSoA1bIM9G+ZsqB0UlfVrx/sG/NpTrNdLkKCzka20IsXIUZxf6YaxRn\nOeOdXYfzHB6JnauVFnET3WmgkIVl4gEXMuyV6eQ06EcX/PcVdT9zZrD/xAupB7U0\n3S8g2A0H8f1pzpzxLAuQZaaWE4p0W/fE/9xVhERd1Un2cnCjq2XnqTaZbcI8hHP7\nsF4TL74v14WQYnXMpioyq5XJlDgbVqeAqCNOL3jAu/6c5z1x8nPNyExtao8YjbEe\nKRh9tINBABVntqFy2qkCJVe6L98GFIDoqqwzgDmjrWjiD5FM+5vI370GVDpnGTp/\nTa1IlRJhvFdYDkZ2hcEpzCUdqDmugkOGVjDIIf0U6fKfmSwQQZj27je3dIemChJi\n2tCqIAFO9h68GpAw0rQrEgmi0RcLbDEpdKXByx/bSh4fl150nlzaZaDGEihvta97\n9ZvB9MRhIBYjFBwq6+Rbi9/297YWrIMA+yrDhkt/hg8O/sfUn105FfWX4lwRZ7/E\nAfESknskLWTcaTnINixuZrnfN3da/QV/IGg5OO/ZpU0DE4nCxaIJIHFnYpwBpsH2\n9oDf4Odd7Gpc7cUhCnJk5fqgs+5eAxt6NwBEZ2HgEwIDAQABMA0GCSqGSIb3DQEB\nCwUAA4IBAQAi+uJxSrvwi2pO13Ggg8Ly9sI4yKKIb2rL58mWA1bO1m4tf2y4vcIE\nFq/f7ek9Dd0DEuc6rJ4KSDLalApHLO1AgiNVY1oIrV1G6hrYg9oCGJNiDmq4alN3\ntIBQGmuE7DwunXo54sOyQPJ8ekJc+LNxTJ3Plhr8i/ApgBLE8BYxIrpECX+FuYZB\nHgHyGvTy8GjX8sTAG6fTjs1wssm2D9kGIF4ml+EZMdo/rUIoR/r3a8W9/6/hktes\nwZYoev+p3l3jupqQPq1L9DK1YB1yP5RqdvWdAMF6PPiTPX4qRrMEL+ogY6m3oW7U\nPFweXEGVy26gvYZdWi7jZPjv+UFibiwA\n-----END CERTIFICATE-----",
+    "discussion": "https://help.nextcloud.com"
+  },
+  {
+    "id": "autosort",
+    "categories": [
+      "files",
+      "workflow"
+    ],
+    "userDocs": "https://github.com/Glenn-Dandy/AutoSort#readme",
+    "adminDocs": "https://github.com/Glenn-Dandy/AutoSort#readme",
+    "developerDocs": "",
+    "issueTracker": "https://github.com/Glenn-Dandy/AutoSort/issues",
+    "website": "https://github.com/Glenn-Dandy/AutoSort",
+    "created": "2026-11-11T13:56:34.490269Z",
+    "lastModified": "2026-11-11T13:59:19.787250Z",
+    "releases": [
+      {
+        "version": "0.8.2",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=33.0.0 <37.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/Glenn-Dandy/AutoSort/releases/download/v0.8.2/autosort-0.8.2.tar.gz",
+        "created": "2026-11-11T13:59:19.781887Z",
+        "licenses": [
+          "AGPL-3.0-or-later"
+        ],
+        "lastModified": "2026-11-11T13:59:19.837422Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=33 <=36",
+        "signature": "w89jb2R2tUcd6BYz1eq/YcvQ9PlOQ02DsDN7iX6XlCgOLA6NU6M/ACgZxAmAiNMX\nrn/nptsvIZ2aoBbHZIs1el3GQXfKQcDOmFltNA13ka1IRDxqEAanvIVhXO9xvpVw\nVhw52Q8jDBMAhbSeaLW8MSDAfL+PF/ShK2vRfzZCQUfO7Qpxbd9/SjzsLFcdVVXv\nu0yAeJanSlJeW9Msp84QT49MMmSPXIxVkDHX7rz4SY3IDtGAOdjbnO1aJ/cXfr1w\nVWUso7iiVpMWHpZQyHwcNe68iZq7epaG8y1Gouq2uiZUk1AJDiP8jpK3uAgCDvGv\nifCoF2h2p7IWCx52PrY0JsKcYY26FA/g2/RsYsUI3Mx3UXnArOKeZXUGwxhCn9UV\nDT/cf/1qhL7Z1Rc3XBFrYQNu5R+eX6V+ECrrulPPrTelN5KqRq4EHMUgsE3L9bPV\nfpGOMLLmSMzAME+Gxmqorrt/PHwVTM78ouG4K50CnqI4uQhCZwxvHLbl3dUgAxU8\n/7doxbK5kIP6w4YucxC1Tm2NNVpS0RPnjvD0oDfM1PKSqUC3zraiuGmNDRGhRKsV\nG/wQao3nJbuAjtPC8tVHIIMJ9yLDavBuiXJHrIA32sDtyvtxlTKIvAh/oo8g5KVu\nRuttlNpjjGBd+S0CBNSXlInCx7M75Ocn8HMOk90shzo=",
+        "translations": {
+          "en": {
+            "changelog": "- Recognizes short month names such as `8. Jul 2026` and dates without a dot after the day"
+          }
+        },
+        "signatureDigest": "sha512"
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dsZW5uLURhbmR5L0F1dG9Tb3J0L21haW4vc2NyZWVuc2hvdHMvc2V0dGluZ3MuanBn",
+        "smallThumbnail": ""
+      }
+    ],
+    "videos": [],
+    "translations": {
+      "en": {
+        "name": "AutoSort",
+        "summary": "Sort PDFs into folders based on their content",
+        "description": "AutoSort moves and renames PDFs from an inbox folder based on the text inside them. Every user defines their own rules in the personal settings: the words a document has to contain, the target folder and the new file name.\n\nRequires pdftotext on the server (poppler-utils) and PDFs with a text layer."
+      }
+    },
+    "isFeatured": false,
+    "authors": [
+      {
+        "name": "Glenn-Dandy",
+        "mail": "",
+        "homepage": ""
+      }
+    ],
+    "ratingRecent": 0.5,
+    "ratingOverall": 0.5,
+    "ratingNumRecent": 0,
+    "ratingNumOverall": 0,
+    "certificate": "-----BEGIN CERTIFICATE-----\nMIIEAzCCAusCAhS+MA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\ndXRob3JpdHkwHhcNMjYxMTA5MDg1ODEyWhcNMzcwMjE0MDg1ODEyWjATMREwDwYD\nVQQDDAhhdXRvc29ydDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAMb9\nFOA9Fd3Cp/ZcdLIXtFV/RqmmzhZsiyxyi4Use9RNEJCV+FEOuRQjHDioAHEtIHv5\nkj0lszSfaM6niAkva3+KWQ16nKZqQWD2fC4lsl8BR6H8M/+RUP8fgspI8P5ZbMHq\nwq+Y95oalXyxPN9qwKq+yHZEDbryxlUZfjuKJ9IYYWBD5P93UM/HIcDh+EjlD6So\niqbaCwtYOp8SBKD+NOOB43zMPyRHJqo/klTliFJSKxF8evqaQY86rzdtAGw+PCOc\nQOp1h0HMAwlTpdmgo+th4wrgEdnf+pwK2IaxAYmTP5W93GqppcFCrXaiQM7TH4EP\nT6h0X7uZcXPaUXI88UtwAKsekPxXW1Y9I8dD6xu0dCch1Itu6/QWLNy33muDRRdZ\n+ZIx0b35H+zvayuIBP+jRQvYRcqJodKo8F3ii79nTnP3nZT/pkTq+gxgoeDY3Tr6\nt4Wyod78qk6IHlAt9/MlrKOeoePkIB7VZoL5FuUUnPahwpmL4JiaUJxOYSJc3EVS\ngoZuU8eHvL1VockO/wFa3m6iKamZI7/qPIRYw2ZvlQrNvdIMHFPrLFNSx6JQpOt6\nFWVKQahE/uCs5p4h/+JXIpfnDZSsijgce6xKIrfOPIGkc4a2bMb5qU+cb0M+OP7B\noIyNAVCpUuUhvjIij5SGe86cnaZV8bS6EhaUHpfbAgMBAAEwDQYJKoZIhvcNAQEL\nBQADggEBAIYxMEorjjcNG7UFPhHrZj53TM5iBuKIJ8N37bM/Qj398jXiTy2+qERF\n5uuE75NpWENvZWa40AjGPLEZrvqih3Fc1kIBEfRyfY0FCs1uPo74giQPfdbFAaNe\nhcI//fZ3IVc8qzzqgm6c7LIBNQlL2+EaLuqjC05KMKRGyMsS4NhRKTrVAB4N00eJ\nGln8ZyELX6AxOiZUw/dtj8D0G39O7wiN1NAdH0CSXgGBEiRGrsjhsaBg3BjKTHTe\n1KTVS3CixPxshMUG3bxTi+dqjIixJfmHqO8BEmo53qc7R4fqHqcg5nZJa8rtcYCK\n/y/WUktijMPHMMjaLlAkxfNkFfAZY6M=\n-----END CERTIFICATE-----",
     "discussion": "https://help.nextcloud.com"
   },
   {
@@ -184046,6 +184241,79 @@
     "discussion": "https://help.nextcloud.com"
   },
   {
+    "id": "scantopdf",
+    "categories": [
+      "files",
+      "tools"
+    ],
+    "userDocs": "https://github.com/Glenn-Dandy/ScanToPdf#readme",
+    "adminDocs": "https://github.com/Glenn-Dandy/ScanToPdf#readme",
+    "developerDocs": "",
+    "issueTracker": "https://github.com/Glenn-Dandy/ScanToPdf/issues",
+    "website": "https://github.com/Glenn-Dandy/ScanToPdf",
+    "created": "2026-11-11T14:41:12.779220Z",
+    "lastModified": "2026-11-11T14:41:59.818004Z",
+    "releases": [
+      {
+        "version": "0.3.4",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=33.0.0 <37.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/Glenn-Dandy/ScanToPdf/releases/download/v0.3.4/scantopdf-0.3.4.tar.gz",
+        "created": "2026-11-11T14:41:59.812750Z",
+        "licenses": [
+          "AGPL-3.0-or-later"
+        ],
+        "lastModified": "2026-11-11T14:41:59.872575Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=33 <=36",
+        "signature": "CzN31j2QWHtfHFwhDDo9G+Qw/MUGG3BALSUH201/QVPfdJ3c7/SweM8KSPA6y68l\n1H+3NC7N63rInMEv0RDU7BQsAzPBrIBBf6LkE6DfMXFx4330SezVY7Yql3DesuEh\nwMwQsp+/bdgyxlhRy1ApGGngSvZgOb/VeXgl1szP5FXI3VdYtOU/2hqYboHBdVsP\nApvmjrvAhNewXakpi+jbqS7zf87HzO+Xh6XB9K78CifiWRCVMtNkiuKLDG9kqYZO\nt1uW37Szhq3RSG+tfeJW/EgFiRDOsgMY+EeNqIL/O6bwsuHzivod3vN5mQw6Dvt5\nRCgW4DXQDhZM8myMz7AwMyhljXulbiwVGxshTPtm5ndSYjnstP/vQufxj0KP9cP6\nlsE/z36biVO+tsc8DGVRAaLWprTlmxTMij/OOwaiDpJlYLUFByDRw+QDZhp1JT+/\nE5ZKfGiijoE0oE7HYPtnfmZ3KdZBXnqjb4hPI37UdqPLP6R9Bpm76/aaXpT17PDJ\n8+GXB47rCXWG+9uxajCAr9uV+YYQANW2u2YLGWr3/z0ewO+A/FDpkqnsrkH1tGKl\n3f+VviO0ZGuRkO7ezA8/SwuHu8lc9HDq206o/z6ms10ditCP7ELbCGzjT1xShz5D\n0j//Xb4IdhkbbzDNVtEA0ZBjlN6pd1KvCznVqVmkTdg=",
+        "translations": {
+          "en": {
+            "changelog": "- Clear the list of latest scans in the admin settings"
+          }
+        },
+        "signatureDigest": "sha512"
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dsZW5uLURhbmR5L1NjYW5Ub1BkZi9tYWluL3NjcmVlbnNob3RzL2RpYWxvZy5qcGc=",
+        "smallThumbnail": ""
+      },
+      {
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0dsZW5uLURhbmR5L1NjYW5Ub1BkZi9tYWluL3NjcmVlbnNob3RzL3NldHRpbmdzLmpwZw==",
+        "smallThumbnail": ""
+      }
+    ],
+    "videos": [],
+    "translations": {
+      "en": {
+        "name": "Scan to PDF",
+        "summary": "Scan documents and photos straight into your files as PDF",
+        "description": "Adds a Scan to PDF entry to the New menu in Files. Uses any scanner SANE can reach, connected locally or over the network, with an optional button on the scanner.\n\nRequires the sane-utils package on the server, for example: sudo apt install sane-utils"
+      }
+    },
+    "isFeatured": false,
+    "authors": [
+      {
+        "name": "Glenn-Dandy",
+        "mail": "",
+        "homepage": ""
+      }
+    ],
+    "ratingRecent": 0.5,
+    "ratingOverall": 0.5,
+    "ratingNumRecent": 0,
+    "ratingNumOverall": 0,
+    "certificate": "-----BEGIN CERTIFICATE-----\nMIIEBDCCAuwCAhS/MA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\ndXRob3JpdHkwHhcNMjYxMTA5MDg1ODMwWhcNMzcwMjE0MDg1ODMwWjAUMRIwEAYD\nVQQDDAlzY2FudG9wZGYwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQCv\nnj7njuqBoSs0G9IKDSd1jhVvOL42M5jONey8YVFiDd/vVA54M6bLdmfq3WJYAyIx\nVim7++wWhd3adL6K9B9VC3A/rjFmBUDDVXndOq1YgLIubOnZhHjCjD8aCx5+MQBp\ndJg3kVBD0oMICse0UUXpWZMR/UNN2Pbp6r8Fr2SRiIAt6ZO2db/eJEBVf6hfk4wu\nglW51WXjX+yW9CW4WCHIjFwDNRlpUSsPGyobvKdOPWY363wSh5OfDqVmw4GWc1ZR\n1HQIxaJ5neoPWIA9twxCvmoB6a/nZ999TGxniVxDXrASwZVpqZtjl9dtOKgLD1Wf\n5Mt9f26W153MMPUgF3JnoRRPHdE3lHsvZ7gSA+GZKbiWdC2locvd/jz6/dLA1xg+\n1tIQyWA4R1UIaVUULl5/jp9L4itkp8Ewl2VP44h4pvM4REEUjUEG+GDfx514EtWZ\n5VH43hQrvhdCtrDgCR7mmU9Il2t5xIl0xNUSB8UyCszTeutjp2F+lQPcakeyjjY7\nROOukBUpYq3C5yi7sHq2jeDFO3h8tVvT/yqfYHZx/H/5yGW7J6BduQf2lKAATkE9\nLBmm7rM7mCOB75AaYpswqEET0gdJ6hVj6PTBbFRV2yViM+L1gkr+4rA/Uzuo3Xf3\n12+tGzYcziYZj57r1mYz56021Cu0QQcRTeW/ZftmsQIDAQABMA0GCSqGSIb3DQEB\nCwUAA4IBAQAVvQkKsXTsWbX5/jgWqRdx6Vv9hCIata7c9fEuBSaJdwwLIDX2qrDD\nyfixMIhIHrMarAiI17lJc7epXMFx3P0zTzoTtbMgRfMooxR7oz0jeZ47VuWzcniE\nYwYUKTqVSbaWSGshk84Ad6ScarpAvUQXG8OGRbTpr9sfne/FROUk1Ew7tYRLc8eO\nY9LurTEmKSRKJ6Z/gfRdNUS+RFuXcTjmsXpPsyuHjd0xZKDQR+dD3aAJ4krzeDcb\n9n5HAP3tK134yTyrNJlQXmQsnNi2YP9Zhi+77zeZ9imBscjlRvaw2xR9W/piYaIM\nmNjJ94D6jnwAwW60vUzt6oQywiBekOBp\n-----END CERTIFICATE-----",
+    "discussion": "https://help.nextcloud.com"
+  },
+  {
     "id": "gpxedit",
     "categories": [
       "multimedia",
@@ -190955,33 +191223,8 @@
     "issueTracker": "https://github.com/eldertek/duplicatefinder/issues",
     "website": "https://github.com/eldertek/duplicatefinder",
     "created": "2020-07-06T16:38:31.688999Z",
-    "lastModified": "2026-11-10T00:01:31.490151Z",
+    "lastModified": "2026-11-12T00:00:29.287043Z",
     "releases": [
-      {
-        "version": "1.9.2",
-        "phpExtensions": [],
-        "databases": [],
-        "shellCommands": [],
-        "phpVersionSpec": "*",
-        "platformVersionSpec": ">=28.0.0 <36.0.0",
-        "minIntSize": 32,
-        "download": "https://github.com/eldertek/duplicatefinder/releases/download/v1.9.2/duplicatefinder-v1.9.2.tar.gz",
-        "created": "2026-11-10T00:01:31.482586Z",
-        "licenses": [
-          "agpl"
-        ],
-        "lastModified": "2026-11-10T00:01:31.529304Z",
-        "isNightly": false,
-        "rawPhpVersionSpec": "*",
-        "rawPlatformVersionSpec": ">=28 <=35",
-        "signature": "UZprcWLdkY7s1DHB4SiVkh/q0ZZRWlyaEIa8Edz6m8Ct85ozbWIt9oVHA0CHBVO3WW1w6thX9wreR1f1FaZjO3PS9rpf9GgzG1hFROdtW8EtgLTfyFBdtPHtxZnIF5BVZjNyNisfJ0jcsllSWfydfvDGbzhz/x6lCDRdeCH8eSZsTMJwEiBWlyapYe0FWYovM4Nq5EX7n0KC1AS/4idmOuQiyNoki2FKqZ2AO40OAjyRylQYKau34n3p4OL2zPvC8DHRbFZ+Rr44ELiAVEmMlz8aQbxDPSs0aik+UGwlTCmt8ULR9af2w96OhaKSVfIvmX9fUWsz9ZOwV9stkIsdbL1FONVKYEGIsbhgxo+z/jPKMBEfQLjD+GvaQKToG4diM6Z0OK97+1wnPR62TTyPGMuRXsn290lHAXYVaeWozbRUhW26y/g1TMOOpr7A0Moq9DfZ4QGBEzfEJ4K/WHEvt99rlIVgw7kmfNkJmzsMWWmbLIorIGLcESeBYIRQnnc0aaXroQ4kYESTHBcj9hTUfswnLKxM6jxxES1U57MVQmUJamAeo2mcKxq0LCCJk524zsfGxzIHeCQV4f7Yw+ltlfZoUfqEpi52k1MiXNbDPgc0/aHX/7zGG+MbYHbrAmIy5MI4DJTWBK4tAP6XxLK3+kXkKoRZY0f8GkQ2b9KTF9w=",
-        "translations": {
-          "en": {
-            "changelog": "### Fixed\n- **The web interface hung and timed out on multi-user instances** (Fix [#202](https://github.com/eldertek/duplicatefinder/issues/202), PR [#203](https://github.com/eldertek/duplicatefinder/pull/203)). `FileDuplicateMapper::findAll()` and `getTotalCount()` ignored the `$user` and `$type` parameters in SQL, so every call to `/api/duplicates/...` walked the global `duplicatefinder_dups` table and resolved every file node of every group in PHP before discarding the groups that did not belong to the current user (or that only had a single copy for that user, such as cross-user duplicates or shared single files). Groups are now filtered by user and acknowledgement status directly in SQL (requiring at least two non-ignored copies in the user's tree), `FileInfoService::enrich()` skips redundant filesystem node lookups when a `FileInfo` has already been enriched, and `App.vue` no longer triggers a second concurrent `/api/duplicates/all` fetch on mount. Checked on Nextcloud 28 and 34 with multiple users and shared folders: a user with no duplicate now gets an empty response in milliseconds instead of scanning every group in the database\n\n### Changed\n- **`occ duplicates:list-all` now leaves out shared views by default** (Fix [#197](https://github.com/eldertek/duplicatefinder/issues/197), PR [#204](https://github.com/eldertek/duplicatefinder/pull/204)). A file seen through a share is indexed with the path of the recipient (`/bob/files/...`) and the `owner` of the sharer (`alice`), so counting that row overstated the number of copies and the wasted space, and listed single shared files as duplicates. Rows whose path is not in their owner's tree are now excluded by default, and groups that have only one copy left are omitted. Pass `--include-shared` to include shared views in the report"
-          }
-        },
-        "signatureDigest": "sha512"
-      },
       {
         "version": "1.8.1",
         "phpExtensions": [],
@@ -191078,6 +191321,31 @@
         "translations": {
           "en": {
             "changelog": "### Changed\n- Confirm box to prevent deleting all files of a duplicate\n- Userid is now automatically set when inserting or updating an entity"
+          }
+        },
+        "signatureDigest": "sha512"
+      },
+      {
+        "version": "1.10.4",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=28.0.0 <36.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/eldertek/duplicatefinder/releases/download/v1.10.4/duplicatefinder-v1.10.4.tar.gz",
+        "created": "2026-11-12T00:00:29.270461Z",
+        "licenses": [
+          "AGPL-3.0-or-later"
+        ],
+        "lastModified": "2026-11-12T00:00:29.375942Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=28 <=35",
+        "signature": "qXGCMp1qt7FzaYI8A0wEQnqo+rloh+fPvGKPjuydEd9/+hjM44fRbWR4TNH5bht4KOMSRHUhPjxh3x05l+vXpcA0DuVNl8d1vHuka9XWQ2z+bD2ckm9syOzrF39i4h3QQ5eZ78dyk6FvvH3m4ddxE4lvkh+8KrzHWF15aNgV0FQq+BlWCCmdA3Q4DKhXLhLM1aaJp3wRw9dFjrlCQqXSM9dkbPjE4ylTpcw6hRVTZ2ZcKCOxIs1sMWC8TJTOKNhDG+ZR4eLbt/1C9fL/E1XXFPa06omxznNmJuxqt63uhInvWLxcDZKLBR0q4UYbNL5JHq5M/tq4giH9J+0hs9IvRpFNjkIBz6ZEKqPfEprrQmB4nr2KN2KBFlCPZ4r8k8S61aMq4Jclo1eOvxLNxXh2MRbLEaBQg3etefUeuXWt2iOI8J4qJwqU58+C8naQVGcnN+/yNFCc4MH7kM/FgqKxJYrMIOYV8OOsZD2uDfIImeIRgp9FYaJR3YDghoz6Nat2taMJkjGJ8vdzZO+bTj6Kzjovl8umoAAHFocTshADhKQUXjxd9RJD/duhEV8LCXzr8VH2o8bF5AUC7KdYU2FZ1DKeoOVq/NnU3d6JQ07jyiK/fnGRGc1qEQeTWosX5Z69zVUnc7pr4zOke2dETEmLmflgKPpDffl3MUps31lyEXU=",
+        "translations": {
+          "en": {
+            "changelog": "### Added\n- **Live scan progress banner, topbar Scan button, and automatic duplicate list refresh without page reload** ([#206](https://github.com/eldertek/duplicatefinder/issues/206)). Added a `Scan` action button in the top-right header bar alongside `Bulk Delete`, non-blocking per-user and global scan progress tracking (`/api/scan/status` and `/api/scan/start` with PHP session lock release so concurrent UI polling never stalls during multi-hour scans), an accessible progress banner showing percentage, scanned/total files, and estimated remaining time, and automatic in-place duplicate list refresh as soon as any scan completes (including background cron jobs, `occ` scans, or reverse-proxy timeouts) without unmounting open panels\n\n### Fixed\n- **Remember sidebar dropdown and sort states across page reloads and refreshes** ([#212](https://github.com/eldertek/duplicatefinder/issues/212)). Persisted the expanded/collapsed states of the `Acknowledged` and `Unacknowledged` sidebar sections as well as the active sort order and minimum size filter per Nextcloud user in `localStorage`, and switched post-boot duplicate list refreshes to update in place without briefly replacing the navigation sidebar with a full-screen spinner"
           }
         },
         "signatureDigest": "sha512"
@@ -192235,29 +192503,35 @@
     "issueTracker": "https://github.com/street1983nk/nextcloud-search/issues",
     "website": "https://github.com/street1983nk/nextcloud-search",
     "created": "2026-09-07T16:34:36.276665Z",
-    "lastModified": "2026-11-04T18:13:54.268247Z",
+    "lastModified": "2026-11-11T23:30:00.104740Z",
     "releases": [
       {
-        "version": "1.6.2",
+        "version": "1.6.3",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": ">=8.2.0",
         "platformVersionSpec": ">=33.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/street1983nk/nextcloud-search/releases/download/v1.6.2/findling.tar.gz",
-        "created": "2026-11-04T18:13:54.262294Z",
+        "download": "https://github.com/street1983nk/nextcloud-search/releases/download/v1.6.3/findling.tar.gz",
+        "created": "2026-11-11T23:30:00.100779Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-04T18:13:54.332272Z",
+        "lastModified": "2026-11-11T23:30:00.182227Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2",
         "rawPlatformVersionSpec": ">=33 <=35",
-        "signature": "EgIUn6ERBrfXytC4pTMqszXDu7p6jj/7/EdyliqNd0DotkHwB4GL1Ti6/x04JndwknTzbybtYRZfnIvsUTGKHhhrlp+zhatKmYJUbuge4Vn9U73rWWcKa1dCQbtoXCOow0p3DGnWthjwOXO703mMP+tMWsv+CzL3E/wAPsRe/BoOBZQs8co13BtRhD2fqoame66R40XqI8eqxERELMDOau4w0vwwWdelhhUkAWDgMQKNaxv6et9lBgjC5ACuXp92pUYrXc+GMbNjVMGabLMLek5NWz6s+/uRTpFeI0grpwAaS8+7fllvKta9GhUHLvK+22tdvJ48Lvw85w7Y+I1ayijxJvTL/cms4yPMIyDZE6K/trFkVzmCYo+0Yeg7779ipFyHZ8Tn9bGpuCpmnlhKppVabkcJAH1GdfDAHSlrkQU2XfjH60sW5wQ2pN2/nUT9YSIJ0AFlK1GUOSgKBgOpox1QOqMv1FOuOq94tB/qMeU7txJM2JSH9e+R+LRVnnyKqVNtF4r1298lpSn8EmHEEjuIeEbrsYNqimTqyly2Er2A++7pB5zoOr5Mk1yp2auYDozhhbuIOwFqfumQJ1ebJ7yzICA5XHCGflFD6jQ2YVlAnEZsfsaCctynFU9+AsAQqwfynV1E5YpdU4FzZrtYaS8OOo3egVxSTr/pJfFaW1A=",
+        "signature": "fP4qWQwIWrP6GyQ8cL/dHnn8FykQD1uAgYg2S3/WKqAfje/I0+Y4HEUJ5+fsSDauw33qLMEqzj1a/uQav1lItmtY4EElo90xT66KxDL/kMWj5OyN6KG5TbCNlOSRyE7f2gW64bXZIDVBkMsHOyUY/Ee5czQcLpOVlyd1vS0t3fH4jFx+t+kAfoJzJYfSPuf5TL97VX/G724GWMGN+Bv13hXbYm0DA2+Mv2+k1rdFTVN4h7rJlPT/Ll86xWNWq+ERT0M+ee9ZXcrQ61kYayPojmuzLjerF0Gj0htHggz4nqBBR47fWZ6BrG5EQ/1P5IrTqp8adbeLNFMUJJIwrDBZh5EhH3SJ41DapwwkYYX6+fN0cWUa01Vptr3F1eZhpCpJugZjIrftjV0KHmQ58LsZwTviMTTdiXDo4/VA6b8WWCsvOjX2bLty7u0/xi7bWVwEMTc6yd2A6MaSenPPbu2oRM8a1UTcMRN/ES9n2eWoGwQkNoV3WRPIgv59TXZ55uT8F8YUx3vU7ygJoOLf2Qmhv+s7VrGqdUkcJvukdhUwa0Vln4jewwE7trxFgQbieh4d0AmHrJZYYm4D5v3HR9hnCA5fV0w3Zv6ce/2yG/d9BmfckPNGdsVMsvfHY9gNpZIriyN6P/qxN0MBfGmWrGOvJ3Xu5lVhqPAY33wO1ash/rI=",
         "translations": {
           "en": {
-            "changelog": "### Added\n\n- Backup pause: `occ findling:pause [--wait]`, `occ findling:resume` and a\n  switch on the admin page. Indexing stops and everything is flushed to disk\n  while search keeps working. The pause survives restarts (#37).\n- Backup guide in German, English and French (#37).\n\n### Fixed\n\n- The vector figure of left out storages is also counted above 100,000\n  documents, so the coverage dedup no longer drops out (#25).\n- The largest member represents a share group in the coverage\n  denominator (#25).\n- A large storage that is not available no longer holds up the files\n  behind it (#36).\n- Files of a storage that was away come back: the nightly comparison tries\n  a gateway_error file again up to three times (#36).\n- HTTP 408 and 429 from a proxy count as an outage.\n- A fill level refresh that could not start no longer stops the language\n  line until a restart.\n- RTF files with emoji are indexed: split UTF-16 halves in extracted text\n  are joined or replaced before they reach the index (#44).\n- A file the index cannot take fails alone as `corrupt` and keeps its old\n  version, instead of failing the whole batch and stalling the queue (#44)."
+            "changelog": "### Added\n\n- A note next to the coverage figure for seven days after the first count\n  of 1.6.3, a sentence while the count is running, and the number of files\n  that are listed but could not be read or got stuck, which now count as\n  not searchable (#25).\n\n### Fixed\n\n- The storage sweep runs once per reconcile cadence even while the crawl\n  or a long queue holds the full comparison back, so documents of deleted\n  or unmounted storages leave the index (#25).\n- The coverage figure counts every document once, also when a share is\n  mounted separately for each user, and documents only on storages that\n  are no longer mounted no longer count (#25).\n- The coverage figure counts a document once also when one share is\n  configured with different roots, or with the server or share name\n  spelled in a different case (#25). A Samba [homes] share is never grouped\n  across users, and SFTP storages are grouped per login only.\n- The denominator is worked out per share group and never falls below the\n  documents judged in that group plus the files Nextcloud could not read,\n  so the share never exceeds 100 per cent and shows the real coverage once\n  the queue is empty (#25). File types refused on storages that are no\n  longer mounted no longer shrink it.\n- Deleted files no longer count as indexed in the status figures.\n- On SMB storage without the php-smbclient extension, a file that cannot be\n  opened (access denied, sharing violation, offline)\n  no longer blocks a PHP worker, and such files count as not readable.\n  A readable empty file is answered 200, not 400.\n- Files that 1.6.2 recorded as a gateway error are checked once more after\n  the update, also when their retries were used up, so a locked or refused\n  file shows as not readable with its remedy.\n- The synchronous coverage count is capped at 25,000 rows, so the answer\n  stays within the admin timeout of the companion on slow hardware; larger\n  instances see the figure counted in the background once after the update.\n- The one time catch-up cycle after an update no longer starts a round when\n  the reconcile is switched off at that very moment.\n- A passing database lock during the first index no longer ends the crawl of\n  a storage; the slice is tried again a few seconds later, up to five times\n  in a row.\n\n### Known limitations\n\n- SMB storage under server side encryption is read as before, without the\n  deadline.\n- A network error between the check and the open of a file counts as not\n  readable; a few retries follow.\n- A short answer for a file whose size Nextcloud does not know is taken as\n  complete.\n- On SMB without the php-smbclient extension a file above about 469 MiB\n  ends short and is given up as stuck (only with FINDLING_MAX_FILE_BYTES\n  raised above the default 50 MB).\n- On SMB without the php-smbclient extension a line below about 420 KB/s\n  cannot deliver an 8 MiB read block within the 20 s timeout of\n  smbclient, so files larger than one block count as not readable; install\n  the extension or raise the timeout option of the storage\n  (occ files_external:config).\n- A Samba share whose folder depends on the user on the server side (a\n  path with %U or %S) still counts as one tree for all users.\n- Storages with an id longer than 64 characters that cannot be rebuilt from\n  their configuration (global or user provided credentials, a login name\n  other than the user id) are counted per storage."
+          },
+          "de": {
+            "changelog": "### Hinzugefügt\n\n- Ein Hinweis neben der Abdeckungszahl für sieben Tage nach der ersten Zählung\n  von 1.6.3, ein Satz, solange die Zählung läuft, und die Zahl der Dateien,\n  die gelistet sind, aber nicht gelesen werden konnten oder hängen geblieben\n  sind; sie zählen jetzt als nicht durchsuchbar (#25).\n\n### Behoben\n\n- Der Speicher-Durchlauf läuft einmal je Abgleich-Takt, auch während der\n  Crawl oder eine lange Warteschlange den vollständigen Vergleich zurückhält,\n  sodass Dokumente gelöschter oder ausgehängter Speicher den Index verlassen\n  (#25).\n- Die Abdeckungszahl zählt jedes Dokument einmal, auch wenn eine Freigabe für\n  jeden Nutzer getrennt eingehängt ist, und Dokumente, die nur auf nicht mehr\n  eingehängten Speichern liegen, zählen nicht mehr (#25).\n- Die Abdeckungszahl zählt ein Dokument auch dann einmal, wenn eine Freigabe\n  mit verschiedenen Wurzeln konfiguriert ist oder Server- oder Freigabename\n  in anderer Groß- und Kleinschreibung stehen (#25). Eine\n  Samba-[homes]-Freigabe wird nie über Nutzer hinweg gruppiert, SFTP-Speicher\n  nur je Anmeldename.\n- Der Nenner wird je Freigabegruppe ermittelt und fällt nie unter die in\n  dieser Gruppe beurteilten Dokumente plus die Dateien, die Nextcloud nicht\n  lesen konnte, sodass der Anteil nie über 100 Prozent liegt und die echte\n  Abdeckung zeigt, sobald die Warteschlange leer ist (#25). Abgelehnte\n  Dateitypen auf nicht mehr eingehängten Speichern verkleinern ihn nicht mehr.\n- Gelöschte Dateien zählen in den Statuszahlen nicht mehr als indexiert.\n- Auf SMB-Speicher ohne die Erweiterung php-smbclient blockiert eine Datei,\n  die sich nicht öffnen lässt (Zugriff verweigert, Sharing Violation,\n  offline), keinen PHP-Worker mehr, und solche Dateien zählen als nicht\n  lesbar. Eine lesbare leere Datei wird mit 200 beantwortet, nicht mit 400.\n- Dateien, die 1.6.2 als Gateway-Fehler vermerkt hat, werden nach dem Update\n  noch einmal geprüft, auch wenn ihre Wiederholungen aufgebraucht waren,\n  sodass eine gesperrte oder abgewiesene Datei als nicht lesbar mit ihrer\n  Abhilfe erscheint.\n- Die synchrone Abdeckungszählung ist auf 25.000 Zeilen begrenzt, damit die\n  Antwort auf langsamer Hardware innerhalb des Admin-Timeouts der Begleit-App\n  bleibt; größere Instanzen sehen die Zahl nach dem Update einmal im\n  Hintergrund gezählt.\n- Der einmalige Nachhol-Durchlauf nach einem Update startet keine Runde mehr,\n  wenn der Abgleich genau in diesem Augenblick ausgeschaltet wird.\n- Eine vorübergehende Datenbanksperre während des ersten Index beendet den\n  Durchlauf eines Speichers nicht mehr; der Abschnitt wird wenige Sekunden\n  später erneut versucht, bis zu fünfmal hintereinander.\n\n### Bekannte Einschränkungen\n\n- SMB-Speicher unter serverseitiger Verschlüsselung wird wie bisher gelesen,\n  ohne die Frist.\n- Ein Netzwerkfehler zwischen der Prüfung und dem Öffnen einer Datei zählt als\n  nicht lesbar; einige Wiederholungen folgen.\n- Eine kurze Antwort für eine Datei, deren Größe Nextcloud nicht kennt, gilt\n  als vollständig.\n- Auf SMB ohne die Erweiterung php-smbclient endet eine Datei über etwa\n  469 MiB vorzeitig und wird als hängend aufgegeben (nur mit\n  FINDLING_MAX_FILE_BYTES über dem Standard von 50 MB).\n- Auf SMB ohne die Erweiterung php-smbclient kann eine Leitung unter etwa\n  420 KB/s einen 8-MiB-Leseblock nicht innerhalb des 20-s-Timeouts von\n  smbclient liefern, sodass Dateien größer als ein Block als nicht lesbar\n  zählen; die Erweiterung installieren oder die Timeout-Option des Speichers\n  erhöhen (occ files_external:config).\n- Eine Samba-Freigabe, deren Ordner serverseitig vom Nutzer abhängt (ein Pfad\n  mit %U oder %S), zählt weiterhin als ein Baum für alle Nutzer.\n- Speicher mit einer Id länger als 64 Zeichen, die sich nicht aus ihrer\n  Konfiguration neu bilden lässt (globale oder vom Nutzer hinterlegte\n  Zugangsdaten, ein Anmeldename ungleich der Nutzer-Id), werden je Speicher\n  gezählt."
+          },
+          "fr": {
+            "changelog": "### Ajouté\n\n- Une note à côté du chiffre de couverture pendant sept jours après le premier\n  comptage de 1.6.3, une phrase pendant que le comptage est en cours, et le\n  nombre de fichiers qui sont listés mais n'ont pas pu être lus ou sont restés\n  bloqués ; ils comptent désormais comme non consultables (#25).\n\n### Corrigé\n\n- Le balayage des stockages s'exécute une fois par cadence de rapprochement,\n  même pendant que l'exploration ou une longue file d'attente retient la\n  comparaison complète, si bien que les documents des stockages supprimés ou\n  démontés quittent l'index (#25).\n- Le chiffre de couverture compte chaque document une fois, même lorsqu'un\n  partage est monté séparément pour chaque utilisateur, et les documents qui\n  ne se trouvent que sur des stockages qui ne sont plus montés ne comptent\n  plus (#25).\n- Le chiffre de couverture compte un document une seule fois aussi lorsqu'un\n  partage est configuré avec des racines différentes, ou lorsque le nom du\n  serveur ou du partage est écrit avec une casse différente (#25). Un partage\n  Samba [homes] n'est jamais regroupé entre utilisateurs, et les stockages\n  SFTP ne sont regroupés que par identifiant de connexion.\n- Le dénominateur est calculé par groupe de partages et ne descend jamais\n  sous les documents évalués dans ce groupe plus les fichiers que Nextcloud\n  n'a pas pu lire, si bien que la part ne dépasse jamais 100 pour cent et\n  montre la couverture réelle une fois la file vide (#25). Les types de\n  fichiers refusés sur des stockages qui ne sont plus montés ne le réduisent\n  plus.\n- Les fichiers supprimés ne comptent plus comme indexés dans les chiffres\n  d'état.\n- Sur un stockage SMB sans l'extension php-smbclient, un fichier qui ne peut\n  pas être ouvert (accès refusé, violation de partage, hors ligne) ne bloque\n  plus un worker PHP, et ces fichiers comptent comme non lisibles. Un fichier\n  vide lisible reçoit la réponse 200, pas 400.\n- Les fichiers que 1.6.2 avait enregistrés comme erreur de passerelle sont\n  vérifiés une nouvelle fois après la mise à jour, même si leurs tentatives\n  étaient épuisées, si bien qu'un fichier verrouillé ou refusé apparaît comme\n  non lisible avec son remède.\n- Le comptage synchrone de la couverture est plafonné à 25 000 lignes, pour\n  que la réponse reste dans le délai d'administration de l'app compagnon sur\n  du matériel lent ; les instances plus grandes voient le chiffre compté en\n  arrière-plan une fois après la mise à jour.\n- Le cycle de rattrapage unique après une mise à jour ne lance plus de tour\n  lorsque le rapprochement est désactivé à cet instant précis.\n- Un verrou passager de la base de données pendant le premier index ne met\n  plus fin au parcours d'un stockage ; la tranche est retentée quelques\n  secondes plus tard, jusqu'à cinq fois de suite.\n\n### Limites connues\n\n- Un stockage SMB sous chiffrement côté serveur est lu comme avant, sans le\n  délai.\n- Une erreur réseau entre la vérification et l'ouverture d'un fichier compte\n  comme non lisible ; quelques nouvelles tentatives suivent.\n- Une réponse courte pour un fichier dont Nextcloud ne connaît pas la taille\n  est considérée comme complète.\n- Sur SMB sans l'extension php-smbclient, un fichier au-dessus d'environ\n  469 Mio s'arrête court et est abandonné comme bloqué (seulement avec\n  FINDLING_MAX_FILE_BYTES relevé au-dessus des 50 Mo par défaut).\n- Sur SMB sans l'extension php-smbclient, une liaison en dessous d'environ\n  420 Ko/s ne peut pas livrer un bloc de lecture de 8 Mio dans le délai de\n  20 s de smbclient, si bien que les fichiers plus grands qu'un bloc comptent\n  comme non lisibles ; installez l'extension ou relevez l'option de délai du\n  stockage (occ files_external:config).\n- Un partage Samba dont le dossier dépend de l'utilisateur côté serveur (un\n  chemin avec %U ou %S) compte toujours comme un seul arbre pour tous les\n  utilisateurs.\n- Les stockages dont l'identifiant dépasse 64 caractères et qui ne peuvent\n  pas être reconstruits à partir de leur configuration (identifiants globaux\n  ou fournis par l'utilisateur, un nom de connexion différent de l'identifiant\n  utilisateur) sont comptés par stockage."
           }
         },
         "signatureDigest": "sha512"
@@ -192282,17 +192556,17 @@
       "de": {
         "name": "Findling Suche",
         "summary": "Volltextsuche, Texterkennung und semantische Suche ohne Konfiguration",
-        "description": "Was Findling kann:\n- Volltextsuche über die normale Nextcloud-Suchleiste\n- Filter nach Dateityp oder Ordner direkt in der Nextcloud-Suche\n- Texterkennung für gescannte PDFs und Bilder: zehn Sprachen verfügbar, voreingestellt sind Deutsch, Englisch und Französisch\n- Semantische Suche: findet Dokumente auch über Umschreibungen\n- Ähnliche Dokumente: ein Link an jedem Treffer der Ergebnisseite listet Dateien mit verwandtem Inhalt\n- Jeder Treffer wird von Nextcloud rechtegeprüft\n- Keine Konfiguration: der erste Indexlauf startet von selbst\n- Ordner oder Muster wie *.photoslibrary vom Index ausschließen\n- Leistungsprofile: Sparsam voreingestellt, Standard und Leistung nach einer Vorab-Prüfung der Hardware\n- Suchmodell: int8 eingebaut, das genauere fp32 unter Standard und Leistung einmalig ladbar\n- Datenschutz: alles läuft lokal, keine Telemetrie, nichts verlässt den Server\n- Suchsprachen: Deutsch und Englisch voreingestellt, Spanisch, Italienisch, Niederländisch, Portugiesisch und Tschechisch verfügbar\n\nUmstieg von fulltextsearch/Elasticsearch: [Schritte in der Dokumentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.2/docs/migrate-from-fulltextsearch.md)\n\nBekannte Grenzen:\n- Spanisch: año und ano gelten als dasselbe Wort\n- Portugiesisch: Schreibweisen vor und nach der Rechtschreibreform werden nicht vereinheitlicht\n- Zusammengesetzte Wörter werden nur für Deutsch und Niederländisch zerlegt\n- Französisch hat keine eigene Analysekette für den Dokumenttext\n- Tschechisch: keine Stammformreduktion, gebeugte Formen gelten als eigene Wörter\n\nZusammen mit dem [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector) ergibt Findling die Retrieval-Schicht für Ihr eigenes RAG: KI-Assistenten durchsuchen Ihre Dokumentinhalte mit genau den Rechten des fragenden Nutzers, und kein Inhalt verlässt Ihren Server.\n\nUnterstützte Dateitypen:\n- PDF (auch gescannt), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, Mails (EML)\n- ZIP-Dateien: die enthaltenen Dateien, ohne Texterkennung\n- Bilder per Texterkennung: JPEG, PNG, TIFF, WebP, HEIC\n\nAnforderungen:\n- Nextcloud 33 bis 35, Apps: AppAPI, Findling Backend (External Apps), Findling\n- RAM: 4 GB genügen, 730,2 MB resident nach einem Indexlauf, unter einer harten 2-GB-Grenze (gemessen)\n- CPU: 2 Kerne genügen, amd64 und arm64\n\nOhne Zutun läuft Findling unverändert sparsam wie bisher. Wer mehr Hardware hat, gibt per Profil frei: höchstens die Hälfte der Maschine, auf der das Backend läuft (Profil Standard), oder alles bis auf einen Kern (Profil Leistung).\n\nEnterprise-Support und bezahlte Add-ons: Angebot anfordern unter admin@infranode.dev"
-      },
-      "fr": {
-        "name": "Findling Recherche",
-        "summary": "Recherche plein texte, OCR et recherche sémantique sans configuration",
-        "description": "Ce que Findling sait faire :\n- Recherche plein texte dans la barre de recherche normale de Nextcloud\n- Filtre par type de fichier ou par dossier directement dans la recherche Nextcloud\n- Reconnaissance optique pour les PDF numérisés et les images : dix langues disponibles, allemand, anglais et français par défaut\n- Recherche sémantique : trouve les documents par des périphrases\n- Documents similaires : un lien sur chaque résultat de la page de résultats liste les fichiers au contenu proche\n- Chaque résultat est vérifié par Nextcloud selon vos droits\n- Aucune configuration : la première indexation démarre d'elle-même\n- Exclure de l'index des dossiers ou des motifs comme *.photoslibrary\n- Profils de performance : Économe par défaut, Standard et Performance après une vérification préalable du matériel\n- Modèle de recherche : int8 intégré, le fp32 plus précis se télécharge une fois sous Standard et Performance\n- Confidentialité : tout fonctionne localement, aucune télémétrie, rien ne quitte votre serveur\n- Langues de recherche : allemand et anglais par défaut, espagnol, italien, néerlandais, portugais et tchèque disponibles\n\nPasser de fulltextsearch/Elasticsearch à Findling : [étapes dans la documentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.2/docs/migrate-from-fulltextsearch.fr.md)\n\nLimites connues :\n- Espagnol : año et ano sont traités comme le même mot\n- Portugais : les graphies d'avant et d'après la réforme orthographique ne sont pas unifiées\n- Les mots composés ne sont découpés que pour l'allemand et le néerlandais\n- Le français n'a pas de chaîne d'analyse plein texte pour le contenu des documents\n- Tchèque : pas de racinisation, les formes fléchies comptent comme des mots distincts\n\nAvec le [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector), Findling forme la couche de récupération de votre propre RAG : les assistants IA cherchent dans le contenu de vos documents avec exactement les droits de l'utilisateur qui demande, et aucun contenu ne quitte votre serveur.\n\nTypes de fichiers pris en charge :\n- PDF (numérisés aussi), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, e-mails (EML)\n- Fichiers ZIP : les fichiers contenus, sans OCR\n- Images par reconnaissance optique : JPEG, PNG, TIFF, WebP, HEIC\n\nPrérequis :\n- Nextcloud 33 à 35, applications : AppAPI, Findling Backend (External Apps), Findling\n- RAM : 4 Go suffisent, 730,2 Mo résidents après une indexation, sous une limite stricte de 2 Go (mesuré)\n- CPU : 2 cœurs suffisent, amd64 et arm64\n\nSans aucune intervention, Findling continue de fonctionner aussi sobrement qu'avant. Avec plus de matériel, un profil libère au plus la moitié de la machine sur laquelle tourne le service (profil Standard) ou tout sauf un cœur (profil Performance).\n\nSupport entreprise et modules payants : demande de devis à admin@infranode.dev"
+        "description": "Was Findling kann:\n- Volltextsuche über die normale Nextcloud-Suchleiste\n- Filter nach Dateityp oder Ordner direkt in der Nextcloud-Suche\n- Texterkennung für gescannte PDFs und Bilder: zehn Sprachen verfügbar, voreingestellt sind Deutsch, Englisch und Französisch\n- Semantische Suche: findet Dokumente auch über Umschreibungen\n- Ähnliche Dokumente: ein Link an jedem Treffer der Ergebnisseite listet Dateien mit verwandtem Inhalt\n- Jeder Treffer wird von Nextcloud rechtegeprüft\n- Keine Konfiguration: der erste Indexlauf startet von selbst\n- Ordner oder Muster wie *.photoslibrary vom Index ausschließen\n- Leistungsprofile: Sparsam voreingestellt, Standard und Leistung nach einer Vorab-Prüfung der Hardware\n- Suchmodell: int8 eingebaut, das genauere fp32 unter Standard und Leistung einmalig ladbar\n- Datenschutz: alles läuft lokal, keine Telemetrie, nichts verlässt den Server\n- Suchsprachen: Deutsch und Englisch voreingestellt, Spanisch, Italienisch, Niederländisch, Portugiesisch und Tschechisch verfügbar\n\nUmstieg von fulltextsearch/Elasticsearch: [Schritte in der Dokumentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.3/docs/migrate-from-fulltextsearch.md)\n\nBekannte Grenzen:\n- Spanisch: año und ano gelten als dasselbe Wort\n- Portugiesisch: Schreibweisen vor und nach der Rechtschreibreform werden nicht vereinheitlicht\n- Zusammengesetzte Wörter werden nur für Deutsch und Niederländisch zerlegt\n- Französisch hat keine eigene Analysekette für den Dokumenttext\n- Tschechisch: keine Stammformreduktion, gebeugte Formen gelten als eigene Wörter\n\nZusammen mit dem [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector) ergibt Findling die Retrieval-Schicht für Ihr eigenes RAG: KI-Assistenten durchsuchen Ihre Dokumentinhalte mit genau den Rechten des fragenden Nutzers, und kein Inhalt verlässt Ihren Server.\n\nUnterstützte Dateitypen:\n- PDF (auch gescannt), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, Mails (EML)\n- ZIP-Dateien: die enthaltenen Dateien, ohne Texterkennung\n- Bilder per Texterkennung: JPEG, PNG, TIFF, WebP, HEIC\n\nAnforderungen:\n- Nextcloud 33 bis 35, Apps: AppAPI, Findling Backend (External Apps), Findling\n- RAM: 4 GB genügen, 730,2 MB resident nach einem Indexlauf, unter einer harten 2-GB-Grenze (gemessen)\n- CPU: 2 Kerne genügen, amd64 und arm64\n\nOhne Zutun läuft Findling unverändert sparsam wie bisher. Wer mehr Hardware hat, gibt per Profil frei: höchstens die Hälfte der Maschine, auf der das Backend läuft (Profil Standard), oder alles bis auf einen Kern (Profil Leistung).\n\nEnterprise-Support und bezahlte Add-ons: Angebot anfordern unter admin@infranode.dev"
       },
       "en": {
         "name": "Findling Search",
         "summary": "Zero-config full text, OCR and semantic search for your files",
-        "description": "What Findling does:\n- Full text search in the normal Nextcloud search bar\n- Filter by file type or folder directly in the Nextcloud search\n- OCR for scanned PDFs and images: ten languages available, German, English and French are the default\n- Semantic search: finds documents through paraphrases\n- Similar documents: a link at every hit on the results page lists files with related content\n- Every result is permission-checked by Nextcloud\n- No configuration: the first index run starts on its own\n- Exclude folders or patterns such as *.photoslibrary from the index\n- Performance profiles: Economy by default, Standard and Performance after a pre-check of the hardware\n- Search model: int8 built in, the more accurate fp32 can be downloaded once under Standard and Performance\n- Privacy: everything runs locally, no telemetry, nothing leaves your server\n- Search languages: German and English by default, Spanish, Italian, Dutch, Portuguese and Czech available\n\nSwitching from fulltextsearch/Elasticsearch: [steps in the documentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.2/docs/migrate-from-fulltextsearch.en.md)\n\nKnown limitations:\n- Spanish: año and ano are treated as the same word\n- Portuguese: spellings before and after the spelling reform are not unified\n- Compound words are split for German and Dutch only\n- French has no full text analysis chain for document text\n- Czech: no stemming, inflected forms count as separate words\n\nTogether with the [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector), Findling forms the retrieval layer for your own RAG: AI assistants search your document contents with exactly the rights of the asking user, and no content leaves your server.\n\nSupported file types:\n- PDF (scanned too), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, mails (EML)\n- ZIP files: the files inside, without OCR\n- Images through OCR: JPEG, PNG, TIFF, WebP, HEIC\n\nRequirements:\n- Nextcloud 33 to 35, apps: AppAPI, Findling Backend (External Apps), Findling\n- RAM: 4 GB is enough, 730.2 MB resident after an index run, under a hard 2 GB limit (measured)\n- CPU: 2 cores are enough, amd64 and arm64\n\nWithout any change on your side, Findling keeps running as economically as before. Anyone with more hardware can use a profile to free at most half of the machine the backend runs on (Standard profile) or everything but one core (Performance profile).\n\nEnterprise support and paid add-ons: request a quote at admin@infranode.dev"
+        "description": "What Findling does:\n- Full text search in the normal Nextcloud search bar\n- Filter by file type or folder directly in the Nextcloud search\n- OCR for scanned PDFs and images: ten languages available, German, English and French are the default\n- Semantic search: finds documents through paraphrases\n- Similar documents: a link at every hit on the results page lists files with related content\n- Every result is permission-checked by Nextcloud\n- No configuration: the first index run starts on its own\n- Exclude folders or patterns such as *.photoslibrary from the index\n- Performance profiles: Economy by default, Standard and Performance after a pre-check of the hardware\n- Search model: int8 built in, the more accurate fp32 can be downloaded once under Standard and Performance\n- Privacy: everything runs locally, no telemetry, nothing leaves your server\n- Search languages: German and English by default, Spanish, Italian, Dutch, Portuguese and Czech available\n\nSwitching from fulltextsearch/Elasticsearch: [steps in the documentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.3/docs/migrate-from-fulltextsearch.en.md)\n\nKnown limitations:\n- Spanish: año and ano are treated as the same word\n- Portuguese: spellings before and after the spelling reform are not unified\n- Compound words are split for German and Dutch only\n- French has no full text analysis chain for document text\n- Czech: no stemming, inflected forms count as separate words\n\nTogether with the [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector), Findling forms the retrieval layer for your own RAG: AI assistants search your document contents with exactly the rights of the asking user, and no content leaves your server.\n\nSupported file types:\n- PDF (scanned too), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, mails (EML)\n- ZIP files: the files inside, without OCR\n- Images through OCR: JPEG, PNG, TIFF, WebP, HEIC\n\nRequirements:\n- Nextcloud 33 to 35, apps: AppAPI, Findling Backend (External Apps), Findling\n- RAM: 4 GB is enough, 730.2 MB resident after an index run, under a hard 2 GB limit (measured)\n- CPU: 2 cores are enough, amd64 and arm64\n\nWithout any change on your side, Findling keeps running as economically as before. Anyone with more hardware can use a profile to free at most half of the machine the backend runs on (Standard profile) or everything but one core (Performance profile).\n\nEnterprise support and paid add-ons: request a quote at admin@infranode.dev"
+      },
+      "fr": {
+        "name": "Findling Recherche",
+        "summary": "Recherche plein texte, OCR et recherche sémantique sans configuration",
+        "description": "Ce que Findling sait faire :\n- Recherche plein texte dans la barre de recherche normale de Nextcloud\n- Filtre par type de fichier ou par dossier directement dans la recherche Nextcloud\n- Reconnaissance optique pour les PDF numérisés et les images : dix langues disponibles, allemand, anglais et français par défaut\n- Recherche sémantique : trouve les documents par des périphrases\n- Documents similaires : un lien sur chaque résultat de la page de résultats liste les fichiers au contenu proche\n- Chaque résultat est vérifié par Nextcloud selon vos droits\n- Aucune configuration : la première indexation démarre d'elle-même\n- Exclure de l'index des dossiers ou des motifs comme *.photoslibrary\n- Profils de performance : Économe par défaut, Standard et Performance après une vérification préalable du matériel\n- Modèle de recherche : int8 intégré, le fp32 plus précis se télécharge une fois sous Standard et Performance\n- Confidentialité : tout fonctionne localement, aucune télémétrie, rien ne quitte votre serveur\n- Langues de recherche : allemand et anglais par défaut, espagnol, italien, néerlandais, portugais et tchèque disponibles\n\nPasser de fulltextsearch/Elasticsearch à Findling : [étapes dans la documentation](https://github.com/street1983nk/nextcloud-search/blob/v1.6.3/docs/migrate-from-fulltextsearch.fr.md)\n\nLimites connues :\n- Espagnol : año et ano sont traités comme le même mot\n- Portugais : les graphies d'avant et d'après la réforme orthographique ne sont pas unifiées\n- Les mots composés ne sont découpés que pour l'allemand et le néerlandais\n- Le français n'a pas de chaîne d'analyse plein texte pour le contenu des documents\n- Tchèque : pas de racinisation, les formes fléchies comptent comme des mots distincts\n\nAvec le [Nextcloud MCP Connector](https://apps.nextcloud.com/apps/mcp_connector), Findling forme la couche de récupération de votre propre RAG : les assistants IA cherchent dans le contenu de vos documents avec exactement les droits de l'utilisateur qui demande, et aucun contenu ne quitte votre serveur.\n\nTypes de fichiers pris en charge :\n- PDF (numérisés aussi), DOC, DOCX, PPTX, XLS, XLSX, ODT, ODS, ODP\n- HTML, RTF, TXT, Markdown, CSV, e-mails (EML)\n- Fichiers ZIP : les fichiers contenus, sans OCR\n- Images par reconnaissance optique : JPEG, PNG, TIFF, WebP, HEIC\n\nPrérequis :\n- Nextcloud 33 à 35, applications : AppAPI, Findling Backend (External Apps), Findling\n- RAM : 4 Go suffisent, 730,2 Mo résidents après une indexation, sous une limite stricte de 2 Go (mesuré)\n- CPU : 2 cœurs suffisent, amd64 et arm64\n\nSans aucune intervention, Findling continue de fonctionner aussi sobrement qu'avant. Avec plus de matériel, un profil libère au plus la moitié de la machine sur laquelle tourne le service (profil Standard) ou tout sauf un cœur (profil Performance).\n\nSupport entreprise et modules payants : demande de devis à admin@infranode.dev"
       }
     },
     "isFeatured": false,
@@ -192322,29 +192596,29 @@
     "issueTracker": "https://github.com/bias-city/timesister-nextcloud/issues",
     "website": "https://bias.city/timesister",
     "created": "2026-10-02T13:12:30.071951Z",
-    "lastModified": "2026-11-11T05:12:33.610173Z",
+    "lastModified": "2026-11-11T20:52:07.570621Z",
     "releases": [
       {
-        "version": "0.47.0",
+        "version": "0.49.0",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": ">=8.2.0",
         "platformVersionSpec": ">=33.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/bias-city/timesister-nextcloud/releases/download/v0.47.0/timesister-0.47.0.tar.gz",
-        "created": "2026-11-11T05:12:33.606397Z",
+        "download": "https://github.com/bias-city/timesister-nextcloud/releases/download/v0.49.0/timesister-0.49.0.tar.gz",
+        "created": "2026-11-11T20:52:07.565358Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-11T05:12:33.656859Z",
+        "lastModified": "2026-11-11T20:52:07.621964Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.2",
         "rawPlatformVersionSpec": ">=33 <=35",
-        "signature": "VVv+43XqLm2lr7aI4aJt2gn12YOCDoX3TeiIPJ29gvbsMKlShNqOp1N87AZpYh9osRT2eyiD8Jd6hQIBdNL2iM1K+kX7vbhD9PcH1MMsZXZsXMAv9q2MFy6R+rcTGQDg6ym0E/RKd9CRrUAbmVBTmkTFS3q1aeDeT4QuyGssKrBQnAKYft0HxdSDllHoGZJnrC3aaSnVS/mD2IrdcpHdJy0cO6dvA4tT/IXAH63nvGBljmcIoRo7wZsyUEre4wDgFIV7avWbt+jzEkWjCTtVPRWCcdbpvyB//Yzi2dQePyu5mkcHjx7jYCLLl759myCpdFxFO3YIIecfeLntqRomrBFQ0h2yGEJrjXVPa1ipe7oxON43IgfQwHXxcUl4WNHQgZsBnpGnBVA4d1+SAKBSUBbPUdnD5JLCFe0H71ymdKLCdwbVt7Uxrx1SNvPhkC5ZZil4XXlzRwSbMon2rIqdE5PzJQGf9wnvv62WP4ED6oZdUrlcnWhNFObxAtQz23gku0yCRYVh7KPDnl7fvnjcJp8oFUi5xMasWlXFxz+uqYuiVpMqePx0r+Pe5coY2HStEBX4WsrbLPLQVH4cIoFGk7VEpUfQ4dWJlDm8Cr1u6RCiRvoExqBDYIO3sMNKWP+k9dQ5EvmKPA0aUiq5kS2OHkGm9MorbOSsC88QPVzupkI=",
+        "signature": "mvrhJPWV2E4bAckZpGrQkvIPHopzj2XNJIq0El/gzYUvtMQB6zmsOeJ577MerWi7Oln6s5P1HjUeXwaQAcee3dDNegbWn11iNDOelALKKKXRhhr+3YodYdtcErI2Jd/NHcJnZ7svKfdF2RT6paa/d6CIni+bwNXqHF/NPyEW9CSKdStiuYKLnAYFtNKENDs4C1Re2LAcV4CU0BhmVnQt0btGyqvxZbybQa2eSNH08N6YrGvVj99NEFBkvljjgLkhsEVpgfStKeOipvuzpavZ1P/ElheVEy/nhVJMwZEyFqz/CbnDZuHQdwR0GAIdU31PKZqwle3oqkyQLFTpzGztPhfwq8OQupsE5EVlBQNkslRUEttiHp/aXK9Mq5b6Xn5lKtkeU/51xyvUroq14Vy1uf1zH44dJFfZTA4c0JhQfubKW4zw6pBfxvxCkclKNACMz4egpCu6CePJNiVXNjcusNE1lBdnVh9y2wklmJlb1Mqe6y7aAQvlPJJybTBoneY/i/gfre9Dk1KP6Bi4jXV66xutSah10LYpOFyQZO/60ZjgBaQpjdL/f1pT/dOe2Q2NAB4so01f57WDc0W64DofM1ZBAUwOjX6Eyh49YC2Gs2k1Hw1tShuJQbWpcxEt5tPE0rDLa9d867WxrSdkZkkka3rn3mitChmeFngvWK0rHXc=",
         "translations": {
           "en": {
-            "changelog": "`api: 2` unchanged, migration 1029 adds a column\n(`ts_inv_invoices.references_json`). Additive for every client of 0.46.0.\n\n- **References live on the budget.** A budget may carry\n  `reference_blocks` – at most 10 named blocks of 1 to 6 reference lines\n  `{ kind, title, value }` (cost center, contract, order number, Leitweg-ID,\n  tender, project reference or a free one), ids unique, exactly one of them\n  the default. Work packages, cost positions and addenda name theirs with\n  `reference_block` (null: the default block, or the parent package's); an\n  id that is not a block of the budget answers `422`. Quotes' budgets are\n  checked alike.\n- **The invoice carries its copy.** A draft may carry `reference_block`\n  (where the lines came from) and `references` (at most six lines). Issuing\n  freezes the lines: `…/fixed` answers `references`, reversals and credit\n  notes copy them, and the ledger payload holds them only when there are\n  any – older entries keep their exact payload. No duty: the hint for a\n  customer that expects references is the client's.\n- **The customer's note.** A customer may carry `expects_references`\n  (true or false).\n- **Issued quotes freeze theirs.** `POST /quotes/{key}/issue` takes\n  `references` (the lines of the default block, at most six) and freezes\n  them in `issued.references`.\n- Capability `references: 1`."
+            "changelog": "`api: 2` unchanged, no migration. Additive for every client of 0.48.0.\n\n- **Personal settings page «TimeSister».** A member without the Mac app\n  names their time calendar under Settings › Personal › TimeSister: the\n  current time calendar, the account's own writable calendars (no shared-in\n  ones, no subscriptions, not the birthday calendar; the team's vacation\n  calendar shown but not offered) with «Use as time calendar», and «Stop\n  counting this calendar». The page calls `PUT`/`DELETE /me/time-calendar`\n  with the request token – the same rules as for the Mac app. Outside a\n  team it says so in one sentence."
           }
         },
         "signatureDigest": "sha512"
@@ -194556,8 +194830,33 @@
     "issueTracker": "https://github.com/nextcloud/notes/issues",
     "website": "https://github.com/nextcloud/notes",
     "created": "2016-12-13T14:20:20.033758Z",
-    "lastModified": "2026-09-15T11:33:47.651438Z",
+    "lastModified": "2026-11-11T12:56:00.539506Z",
     "releases": [
+      {
+        "version": "6.1.1",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": ">=8.2.0 <8.6.0",
+        "platformVersionSpec": ">=33.0.0 <37.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/nextcloud-releases/notes/releases/download/v6.1.1/notes-v6.1.1.tar.gz",
+        "created": "2026-11-11T12:56:00.525083Z",
+        "licenses": [
+          "AGPL-3.0-or-later"
+        ],
+        "lastModified": "2026-11-11T12:56:00.577166Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": ">=8.2 <=8.5",
+        "rawPlatformVersionSpec": ">=33 <=36",
+        "signature": "NdYOTR1czs+e3mlhNr/jbvrGRoFCOnOT1Vubfq5gLdR5lrZoGEVRW6UDi5rqAc8VCcG37D52MHQgJXbnzD9UUoO2eFBomFJ6S04rWt3YDUzjMqVGFKQLVCz7fA/tWO4yvK1e0eCvI/y3aCgRdXw4hlaUfzuIqlezlCXgOTHflEhrLOOH8jDRWz1iYR3Fz7Sk1y3TLfU9LthhOVggDBXdFfZF59lzcIvlXkvQuBCLNAIVnyviggsB8TJZmLkk9YwHolUnCXkaNydrvoaAywty/ELbkQ9cv5C+HSDRsj4Cbwu+QSGcMTnsN0FQW3eVGiM+R+In9sRKLyrAw/KI05EwM6z8sEyMkQxzsPkyo3GseTDzkszcteIKIMy7CY4Vmh6G1LrH4Zx0s6BVgBB8ezwZkwUuPkfLW8L9IahSoBL6MsR4CWRoQFQ/T2rKxT+2CnJsBbTmnfjQFwkXujz+XwxYjlh0Pd4PVfEUhDK8Lo5NMa+luIawjHWKAFeYGk6OkuRUWdDc3t8i1S1OLbXFVTs0zYajiKIXh0UZXE9GQjH1a/NeGRFGZlKZwkSSk1072fjdDC7xHjlqkFOdDUN7ZR6HfkwFbgB5z2M53imjn+KEu73p47eyDjjWWCtaVgRALfbcEhwZqffrysqySlcWOCAkhUFuqpCYhx8V0SDkd5S/RJU=",
+        "translations": {
+          "en": {
+            "changelog": "### Added\n\n* Bulk load share types [notes#1967](https://github.com/nextcloud/notes/pull/1967)\n* Add server-free unit tests for note, path and cursor logic [notes#1966](https://github.com/nextcloud/notes/pull/1966)\n* Sync api docs with code [notes#2047](https://github.com/nextcloud/notes/pull/2047)\n* Widen notes metadata integer columns [notes#2051](https://github.com/nextcloud/notes/pull/2051)\n* Set triage labels on new issues or feature requests [notes#2080](https://github.com/nextcloud/notes/pull/2080)\n* Keep the open note visible in nested categories [notes#2036](https://github.com/nextcloud/notes/pull/2036)\n\n### Fixed\n\n* Don't log concurrent meta insert as warning [notes#2115](https://github.com/nextcloud/notes/pull/2115)\n\n### Dependencies\n\n* Bump php to 8.2.35 [notes#2105](https://github.com/nextcloud/notes/pull/2105)\n* Fix npm audit [notes#2109](https://github.com/nextcloud/notes/pull/2109)\n* Fix npm audit [notes#2103](https://github.com/nextcloud/notes/pull/2103)\n* Fix npm audit [notes#2090](https://github.com/nextcloud/notes/pull/2090)\n* Fix npm audit [notes#2079](https://github.com/nextcloud/notes/pull/2079)\n* Fix npm audit [notes#2066](https://github.com/nextcloud/notes/pull/2066)\n* Update nextcloud/ocp dependency [notes#2108](https://github.com/nextcloud/notes/pull/2108)\n* Update nextcloud/ocp dependency [notes#2065](https://github.com/nextcloud/notes/pull/2065)"
+          }
+        },
+        "signatureDigest": "sha512"
+      },
       {
         "version": "6.1.0-beta.3",
         "phpExtensions": [],
@@ -194604,31 +194903,6 @@
         "translations": {
           "en": {
             "changelog": ""
-          }
-        },
-        "signatureDigest": "sha512"
-      },
-      {
-        "version": "6.1.0",
-        "phpExtensions": [],
-        "databases": [],
-        "shellCommands": [],
-        "phpVersionSpec": ">=8.2.0 <8.6.0",
-        "platformVersionSpec": ">=33.0.0 <37.0.0",
-        "minIntSize": 32,
-        "download": "https://github.com/nextcloud-releases/notes/releases/download/v6.1.0/notes-v6.1.0.tar.gz",
-        "created": "2026-09-15T11:33:47.627731Z",
-        "licenses": [
-          "AGPL-3.0-or-later"
-        ],
-        "lastModified": "2026-09-15T11:33:47.698316Z",
-        "isNightly": false,
-        "rawPhpVersionSpec": ">=8.2 <=8.5",
-        "rawPlatformVersionSpec": ">=33 <=36",
-        "signature": "jldHX+QC41hJfsGi3cLMwMUIwwfE+jGS4gUsegalSEI+gFCWRM0DCFrZeyMRtrFoAWxOEr7tOw/40kLRuNjQUmoBHsVLVby3pIWONr/Wj0HAk6fOlYr3xLGFtJ+2UZNN7o2DYejX+4BJ2HWpidXZI0W/lNRKY6D9XFGt5bBMgmOx/cgHZgYqENyU6FkWUclYTRZoIKJgNPhRX9MEQjfCpi1YFbdK8HEj5r7hnWi5nLFbS+r94IUdLQoV9d0tJujfSEtL4R0MUbwybl7bvfTl47TryLDH/COLKexBlZolsuhV2zyld+qYyzwPt2o3mzT1amidrvbf0UCyIUAyEvhS79kyzs999YihmsmtSBEuvGmaVjgKhJwmiiVd3jdbzwxU/NRb78b0+k4Watv0gNaKE1vIFkzuXuA84tb163CdJOFd+VPhpUE+I8OfcONDyd9c8nHh7D5t22I3yfyKADA05rhpoH/CxImMENU3GJicVIQkzxYZ34wdDg7lAog0q7FAO4GLY1L9ErbWhvOxk08pRyXmqUR9XHlnyhC+eeAuzlzo2oqgCXrhFMqq2nd1FyGvv4ZkEnVFOEkRw4KtQPUpUW8FQCFLXRoGVHDDOzIHslXqKElNA8K8Yt1eBjgwSGz6UIeSZ2D8weRGZZl5njNhXY8EIoTlZUYElr1Zt27mjqI=",
-        "translations": {
-          "en": {
-            "changelog": "### Added\n\n* 📚 Note template support [notes#1971](https://github.com/nextcloud/notes/pull/1971)\n* 📊 Note details tab in the sidebar [notes#1974](https://github.com/nextcloud/notes/pull/1974)\n* 🔢 Expose file versions in the sidebar [notes#1972](https://github.com/nextcloud/notes/pull/1972)\n* Setting to show last viewed note or welcome screen on start up [notes#1578](https://github.com/nextcloud/notes/pull/1578)\n* Add highlights for notes and categories [notes#1839](https://github.com/nextcloud/notes/pull/1839)\n* Setting to show/hide hidden files [notes#1541](https://github.com/nextcloud/notes/pull/1541)\n* Improve attachment storage, add attachment deletion endpoint [notes#1998](https://github.com/nextcloud/notes/pull/1998)\n* Add Nextcloud 36 support [notes#1997](https://github.com/nextcloud/notes/pull/1997)\n* 🧪 Add JS unit test setup, covering Util.js [notes#1989](https://github.com/nextcloud/notes/pull/1989)\n\n### Changed\n\n* ➕ Move \"New category\" next to the categories caption [notes#1968](https://github.com/nextcloud/notes/pull/1968)\n* Declare AGPL-3.0-or-later as SPDX identifier [notes#1992](https://github.com/nextcloud/notes/pull/1992)\n* Add playwright to .nextcloudignore [notes#1991](https://github.com/nextcloud/notes/pull/1991)\n* Add release relay job [notes#1993](https://github.com/nextcloud/notes/pull/1993)\n* Wait for the Notes API before running the Playwright tests [notes#2027](https://github.com/nextcloud/notes/pull/2027)\n* Bump version to 6.1.0-beta.3 [notes#2010](https://github.com/nextcloud/notes/pull/2010)\n* Add changelog draft for 6.1.0 (beta2 state) [notes#2002](https://github.com/nextcloud/notes/pull/2002)\n* Bump version to 6.1.0-beta.2 and generalize author info [notes#2001](https://github.com/nextcloud/notes/pull/2001)\n\n### Fixed\n\n* 🎨 Notes list design feedback: hide category label for uncategorized notes, remove divider line, right-align category names [notes#2004](https://github.com/nextcloud/notes/pull/2004)\n\n### Dependencies\n\n* Bump vue-router from 5.2.0 to 5.3.0 [notes#2009](https://github.com/nextcloud/notes/pull/2009)\n* Bump markdown-it from 15.0.0 to 15.0.1 [notes#2008](https://github.com/nextcloud/notes/pull/2008)\n* Bump vitest from 4.1.10 to 4.1.11 [notes#2005](https://github.com/nextcloud/notes/pull/2005)\n* Bump vue from 3.5.41 to 3.5.42 [notes#2006](https://github.com/nextcloud/notes/pull/2006)\n* Update nextcloud/ocp dependency [notes#2000](https://github.com/nextcloud/notes/pull/2000)\n* Update nextcloud/ocp dependency [notes#2017](https://github.com/nextcloud/notes/pull/2017)\n* Upgrade vitest and vitest coverage together [notes#2029](https://github.com/nextcloud/notes/pull/2029)\n* Fix npm audit [notes#2018](https://github.com/nextcloud/notes/pull/2018)\n* Fix npm audit [notes#2028](https://github.com/nextcloud/notes/pull/2028)"
           }
         },
         "signatureDigest": "sha512"
@@ -196897,29 +197171,29 @@
     "issueTracker": "https://github.com/julien-nc/integration_trackmania/issues",
     "website": "https://github.com/julien-nc/integration_trackmania",
     "created": "2024-04-07T17:14:03.230265Z",
-    "lastModified": "2026-11-09T01:12:17.014464Z",
+    "lastModified": "2026-11-11T13:24:45.294154Z",
     "releases": [
       {
-        "version": "2.4.0",
+        "version": "2.4.1",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=34.0.0 <37.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/julien-nc/integration_trackmania/releases/download/v2.4.0/integration_trackmania-2.4.0.tar.gz",
-        "created": "2026-11-09T01:12:17.000106Z",
+        "download": "https://github.com/julien-nc/integration_trackmania/releases/download/v2.4.1/integration_trackmania-2.4.1.tar.gz",
+        "created": "2026-11-11T13:24:45.287498Z",
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-09T01:12:17.045922Z",
+        "lastModified": "2026-11-11T13:24:45.332263Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=34 <=36",
-        "signature": "MpoEMazHfDI5GW+uAQQhd6O7ErPL2O1MMDnhzGkg5dH484rgLRUueTk9tSV/vRlEPL7a+hLZJSDFWAii8CjbfrH8ikDrCGPDQuYVwG8q19PJ+X9AMnolHiMN8WjuXktxsbvKwlTcBB6+2SlsbLtv6nJnt6N/2AaH/Xuylxbx7ajBwqVFirEebetCrMGFuVZtvv86TK1uiXFK5wJ9QEFqX4xLr07+cbkGo6li6E67ptB4W1RQoe0Uzd8lWbZbUDFKMfhee6nm9Nh+0685rYp9tCwlebEkSi4RtY0uJaMPlIvjWn3XxFvuEk31RyyOLBTeq7liG+48JGcLW3Ckufc5vQzLaBknDUVz8qkS0svRnm1SrhH3ndmgX9/DRj4WVJP1ayCJNTVinEwv8NauXSCMkBzqEoDv4CYwLM6kV4R7JlUr78p07tuhYjTXl4ITrzfwnQmc2xPVIQuqQwZvyggRms6N2eRK/RRTyJJhwfrFcBOmIu13g+1bnq22/th6xZ8E57K+iGEZXk4XhMmkfN2JampPxMDxydFEySBht7QSeEWYPEq0Gk8P+gJ+9p5MAfB/3Uzt3/L912DJ3tyK3iK9wMklBxr2ixaN5kCi0rXYlZ+nOQHSnH2qj4uxsPmFpiTF/CtM5irLNrA3aia6i5NHGDmetJYRQO0DVVTofyKy0TI=",
+        "signature": "NaipDaqL5zuByxp+hDbqbXrv1NzQjrVlDQi9g1jOFLRgHmStDLMERFwuF4TbmhhImRWOaQ06YIzsH02CWKoLZa6cUVKayRlpN1QZ0Em9kP5aWsSCsnwXghyNWzRhj/4haGJECD1Mk9XTbrtzvNABazuZdGMtNb1GxoBeo8S9rRMOtIjkC6SAPeibbNve8cAw/cN2nX+/KXG9gz5k8Dk0yaY2XLMZIghP0M5/wvPIZlzucNet5M0DX4xePh3sYHXZmdlKumk+iRYx4//DGcu8ybPLXo7cUp/ce7z/bm1JL7ZgvTF+NTujI0Rb0fg6qqAZZXDHxS8C4R7zQ9ppEGph+4QX7vJQAc2ZFBxcpJksBoNN+USkC7zjVPM9denhhJgDDNa5nbM+QFkLXRriR01Yos6KOZWPEt8W1c0ZA1HzmaonWOeSneb9/YK/bdGFWkHbvrXMCh4ihZoBFlllTS2fuz7ANmumtJs6E7o0C7if6hO1EJsNTC8oZnAMrjl+ofRFMxDIo+aB3sNuSzIBBDBVo4bvxnFGoNg9wX07D0fc4m354sOKk0gvElz0vkw3l0bvJ+dzE4usrak6wv7vpG+N5pzwp9lVxvdy/jgF+YxFK8JJ+R0b1so3qc6Ca9/EWJeSS+viaoER92tY/b9ewOk+9WiZs3BAWb3Z3utvAboiEqE=",
         "translations": {
           "en": {
-            "changelog": "### Changed\n\n- Make the world record table column disabled by default, it is now opt-in @julien-nc\n- Get score positions with parallel requests in batches of 8 @julien-nc\n- Do not fetch the favorites in the cron job as it does not use them @julien-nc\n- Wrap bulk track position DB writes in a transaction @julien-nc\n- Switch to IUserConfig @julien-nc\n- Remove leftover debug logs and the redundant app context in log calls @julien-nc\n- Ignore more files when building the release archive @julien-nc"
+            "changelog": "### Changed\n\n- Ignore even more files when building the release archive @julien-nc\n- Rename screenshots @julien-nc"
           }
         },
         "signatureDigest": "sha512"
@@ -197027,19 +197301,19 @@
     ],
     "screenshots": [
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzL3NjcmVlbnNob3QxLmpwZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzLzEuanBn",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzL3NjcmVlbnNob3QyLmpwZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzLzIuanBn",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzL3NjcmVlbnNob3QzLmpwZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzLzMuanBn",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzL3NjcmVlbnNob3Q0LmpwZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2p1bGllbi1uYy9pbnRlZ3JhdGlvbl90cmFja21hbmlhL21haW4vaW1nL3NjcmVlbnNob3RzLzQuanBn",
         "smallThumbnail": ""
       }
     ],
@@ -201184,38 +201458,38 @@
     "categories": [
       "organization"
     ],
-    "userDocs": "https://github.com/hacesoft/FamilyTree",
-    "adminDocs": "https://github.com/hacesoft/FamilyTree",
-    "developerDocs": "https://github.com/hacesoft/FamilyTree",
-    "issueTracker": "https://github.com/hacesoft/FamilyTree/issues",
-    "website": "https://github.com/hacesoft/FamilyTree",
+    "userDocs": "https://github.com/hacesoft/familytree",
+    "adminDocs": "https://github.com/hacesoft/familytree",
+    "developerDocs": "https://github.com/hacesoft/familytree",
+    "issueTracker": "https://github.com/hacesoft/familytree/issues",
+    "website": "https://github.com/hacesoft/familytree",
     "created": "2026-11-07T19:47:42.202823Z",
-    "lastModified": "2026-11-10T18:22:44.596994Z",
+    "lastModified": "2026-11-11T17:52:30.586723Z",
     "releases": [
       {
-        "version": "1.1.5",
+        "version": "1.1.6",
         "phpExtensions": [],
         "databases": [],
         "shellCommands": [],
         "phpVersionSpec": "*",
         "platformVersionSpec": ">=35.0.0 <36.0.0",
         "minIntSize": 32,
-        "download": "https://github.com/hacesoft/FamilyTree/releases/download/v1.1.5/hc_familytree-1.1.5.tar.gz",
-        "created": "2026-11-10T18:22:44.591212Z",
+        "download": "https://github.com/hacesoft/FamilyTree/releases/download/v1.1.6/hc_familytree-1.1.6.tar.gz",
+        "created": "2026-11-11T17:52:30.578872Z",
         "licenses": [
           "AGPL-3.0-or-later"
         ],
-        "lastModified": "2026-11-10T18:22:44.697377Z",
+        "lastModified": "2026-11-11T17:52:30.679299Z",
         "isNightly": false,
         "rawPhpVersionSpec": "*",
         "rawPlatformVersionSpec": ">=35 <=35",
-        "signature": "gG5N01q/YkwQPSQOSP7/NsxP7HRnGDqOCy4bQft8lbulORKP/YalROlFAIQZf1vkncGKmbZXU8g4aC7fy//jbTZUEdJTFuDWOw37CoMjvZGug3LDSq7JXk+3Gns0nk2GuLIfU1BRa1a3Use8H9Fp2awQf4lz4SB+mW+xzczRCPkM8+rhWDy7Eja+hIvDCeNJn540rWxeccgGyskt++uTVGQ/gCCuwwbXEZdX3wQAbzVMH+z1cwrrfg+mS9t5c9pBmxMN+dLIJXwzmvWNWKKc2w9deJdXueOKVM4a6uYAKiaU8+moz889dKQBImjtHnvnFhOxaf6pBMklKQWl2kASvP+wodP8ewI1DnwZi6lBWEKdQxqhYY7GSXFttClttMVWNGDHUfWRp4x/f9/K+ImG+/uhg0oeIsCyQo+IYkuv5xcq1bOwRjNZQUFMwV5e6y/GhbOwFKQv81WkmfMhFNxEUygK0vXfZ6JmYAVqglk4BCTVYXn/GKqP6yjcv4jmBFNSQ81X8lljQ6dsPilWESZ/xGdnmEVSYO3BVo3fCdZpOdz3R7/AYxNy8bvlGLEXJ8DJ24YdZRzVAC4H/y9he7bOMnWqJx9iTErc7e8vtyeotokF2wA8EEm/vG88BmypFHjVR0Zh6j1M6wym+VwJzKnu85CvI5Rw6TpgOV12IGLO2g0=",
+        "signature": "c8dT+B2tIj6yJk4AI8KRFAFu9y9byir+NHkuWm2Ji455S6JfXMmEfsE+gAg17p1LQTASMzAO0xSpxDkCIq3/JREpWv4QqqXzLVEEm60Vnr5ROes70MGEMUI8h8OZMjzvPuzRBpPaCNd3zuabt+xBJ2VICktLOUmw+mnI9JRZXCQq1shzWj8Dnlb525O5Cq0Yb/qdYkyabgKxdoo+jgQli14AQMT/lRV4kDTB7M4V+OXL2ry6rHvO3jYFhtnxgHXnUAwOpag55G6Wgwdc4XV8cM9ZHkFGJPzZ0ze1LGHw9l4SXXUdEQRl2ixhf44IfkICsoCi5tdUe7qGudqQHwVjUvmXGhvvPEkXJXs+inwt4LsaO60vqMoFu0ysMf9bvdEvVc03qa71S425OKBzMTc7Cd580Ys2eS8zka5N8f+lge70lPWipJQTF6SH7yowrNRuAatwST9cDRcMQuvOFqZ0y1bvAFyjkOJfm+QDDSs71p9XbsNQn2aLDA11EyVBD/QVZ0N+OmURpVR70k0T7zjZ9JS8kE9sQ8pe7kxosfzk8TCZ4ixvGrYs5crAfYUdwvhr1pPJrE1/abpK/Pk+FzRAYEc33u7O1pVOk4Ig5fgg9CE/9SBcYiu/7E+lXGU5pzdaTQ+CHzcMW/GsRVRLCaoYfSTkwLZk6xwXEoreDzggWgg=",
         "translations": {
           "en": {
             "changelog": ""
           },
           "cs": {
-            "changelog": "- Nové názvy URL screenshotů (`01.png`, `02.png`, `03.png`) kvůli obnovení cache App Storu; obrazová data i schválené ikony jsou beze změny.\n- Hlavní screenshot je také vlastním náhledem karty, bez malého loga.\n- Nové obrázky je nutné zveřejnit na GitHubu ještě před registrací vydání; zobrazení galerie ověřit zvlášť.\n- Bez změn ve slučovacím importu, datech a schématu."
+            "changelog": "- Screenshoty jsou nyní externě v kořenové složce `screenshot/` GitHubu a nejsou v běhové instalaci ani distribuovaných ZIPech. Metadata používají `screenshot/01.png` až `03.png`.\n- Schválená instalační ikona `img/app.svg` zůstává beze změny, doplněna kontrola SHA-256, struktury archivů a veřejných URL před publikací.\n- Beze změn rodokmenu, deníku, importu nálezů a databázového schématu."
           }
         },
         "signatureDigest": "sha512"
@@ -201223,15 +201497,15 @@
     ],
     "screenshots": [
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L0ZhbWlseVRyZWUvbWFpbi9zcmMvaW1nLzAxLnBuZw==",
-        "smallThumbnail": "https://raw.githubusercontent.com/hacesoft/FamilyTree/main/src/img/01.png"
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L2ZhbWlseXRyZWUvbWFpbi9zY3JlZW5zaG90LzAxLnBuZw==",
+        "smallThumbnail": "https://raw.githubusercontent.com/hacesoft/familytree/main/screenshot/01.png"
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L0ZhbWlseVRyZWUvbWFpbi9zcmMvaW1nLzAyLnBuZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L2ZhbWlseXRyZWUvbWFpbi9zY3JlZW5zaG90LzAyLnBuZw==",
         "smallThumbnail": ""
       },
       {
-        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L0ZhbWlseVRyZWUvbWFpbi9zcmMvaW1nLzAzLnBuZw==",
+        "url": "https://usercontent.apps.nextcloud.com/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hhY2Vzb2Z0L2ZhbWlseXRyZWUvbWFpbi9zY3JlZW5zaG90LzAzLnBuZw==",
         "smallThumbnail": ""
       }
     ],
@@ -201240,12 +201514,12 @@
       "en": {
         "name": "FamilyTree",
         "summary": "Private family trees in Nextcloud with relationships, photos, sources and GEDCOM 7 import.",
-        "description": "# FamilyTree\n\nKeep family history in your own Nextcloud instance. Create, explore and share family trees without publishing personal records to an external service.\n\n## Features\n- Interactive family trees, people, relatives and events\n- Photos, documents, sources, citations and research notes\n- FamilySearch GEDCOM 7 and GEDZIP import with research records\n- Access-controlled sharing with other Nextcloud users\n- Responsive layout with multilingual interface\n\n## Installation\nInstall the signed official release from Nextcloud Apps. For developers/testers only, the source repository provides a Docker install.sh.\n\n## Requirements\n- Nextcloud 35\n- Hacesoft Shared App Core 0.18.8 or newer, installed and enabled\n\n## Documentation\nhttps://github.com/hacesoft/FamilyTree"
+        "description": "# FamilyTree\n\nKeep family history in your own Nextcloud instance. Create, explore and share family trees without publishing personal records to an external service.\n\n## Features\n- Interactive family trees, people, relatives and events\n- Photos, documents, sources, citations and research notes\n- FamilySearch GEDCOM 7 and GEDZIP import with research records\n- Access-controlled sharing with other Nextcloud users\n- Responsive layout with multilingual interface\n\n## Installation\nInstall the signed official release from Nextcloud Apps. For developers/testers only, the source repository provides a Docker install.sh.\n\n## Requirements\n- Nextcloud 35\n- Hacesoft Shared App Core 0.18.8 or newer, installed and enabled\n\n## Documentation\nhttps://github.com/hacesoft/familytree"
       },
       "cs": {
         "name": "Rodokmen",
         "summary": "Soukromé rodokmeny v Nextcloudu: vztahy, fotografie, prameny a import GEDCOM 7.",
-        "description": "# Rodokmen\n\nSpráva a sdílení rodinné historie na vlastním Nextcloudu bez zveřejňování osobních záznamů na externích službách.\n\n## Funkce\n- Interaktivní rodokmeny, osoby, příbuzenské vztahy a události\n- Fotografie, dokumenty, prameny, citace a badatelské poznámky\n- Import FamilySearch GEDCOM 7 a GEDZIP\n- Sdílení s oprávněními pro další uživatele Nextcloudu\n- Responzivní vícejazyčné rozhraní\n\n## Instalace\nBěžná instalace: podepsané oficiální vydání přímo přes Aplikace v Nextcloudu. Zdrojový skript install.sh je pouze pro vývojáře a testery Dockeru.\n\n## Požadavky\n- Nextcloud 35\n- Hacesoft Shared App Core 0.18.8 nebo novější\n\n## Dokumentace\nhttps://github.com/hacesoft/FamilyTree"
+        "description": "# Rodokmen\n\nSpráva a sdílení rodinné historie na vlastním Nextcloudu bez zveřejňování osobních záznamů na externích službách.\n\n## Funkce\n- Interaktivní rodokmeny, osoby, příbuzenské vztahy a události\n- Fotografie, dokumenty, prameny, citace a badatelské poznámky\n- Import FamilySearch GEDCOM 7 a GEDZIP\n- Sdílení s oprávněními pro další uživatele Nextcloudu\n- Responzivní vícejazyčné rozhraní\n\n## Instalace\nBěžná instalace: podepsané oficiální vydání přímo přes Aplikace v Nextcloudu. Zdrojový skript install.sh je pouze pro vývojáře a testery Dockeru.\n\n## Požadavky\n- Nextcloud 35\n- Hacesoft Shared App Core 0.18.8 nebo novější\n\n## Dokumentace\nhttps://github.com/hacesoft/familytree"
       },
       "es": {
         "name": "Árbol genealógico",
@@ -209315,7 +209589,7 @@
     "issueTracker": "https://github.com/Fonds-Europe/nextcloud-fefs-cockpit/issues",
     "website": "https://github.com/Fonds-Europe/nextcloud-fefs-cockpit",
     "created": "null",
-    "lastModified": "2026-11-11T09:01:46.274Z",
+    "lastModified": "2026-11-12T09:31:17.630Z",
     "releases": [
       {
         "version": "null",
@@ -209330,7 +209604,7 @@
         "licenses": [
           "agpl"
         ],
-        "lastModified": "2026-11-11T09:01:46.274Z",
+        "lastModified": "2026-11-12T09:31:17.630Z",
         "isNightly": false,
         "rawPhpVersionSpec": ">=8.1",
         "rawPlatformVersionSpec": ">=28 <32",
